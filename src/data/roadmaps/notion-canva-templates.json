@@ -1,0 +1,433 @@
+{
+  "hustle_slug": "notion-canva-templates",
+  "total_weeks": 12,
+  "weekly_metrics": ["listings", "views", "sales"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "First template", "pl": "Pierwszy szablon" },
+      "goal": {
+        "en": "Choose an audience with a clear problem and build one template that solves it.",
+        "pl": "Wybierz grupę z konkretnym problemem i zbuduj jeden szablon, który go rozwiązuje."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick an audience and one problem", "pl": "Wybierz grupę odbiorców i jeden problem" },
+          "why": {
+            "en": "‘Productivity template’ is too broad to sell. ‘Client tracker for freelance designers’ tells buyers instantly it's for them.",
+            "pl": "„Szablon produktywności” jest zbyt ogólny, by się sprzedać. „Tracker klientów dla freelance'owych grafików” od razu mówi kupującym, że to dla nich."
+          },
+          "instructions": {
+            "en": [
+              "List 5 groups you understand (students, freelancers, small shops, content creators, job seekers).",
+              "For each, write the most annoying thing they organize by hand.",
+              "Browse the Notion template gallery and Gumroad to see what already sells for them.",
+              "Pick one audience and one problem."
+            ],
+            "pl": [
+              "Wypisz 5 grup, które rozumiesz (studenci, freelancerzy, małe sklepy, twórcy treści, osoby szukające pracy).",
+              "Przy każdej zapisz najbardziej uciążliwą rzecz, którą organizują ręcznie.",
+              "Przejrzyj galerię szablonów Notion i Gumroad, żeby zobaczyć, co już się dla nich sprzedaje.",
+              "Wybierz jedną grupę i jeden problem."
+            ]
+          },
+          "metric_to_track": { "en": "Audience and problem chosen", "pl": "Wybrana grupa i problem" },
+          "resources": [
+            { "title": { "en": "Notion template gallery", "pl": "Galeria szablonów Notion" }, "url": "https://www.notion.com/templates" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 40,
+          "est_minutes": 240,
+          "title": { "en": "Build your first template", "pl": "Zbuduj pierwszy szablon" },
+          "why": {
+            "en": "A template people love is simple, clearly labeled and ready to use in 5 minutes. That's what earns reviews and repeat buyers.",
+            "pl": "Szablon, który ludzie kochają, jest prosty, czytelnie opisany i gotowy do użycia w 5 minut. To on zbiera opinie i powracających klientów."
+          },
+          "instructions": {
+            "en": [
+              "Build it in Notion (databases, views, buttons) or Canva (editable designs), depending on your audience.",
+              "Add a ‘Start here’ page with 3–5 short setup instructions.",
+              "Fill it with realistic sample data so buyers see how it works.",
+              "Ask one person from your audience to try it and note where they get stuck."
+            ],
+            "pl": [
+              "Zbuduj go w Notion (bazy danych, widoki, przyciski) albo w Canvie (edytowalne projekty), zależnie od odbiorców.",
+              "Dodaj stronę „Zacznij tutaj” z 3–5 krótkimi instrukcjami.",
+              "Wypełnij go realistycznymi przykładowymi danymi, by kupujący widzieli, jak działa.",
+              "Poproś jedną osobę z grupy docelowej o test i zanotuj, gdzie się zacina."
+            ]
+          },
+          "metric_to_track": { "en": "Template finished and tested", "pl": "Szablon gotowy i przetestowany" },
+          "resources": [
+            { "title": { "en": "Canva content license", "pl": "Licencja na treści Canva" }, "url": "https://www.canva.com/policies/content-license-agreement/" }
+          ],
+          "tools": [
+            { "name": "Notion", "url": "https://www.notion.com", "affiliate": false },
+            { "name": "Canva", "url": "https://www.canva.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Set up your Gumroad store", "pl": "Załóż sklep na Gumroad" },
+          "why": {
+            "en": "Gumroad lets you sell digital products with no monthly fee and delivers files automatically after payment.",
+            "pl": "Gumroad pozwala sprzedawać produkty cyfrowe bez abonamentu i automatycznie dostarcza pliki po płatności."
+          },
+          "instructions": {
+            "en": [
+              "Create a Gumroad account and connect a payout method.",
+              "Add a profile photo, short bio and a link to your social account.",
+              "Check which fees apply per sale so you can price correctly."
+            ],
+            "pl": [
+              "Załóż konto na Gumroad i podłącz metodę wypłat.",
+              "Dodaj zdjęcie profilowe, krótkie bio i link do swojego konta w social mediach.",
+              "Sprawdź, jakie opłaty obowiązują przy sprzedaży, żeby dobrze ustalić cenę."
+            ]
+          },
+          "metric_to_track": { "en": "Store ready", "pl": "Sklep gotowy" },
+          "resources": [],
+          "tools": [{ "name": "Gumroad", "url": "https://gumroad.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Create preview images and a demo", "pl": "Przygotuj grafiki podglądu i demo" },
+          "why": {
+            "en": "Buyers decide in seconds. Clean previews and a 30-second demo show the value better than any description.",
+            "pl": "Kupujący decydują w kilka sekund. Czytelne podglądy i 30-sekundowe demo pokazują wartość lepiej niż opis."
+          },
+          "instructions": {
+            "en": [
+              "Take screenshots of the key views and place them on clean branded backgrounds in Canva.",
+              "Record a short screen video walking through the template.",
+              "Make a cover image with the result the buyer gets, e.g. ‘Never lose track of a client again’."
+            ],
+            "pl": [
+              "Zrób zrzuty kluczowych widoków i umieść je na czystych tłach w Canvie.",
+              "Nagraj krótki film z ekranu, pokazujący szablon.",
+              "Przygotuj okładkę z efektem dla kupującego, np. „Już nigdy nie zgubisz klienta”."
+            ]
+          },
+          "metric_to_track": { "en": "Preview images ready", "pl": "Gotowe grafiki podglądu" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "Launch", "pl": "Start sprzedaży" },
+      "goal": {
+        "en": "Publish your template, give away a free version and start posting about it.",
+        "pl": "Opublikuj szablon, rozdaj darmową wersję i zacznij o nim publikować."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Publish your template for sale", "pl": "Wystaw szablon na sprzedaż" },
+          "why": {
+            "en": "A live product page lets you test price and message with real people.",
+            "pl": "Aktywna strona produktu pozwala testować cenę i przekaz na prawdziwych ludziach."
+          },
+          "instructions": {
+            "en": [
+              "Create a Gumroad product with your cover, previews and demo video.",
+              "Write the description as: problem, what's inside, who it's for, how to start.",
+              "Deliver a Notion ‘duplicate’ link or Canva template link inside a short PDF.",
+              "Start with a simple launch price and publish."
+            ],
+            "pl": [
+              "Utwórz produkt na Gumroad z okładką, podglądami i filmem demo.",
+              "Napisz opis w kolejności: problem, zawartość, dla kogo, jak zacząć.",
+              "Dostarcz link do duplikacji w Notion lub link do szablonu Canva w krótkim PDF-ie.",
+              "Zacznij od prostej ceny premierowej i opublikuj."
+            ]
+          },
+          "metric_to_track": { "en": "Products listed", "pl": "Produkty w ofercie" },
+          "resources": [],
+          "tools": [{ "name": "Gumroad", "url": "https://gumroad.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Make a free mini version", "pl": "Zrób darmową mini wersję" },
+          "why": {
+            "en": "A free template collects emails and builds trust. Many buyers try the free one before paying for the full one.",
+            "pl": "Darmowy szablon zbiera adresy e-mail i buduje zaufanie. Wielu kupujących najpierw testuje darmową wersję."
+          },
+          "instructions": {
+            "en": [
+              "Strip your template down to its single most useful part.",
+              "Publish it on Gumroad at $0+ (pay what you want) so you collect emails.",
+              "Inside it, add a clear link to the full version."
+            ],
+            "pl": [
+              "Zostaw z szablonu tylko jego najbardziej przydatną część.",
+              "Opublikuj ją na Gumroad za 0+ $ (płać, ile chcesz), by zbierać e-maile.",
+              "W środku dodaj wyraźny link do pełnej wersji."
+            ]
+          },
+          "metric_to_track": { "en": "Free downloads", "pl": "Darmowe pobrania" },
+          "resources": [],
+          "tools": [{ "name": "Gumroad", "url": "https://gumroad.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Post 5 pieces of content about it", "pl": "Opublikuj 5 treści o szablonie" },
+          "why": {
+            "en": "Template sellers who show their templates in action on TikTok, Instagram or YouTube get most of their sales from there.",
+            "pl": "Sprzedawcy, którzy pokazują szablony w akcji na TikToku, Instagramie czy YouTube, stamtąd mają większość sprzedaży."
+          },
+          "instructions": {
+            "en": [
+              "Record 5 short screen videos: a before/after, a quick tour, a tip, a setup, a ‘how I organize…’.",
+              "Post them on one platform where your audience already is.",
+              "Put your free template link in your bio."
+            ],
+            "pl": [
+              "Nagraj 5 krótkich filmów z ekranu: przed/po, szybki przegląd, wskazówka, konfiguracja, „jak organizuję…”.",
+              "Opublikuj je na jednej platformie, na której są Twoi odbiorcy.",
+              "Umieść link do darmowego szablonu w bio."
+            ]
+          },
+          "metric_to_track": { "en": "Views", "pl": "Wyświetlenia" },
+          "resources": [],
+          "tools": [{ "name": "CapCut", "url": "https://www.capcut.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Set up simple money tracking", "pl": "Ustaw proste śledzenie pieniędzy" },
+          "why": {
+            "en": "Knowing your weekly revenue, fees and costs keeps you honest about what works.",
+            "pl": "Znajomość tygodniowych przychodów, opłat i kosztów pokazuje uczciwie, co działa."
+          },
+          "instructions": {
+            "en": [
+              "Create a sheet with: date, product, price, fees, profit.",
+              "Update it before each weekly check-in.",
+              "Check how side income is taxed where you live, and set aside part of your profit."
+            ],
+            "pl": [
+              "Utwórz arkusz: data, produkt, cena, opłaty, zysk.",
+              "Aktualizuj go przed każdym cotygodniowym podsumowaniem.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. działalność nierejestrowana), i odkładaj część zysku."
+            ]
+          },
+          "metric_to_track": { "en": "Weekly profit", "pl": "Zysk tygodniowy" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Traction", "pl": "Pierwsze efekty" },
+      "goal": {
+        "en": "Grow to 3 paid templates and improve your product pages with real feedback.",
+        "pl": "Dojdź do 3 płatnych szablonów i popraw strony produktów na podstawie opinii."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 60,
+          "est_minutes": 360,
+          "title": { "en": "Build 2 more templates", "pl": "Zbuduj 2 kolejne szablony" },
+          "why": {
+            "en": "Each new template for the same audience makes every visitor more likely to buy something.",
+            "pl": "Każdy nowy szablon dla tej samej grupy zwiększa szansę, że odwiedzający coś kupi."
+          },
+          "instructions": {
+            "en": [
+              "Ask buyers and free users what they wish your template also did.",
+              "Build the 2 most requested ideas.",
+              "Publish them with the same page structure as your first product."
+            ],
+            "pl": [
+              "Zapytaj kupujących i użytkowników darmowej wersji, czego jeszcze brakuje w szablonie.",
+              "Zbuduj 2 najczęściej zgłaszane pomysły.",
+              "Opublikuj je z taką samą strukturą strony jak pierwszy produkt."
+            ]
+          },
+          "metric_to_track": { "en": "Products listed", "pl": "Produkty w ofercie" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Improve your product page", "pl": "Popraw stronę produktu" },
+          "why": {
+            "en": "If people visit but don't buy, the page isn't answering their questions yet.",
+            "pl": "Jeśli ludzie odwiedzają, ale nie kupują, strona jeszcze nie odpowiada na ich pytania."
+          },
+          "instructions": {
+            "en": [
+              "Check views vs sales in Gumroad for each product.",
+              "Add an FAQ answering the questions people message you about.",
+              "Test a new cover image or headline for 2 weeks."
+            ],
+            "pl": [
+              "Sprawdź w Gumroad stosunek wyświetleń do sprzedaży każdego produktu.",
+              "Dodaj FAQ z odpowiedziami na pytania, które dostajesz w wiadomościach.",
+              "Przez 2 tygodnie testuj nową okładkę lub nagłówek."
+            ]
+          },
+          "metric_to_track": { "en": "Views to sales rate", "pl": "Konwersja wyświetleń na sprzedaż" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Email your free users", "pl": "Napisz do użytkowników darmowej wersji" },
+          "why": {
+            "en": "People who downloaded your free template already trust you. A short, useful email often brings the first sales.",
+            "pl": "Osoby, które pobrały darmowy szablon, już Ci ufają. Krótki, przydatny e-mail często przynosi pierwsze sprzedaże."
+          },
+          "instructions": {
+            "en": [
+              "Write one email with a practical tip for using the free template.",
+              "Mention the full version and what extra it solves.",
+              "Send it through Gumroad's email feature to your followers."
+            ],
+            "pl": [
+              "Napisz jeden e-mail z praktyczną wskazówką dotyczącą darmowego szablonu.",
+              "Wspomnij o pełnej wersji i o tym, co dodatkowo rozwiązuje.",
+              "Wyślij go obserwującym przez funkcję e-mail w Gumroad."
+            ]
+          },
+          "metric_to_track": { "en": "Sales from email", "pl": "Sprzedaż z e-maili" },
+          "resources": [],
+          "tools": [{ "name": "Gumroad", "url": "https://gumroad.com", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Scale", "pl": "Skalowanie" },
+      "goal": {
+        "en": "Bundle your templates, add another sales channel and post on a steady schedule.",
+        "pl": "Połącz szablony w pakiet, dodaj kolejny kanał sprzedaży i publikuj regularnie."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Create a bundle", "pl": "Stwórz pakiet" },
+          "why": {
+            "en": "A bundle raises your average order and gives buyers an easy ‘get everything’ choice.",
+            "pl": "Pakiet podnosi średnią wartość zamówienia i daje kupującym łatwy wybór „biorę wszystko”."
+          },
+          "instructions": {
+            "en": [
+              "Combine all your templates into one product.",
+              "Price it below the total of the individual products.",
+              "Offer it as an upgrade on each single product page."
+            ],
+            "pl": [
+              "Połącz wszystkie szablony w jeden produkt.",
+              "Ustal cenę niższą niż suma pojedynczych produktów.",
+              "Proponuj go jako ulepszenie na stronie każdego produktu."
+            ]
+          },
+          "metric_to_track": { "en": "Bundle sales", "pl": "Sprzedaż pakietów" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "List your templates on a second marketplace", "pl": "Wystaw szablony na drugim marketplace" },
+          "why": {
+            "en": "Etsy and the Notion marketplace have buyers who never visit Gumroad. Same product, new audience.",
+            "pl": "Na Etsy i w marketplace Notion są kupujący, którzy nie zaglądają na Gumroad. Ten sam produkt, nowi odbiorcy."
+          },
+          "instructions": {
+            "en": [
+              "Choose Etsy or the Notion template gallery as your second channel.",
+              "Reuse your images and adapt titles to how people search there.",
+              "Track which channel brings more sales per hour spent."
+            ],
+            "pl": [
+              "Wybierz Etsy lub galerię szablonów Notion jako drugi kanał.",
+              "Wykorzystaj te same grafiki i dopasuj tytuły do tego, jak tam się wyszukuje.",
+              "Sprawdzaj, który kanał daje więcej sprzedaży na godzinę pracy."
+            ]
+          },
+          "metric_to_track": { "en": "Sales per channel", "pl": "Sprzedaż w kanale" },
+          "resources": [
+            { "title": { "en": "Notion template gallery", "pl": "Galeria szablonów Notion" }, "url": "https://www.notion.com/templates" }
+          ],
+          "tools": [{ "name": "Etsy", "url": "https://www.etsy.com/sell", "affiliate": false }]
+        },
+        {
+          "id": "p4s3",
+          "xp": 50,
+          "est_minutes": 90,
+          "title": { "en": "Build a weekly content routine", "pl": "Ustal cotygodniowy rytm publikacji" },
+          "why": {
+            "en": "Template sales follow attention. A steady 3-posts-a-week routine beats occasional viral hits.",
+            "pl": "Sprzedaż szablonów idzie za uwagą. Stały rytm 3 postów tygodniowo wygrywa z okazjonalnymi viralami."
+          },
+          "instructions": {
+            "en": [
+              "Pick 3 fixed posting days.",
+              "Batch-record a week of short videos in one session.",
+              "Repost your best-performing video on a second platform."
+            ],
+            "pl": [
+              "Wybierz 3 stałe dni publikacji.",
+              "Nagrywaj tygodniową porcję krótkich filmów podczas jednej sesji.",
+              "Najlepszy film opublikuj też na drugiej platformie."
+            ]
+          },
+          "metric_to_track": { "en": "Posts published", "pl": "Opublikowane posty" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$200 / month", "pl": "0–200 $ / mies." },
+      "note": { "en": "Sales follow content. Expect a slow start while you build an audience.", "pl": "Sprzedaż idzie za treściami. Spodziewaj się powolnego startu, zanim zbudujesz publiczność." }
+    },
+    {
+      "label": { "en": "Months 4–6", "pl": "Miesiące 4–6" },
+      "range": { "en": "$100–$600 / month", "pl": "100–600 $ / mies." },
+      "note": { "en": "Several templates plus a bundle for one audience.", "pl": "Kilka szablonów i pakiet dla jednej grupy odbiorców." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$200–$1,500 / month", "pl": "200–1500 $ / mies." },
+      "note": { "en": "Typical for sellers who post consistently and sell on 2+ channels.", "pl": "Typowe dla sprzedawców publikujących regularnie w 2+ kanałach." }
+    }
+  ]
+}

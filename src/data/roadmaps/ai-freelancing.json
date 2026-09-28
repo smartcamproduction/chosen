@@ -1,0 +1,430 @@
+{
+  "hustle_slug": "ai-freelancing",
+  "total_weeks": 12,
+  "weekly_metrics": ["proposals_sent", "clients", "reviews"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Offer & portfolio", "pl": "Oferta i portfolio" },
+      "goal": {
+        "en": "Pick one clear service, build 3 portfolio samples and set up your profiles.",
+        "pl": "Wybierz jedną konkretną usługę, przygotuj 3 próbki do portfolio i załóż profile."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick one service for one type of client", "pl": "Wybierz jedną usługę dla jednego typu klienta" },
+          "why": {
+            "en": "Clients hire specialists. ‘Product descriptions for Shopify stores’ wins more jobs than ‘writer for anything’.",
+            "pl": "Klienci zatrudniają specjalistów. „Opisy produktów dla sklepów Shopify” wygrywa więcej zleceń niż „piszę wszystko”."
+          },
+          "instructions": {
+            "en": [
+              "List services you can deliver well with AI tools (copywriting, translation, design, video editing, research).",
+              "Search Fiverr and Upwork for each and note demand and typical prices.",
+              "Pick one service and one client type you understand."
+            ],
+            "pl": [
+              "Wypisz usługi, które dobrze wykonasz z pomocą AI (copywriting, tłumaczenia, grafika, montaż, research).",
+              "Wyszukaj każdą na Fiverr i Upwork i zanotuj popyt oraz typowe ceny.",
+              "Wybierz jedną usługę i jeden typ klienta, który rozumiesz."
+            ]
+          },
+          "metric_to_track": { "en": "Service chosen", "pl": "Wybrana usługa" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Create 3 portfolio samples", "pl": "Przygotuj 3 próbki do portfolio" },
+          "why": {
+            "en": "Clients buy what they can see. Three strong samples for your target client beat any description of your skills.",
+            "pl": "Klienci kupują to, co widzą. Trzy mocne próbki dla docelowego klienta są lepsze niż każdy opis umiejętności."
+          },
+          "instructions": {
+            "en": [
+              "Pick 3 realistic tasks your target client would pay for.",
+              "Use AI to speed up drafts, then edit carefully so the result is accurate and sounds human.",
+              "Show before/after or explain the result each sample would bring."
+            ],
+            "pl": [
+              "Wybierz 3 realistyczne zadania, za które zapłaciłby Twój klient.",
+              "Używaj AI do przyspieszenia szkiców, a potem starannie redaguj, by wynik był poprawny i brzmiał naturalnie.",
+              "Pokaż przed/po lub wyjaśnij efekt, jaki dałaby każda próbka."
+            ]
+          },
+          "metric_to_track": { "en": "Samples ready", "pl": "Gotowe próbki" },
+          "resources": [],
+          "tools": [
+            { "name": "Claude", "url": "https://claude.ai", "affiliate": false },
+            { "name": "Canva", "url": "https://www.canva.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Set up your Fiverr and Upwork profiles", "pl": "Załóż profile na Fiverr i Upwork" },
+          "why": {
+            "en": "A focused profile with a clear headline and samples makes clients trust a new freelancer.",
+            "pl": "Skupiony profil z czytelnym nagłówkiem i próbkami sprawia, że klienci ufają nowemu freelancerowi."
+          },
+          "instructions": {
+            "en": [
+              "Use a friendly, clear profile photo.",
+              "Write a headline with your service and client type (e.g. ‘SEO product descriptions for Shopify stores’).",
+              "Add your 3 samples to the portfolio sections.",
+              "Complete every profile field; complete profiles rank better in search."
+            ],
+            "pl": [
+              "Dodaj przyjazne, wyraźne zdjęcie profilowe.",
+              "Napisz nagłówek z usługą i typem klienta (np. „Opisy produktów SEO dla sklepów Shopify”).",
+              "Dodaj 3 próbki do sekcji portfolio.",
+              "Uzupełnij każde pole profilu; pełne profile są wyżej w wynikach."
+            ]
+          },
+          "metric_to_track": { "en": "Profiles live", "pl": "Aktywne profile" },
+          "resources": [
+            { "title": { "en": "Upwork Help Center", "pl": "Centrum pomocy Upwork (ang.)" }, "url": "https://support.upwork.com" }
+          ],
+          "tools": [
+            { "name": "Fiverr", "url": "https://www.fiverr.com", "affiliate": false },
+            { "name": "Upwork", "url": "https://www.upwork.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Define your quality process", "pl": "Ustal proces kontroli jakości" },
+          "why": {
+            "en": "AI makes you fast, but reviews depend on quality. A checklist protects your reputation on every job.",
+            "pl": "AI przyspiesza pracę, ale opinie zależą od jakości. Checklista chroni reputację przy każdym zleceniu."
+          },
+          "instructions": {
+            "en": [
+              "Write a 5-point checklist: facts checked, brief followed, tone matched, formatting clean, spelling checked.",
+              "Never paste clients' confidential data into AI tools without their permission.",
+              "Be honest with clients about how you use AI if they ask."
+            ],
+            "pl": [
+              "Napisz 5-punktową checklistę: sprawdzone fakty, zgodność z briefem, dopasowany ton, czyste formatowanie, poprawna pisownia.",
+              "Nie wklejaj poufnych danych klientów do narzędzi AI bez ich zgody.",
+              "Jeśli klient zapyta, mów szczerze, jak korzystasz z AI."
+            ]
+          },
+          "metric_to_track": { "en": "Checklist ready", "pl": "Gotowa checklista" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First clients", "pl": "Pierwsi klienci" },
+      "goal": {
+        "en": "Publish your offer, send tailored proposals and land your first 1–3 clients.",
+        "pl": "Opublikuj ofertę, wysyłaj dopasowane propozycje i zdobądź pierwszych 1–3 klientów."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Publish a gig with 3 packages", "pl": "Opublikuj usługę w 3 pakietach" },
+          "why": {
+            "en": "Three packages (basic, standard, premium) let clients choose and often pick the middle one.",
+            "pl": "Trzy pakiety (podstawowy, standardowy, premium) pozwalają wybierać, a klienci często biorą środkowy."
+          },
+          "instructions": {
+            "en": [
+              "Create a Fiverr gig with a clear title, your samples and 3 packages.",
+              "Start slightly below market prices to win first reviews.",
+              "Use a gig image that shows the result, not just your name."
+            ],
+            "pl": [
+              "Utwórz usługę na Fiverr z jasnym tytułem, próbkami i 3 pakietami.",
+              "Zacznij od cen nieco poniżej rynku, by zdobyć pierwsze opinie.",
+              "Użyj grafiki pokazującej efekt, a nie tylko Twoje imię."
+            ]
+          },
+          "metric_to_track": { "en": "Gig live", "pl": "Aktywna usługa" },
+          "resources": [],
+          "tools": [{ "name": "Fiverr", "url": "https://www.fiverr.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s2",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Send 10 tailored proposals", "pl": "Wyślij 10 dopasowanych propozycji" },
+          "why": {
+            "en": "Generic proposals get ignored. Mentioning the client's exact problem and a relevant sample gets replies.",
+            "pl": "Ogólne propozycje są ignorowane. Nawiązanie do konkretnego problemu klienta i trafnej próbki daje odpowiedzi."
+          },
+          "instructions": {
+            "en": [
+              "Find 10 fresh Upwork jobs that match your service exactly.",
+              "Open each proposal with the client's goal in your own words.",
+              "Link one relevant sample and suggest a clear first step.",
+              "Keep it under 150 words."
+            ],
+            "pl": [
+              "Znajdź 10 świeżych zleceń na Upwork dokładnie pasujących do usługi.",
+              "Zaczynaj każdą propozycję od celu klienta własnymi słowami.",
+              "Podlinkuj jedną trafną próbkę i zaproponuj jasny pierwszy krok.",
+              "Zmieść się w 150 słowach."
+            ]
+          },
+          "metric_to_track": { "en": "Proposals sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": [{ "name": "Upwork", "url": "https://www.upwork.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 50,
+          "est_minutes": 120,
+          "title": { "en": "Overdeliver on your first job", "pl": "Przekrocz oczekiwania przy pierwszym zleceniu" },
+          "why": {
+            "en": "Your first reviews decide how fast you grow. A delighted first client is worth more than the fee.",
+            "pl": "Pierwsze opinie decydują o tempie rozwoju. Zachwycony pierwszy klient jest wart więcej niż wynagrodzenie."
+          },
+          "instructions": {
+            "en": [
+              "Confirm the brief in writing before you start.",
+              "Deliver early, with a short note explaining your choices.",
+              "Ask politely for a review once the client is happy."
+            ],
+            "pl": [
+              "Potwierdź brief na piśmie przed rozpoczęciem.",
+              "Oddaj pracę przed terminem z krótką notatką wyjaśniającą decyzje.",
+              "Gdy klient jest zadowolony, uprzejmie poproś o opinię."
+            ]
+          },
+          "metric_to_track": { "en": "Paying clients", "pl": "Płacący klienci" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Track income, fees and taxes", "pl": "Śledź dochody, opłaty i podatki" },
+          "why": {
+            "en": "Platforms take a fee from each job. Knowing your real hourly rate shows when to raise prices.",
+            "pl": "Platformy pobierają opłatę od każdego zlecenia. Znajomość realnej stawki godzinowej pokazuje, kiedy podnieść ceny."
+          },
+          "instructions": {
+            "en": [
+              "Log each job: client, price, platform fee, hours, net per hour.",
+              "Update it before each weekly check-in.",
+              "Check how freelance income is taxed where you live."
+            ],
+            "pl": [
+              "Zapisuj każde zlecenie: klient, cena, opłata platformy, godziny, zarobek netto na godzinę.",
+              "Aktualizuj zapis przed każdym cotygodniowym podsumowaniem.",
+              "Sprawdź, jak rozlicza się dochody z freelancingu w Twoim kraju (w Polsce np. działalność nierejestrowana)."
+            ]
+          },
+          "metric_to_track": { "en": "Net per hour", "pl": "Zarobek netto na godzinę" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Momentum", "pl": "Rozpęd" },
+      "goal": {
+        "en": "Keep a steady flow of proposals, collect reviews and raise your prices.",
+        "pl": "Utrzymuj stały napływ propozycji, zbieraj opinie i podnieś ceny."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Send 20 more proposals", "pl": "Wyślij 20 kolejnych propozycji" },
+          "why": {
+            "en": "Freelancing is a numbers game at the start. Volume plus quality lands steady work.",
+            "pl": "Na początku freelancing to gra liczb. Ilość połączona z jakością daje stałe zlecenia."
+          },
+          "instructions": {
+            "en": [
+              "Set a daily target of 2–3 proposals.",
+              "Save your best-performing opening lines as templates, but always personalize.",
+              "Track reply rate and adjust what doesn't work."
+            ],
+            "pl": [
+              "Ustal dzienny cel 2–3 propozycji.",
+              "Zapisuj najlepiej działające otwarcia jako szablony, ale zawsze je personalizuj.",
+              "Śledź odsetek odpowiedzi i zmieniaj to, co nie działa."
+            ]
+          },
+          "metric_to_track": { "en": "Proposals sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 40,
+          "est_minutes": 30,
+          "title": { "en": "Raise your prices", "pl": "Podnieś ceny" },
+          "why": {
+            "en": "After 3–5 good reviews, you're no longer a beginner on the platform. Your prices should reflect that.",
+            "pl": "Po 3–5 dobrych opiniach masz już ugruntowaną pozycję na platformie. Ceny powinny to odzwierciedlać."
+          },
+          "instructions": {
+            "en": [
+              "Raise package prices by 20–30%.",
+              "Keep existing clients on their current rate for a while if you want to retain them.",
+              "Watch whether orders drop, and adjust after 2 weeks."
+            ],
+            "pl": [
+              "Podnieś ceny pakietów o 20–30%.",
+              "Obecnym klientom możesz przez jakiś czas zostawić dotychczasową stawkę.",
+              "Obserwuj, czy zamówień nie ubywa, i dostosuj po 2 tygodniach."
+            ]
+          },
+          "metric_to_track": { "en": "Average job value", "pl": "Średnia wartość zlecenia" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Create client message templates", "pl": "Przygotuj szablony wiadomości do klientów" },
+          "why": {
+            "en": "Fast, clear communication earns 5-star reviews and saves you hours each week.",
+            "pl": "Szybka, jasna komunikacja zdobywa oceny 5 gwiazdek i oszczędza godziny tygodniowo."
+          },
+          "instructions": {
+            "en": [
+              "Write templates for: first reply, brief questions, delivery, revision, review request.",
+              "Define how many revisions each package includes.",
+              "Reply to new messages within a few hours."
+            ],
+            "pl": [
+              "Napisz szablony: pierwsza odpowiedź, pytania do briefu, oddanie pracy, poprawki, prośba o opinię.",
+              "Określ, ile poprawek obejmuje każdy pakiet.",
+              "Odpowiadaj na nowe wiadomości w ciągu kilku godzin."
+            ]
+          },
+          "metric_to_track": { "en": "Average rating", "pl": "Średnia ocena" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Steady income", "pl": "Stały dochód" },
+      "goal": {
+        "en": "Turn one-off jobs into repeat work and build a presence outside the platforms.",
+        "pl": "Zamień jednorazowe zlecenia w stałą współpracę i zbuduj obecność poza platformami."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 50,
+          "est_minutes": 60,
+          "title": { "en": "Offer a monthly package to past clients", "pl": "Zaproponuj miesięczny pakiet dawnym klientom" },
+          "why": {
+            "en": "Repeat clients are the easiest income. A monthly package turns good clients into predictable revenue.",
+            "pl": "Powracający klienci to najłatwiejszy dochód. Miesięczny pakiet zamienia dobrych klientów w przewidywalny przychód."
+          },
+          "instructions": {
+            "en": [
+              "Design a monthly package (e.g. 10 product descriptions per month).",
+              "Message your 3 best clients with a short proposal.",
+              "Keep all work and payments on the platform while it's a platform client, as its rules require."
+            ],
+            "pl": [
+              "Zaprojektuj miesięczny pakiet (np. 10 opisów produktów miesięcznie).",
+              "Wyślij 3 najlepszym klientom krótką propozycję.",
+              "Klientów z platformy obsługuj i rozliczaj na platformie, zgodnie z jej zasadami."
+            ]
+          },
+          "metric_to_track": { "en": "Repeat clients", "pl": "Powracający klienci" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Build a simple portfolio and LinkedIn profile", "pl": "Zbuduj proste portfolio i profil na LinkedIn" },
+          "why": {
+            "en": "Clients you find yourself pay no platform fee. A portfolio and LinkedIn profile make direct outreach possible.",
+            "pl": "Klienci pozyskani samodzielnie nie oznaczają prowizji platformy. Portfolio i profil na LinkedIn umożliwiają bezpośredni kontakt."
+          },
+          "instructions": {
+            "en": [
+              "Create a one-page portfolio with your best 5 samples and reviews.",
+              "Update your LinkedIn headline to match your service.",
+              "Post one useful tip or before/after example per week."
+            ],
+            "pl": [
+              "Stwórz jednostronicowe portfolio z 5 najlepszymi próbkami i opiniami.",
+              "Zmień nagłówek na LinkedIn, by pasował do usługi.",
+              "Publikuj co tydzień jedną przydatną wskazówkę lub przykład przed/po."
+            ]
+          },
+          "metric_to_track": { "en": "Direct inquiries", "pl": "Bezpośrednie zapytania" },
+          "resources": [],
+          "tools": [{ "name": "Behance", "url": "https://www.behance.net", "affiliate": false }]
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Speed up delivery with reusable AI workflows", "pl": "Przyspiesz realizację powtarzalnymi procesami z AI" },
+          "why": {
+            "en": "Saved prompts and templates cut delivery time, which raises your real hourly rate.",
+            "pl": "Zapisane polecenia i szablony skracają czas realizacji, co podnosi realną stawkę godzinową."
+          },
+          "instructions": {
+            "en": [
+              "Save your best prompts and document templates in one place.",
+              "Time three jobs before and after using them.",
+              "Invest the saved time in more proposals or a higher-value service."
+            ],
+            "pl": [
+              "Zapisz najlepsze polecenia i szablony dokumentów w jednym miejscu.",
+              "Zmierz czas trzech zleceń przed i po ich użyciu.",
+              "Zaoszczędzony czas zainwestuj w kolejne propozycje lub droższą usługę."
+            ]
+          },
+          "metric_to_track": { "en": "Hours per job", "pl": "Godziny na zlecenie" },
+          "resources": [],
+          "tools": [{ "name": "Claude", "url": "https://claude.ai", "affiliate": false }]
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Weeks 2–6", "pl": "Tygodnie 2–6" },
+      "range": { "en": "$0–$300", "pl": "0–300 $" },
+      "note": { "en": "Landing the first clients can take a few weeks of steady proposals.", "pl": "Zdobycie pierwszych klientów może zająć kilka tygodni regularnych propozycji." }
+    },
+    {
+      "label": { "en": "Months 2–4", "pl": "Miesiące 2–4" },
+      "range": { "en": "$300–$1,500 / month", "pl": "300–1500 $ / mies." },
+      "note": { "en": "Common once you have 5+ good reviews.", "pl": "Częste po zebraniu 5+ dobrych opinii." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$1,000–$3,000 / month", "pl": "1000–3000 $ / mies." },
+      "note": { "en": "Typical with repeat clients and higher prices.", "pl": "Typowe przy stałych klientach i wyższych cenach." }
+    }
+  ]
+}

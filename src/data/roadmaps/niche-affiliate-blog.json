@@ -1,0 +1,437 @@
+{
+  "hustle_slug": "niche-affiliate-blog",
+  "total_weeks": 12,
+  "weekly_metrics": ["articles_published", "search_clicks", "sales"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Niche & site setup", "pl": "Nisza i strona" },
+      "goal": {
+        "en": "Choose a niche you can win in, launch your site and plan your first 30 articles.",
+        "pl": "Wybierz niszę, w której możesz wygrać, uruchom stronę i zaplanuj pierwsze 30 artykułów."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Pick a niche you can write 100 articles about", "pl": "Wybierz niszę na 100 artykułów" },
+          "why": {
+            "en": "Blogs win through depth. A narrow niche with products to recommend (e.g. ‘home espresso for beginners’) beats a general lifestyle blog.",
+            "pl": "Blogi wygrywają głębią. Wąska nisza z produktami do polecania (np. „domowe espresso dla początkujących”) wygrywa z ogólnym blogiem lifestyle'owym."
+          },
+          "instructions": {
+            "en": [
+              "List 5 topics you know, like, and where people buy things online.",
+              "Google 10 questions per topic and check if small blogs or forums rank on page one. That means competition is beatable.",
+              "Pick the topic where you have real experience or can test products yourself."
+            ],
+            "pl": [
+              "Wypisz 5 tematów, które znasz, lubisz i w których ludzie kupują online.",
+              "Wyszukaj w Google po 10 pytań do każdego tematu i sprawdź, czy na pierwszej stronie są małe blogi lub fora. To znak, że konkurencję da się pokonać.",
+              "Wybierz temat, w którym masz prawdziwe doświadczenie lub możesz samodzielnie testować produkty."
+            ]
+          },
+          "metric_to_track": { "en": "Niche chosen", "pl": "Wybrana nisza" },
+          "resources": [
+            { "title": { "en": "Google Trends", "pl": "Google Trends" }, "url": "https://trends.google.com" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Launch your WordPress site", "pl": "Uruchom stronę na WordPressie" },
+          "why": {
+            "en": "Your own site gives you full control over content and affiliate links, and builds an asset that can grow in value.",
+            "pl": "Własna strona daje pełną kontrolę nad treścią i linkami afiliacyjnymi oraz buduje aktywo, którego wartość rośnie."
+          },
+          "instructions": {
+            "en": [
+              "Buy a short, brandable domain related to your niche.",
+              "Get basic hosting with one-click WordPress install.",
+              "Install a lightweight, fast theme and set up your logo and menu.",
+              "Check that the site loads quickly on your phone."
+            ],
+            "pl": [
+              "Kup krótką, łatwą do zapamiętania domenę związaną z niszą.",
+              "Wykup podstawowy hosting z instalacją WordPressa jednym kliknięciem.",
+              "Zainstaluj lekki, szybki motyw i ustaw logo oraz menu.",
+              "Sprawdź, czy strona szybko ładuje się na telefonie."
+            ]
+          },
+          "metric_to_track": { "en": "Site live", "pl": "Strona online" },
+          "resources": [],
+          "tools": [
+            { "name": "WordPress", "url": "https://wordpress.org", "affiliate": false },
+            { "name": "Hostinger", "url": "https://www.hostinger.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Build a list of 30 article topics", "pl": "Zbuduj listę 30 tematów artykułów" },
+          "why": {
+            "en": "Specific questions (‘how to descale a Breville espresso machine’) have less competition and attract readers ready to act.",
+            "pl": "Konkretne pytania („jak odkamienić ekspres Breville”) mają mniejszą konkurencję i przyciągają czytelników gotowych do działania."
+          },
+          "instructions": {
+            "en": [
+              "Collect questions from Google's ‘People also ask’, forums and AnswerThePublic.",
+              "Mix 20 helpful ‘how to’ articles with 10 product-focused ones (‘best X for Y’, ‘X vs Y’).",
+              "Put them in a sheet with a status column."
+            ],
+            "pl": [
+              "Zbieraj pytania z sekcji „Podobne pytania” w Google, z forów i z AnswerThePublic.",
+              "Połącz 20 pomocnych artykułów „jak to zrobić” z 10 produktowymi („najlepszy X do Y”, „X czy Y”).",
+              "Wpisz je do arkusza z kolumną statusu."
+            ]
+          },
+          "metric_to_track": { "en": "Topics planned", "pl": "Zaplanowane tematy" },
+          "resources": [],
+          "tools": [{ "name": "AnswerThePublic", "url": "https://answerthepublic.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Add essential pages and Search Console", "pl": "Dodaj podstawowe strony i Search Console" },
+          "why": {
+            "en": "About, contact, privacy and affiliate disclosure pages build trust and are required by most affiliate programs. Search Console shows how Google sees you.",
+            "pl": "Strony „O mnie”, kontakt, polityka prywatności i informacja o afiliacji budują zaufanie i są wymagane przez większość programów. Search Console pokazuje, jak widzi Cię Google."
+          },
+          "instructions": {
+            "en": [
+              "Write an About page explaining your real experience with the topic.",
+              "Add contact, privacy policy and affiliate disclosure pages.",
+              "Verify your site in Google Search Console and submit your sitemap."
+            ],
+            "pl": [
+              "Napisz stronę „O mnie” z Twoim prawdziwym doświadczeniem w temacie.",
+              "Dodaj strony: kontakt, polityka prywatności i informacja o linkach afiliacyjnych.",
+              "Zweryfikuj stronę w Google Search Console i prześlij mapę witryny."
+            ]
+          },
+          "metric_to_track": { "en": "Site verified", "pl": "Strona zweryfikowana" },
+          "resources": [
+            { "title": { "en": "Google Search Console", "pl": "Google Search Console" }, "url": "https://search.google.com/search-console" }
+          ],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First articles", "pl": "Pierwsze artykuły" },
+      "goal": {
+        "en": "Publish your first 8 genuinely helpful articles and join affiliate programs.",
+        "pl": "Opublikuj pierwsze 8 naprawdę pomocnych artykułów i dołącz do programów afiliacyjnych."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 60,
+          "est_minutes": 480,
+          "title": { "en": "Write your first 3 articles", "pl": "Napisz pierwsze 3 artykuły" },
+          "why": {
+            "en": "Google rewards content written from real experience that fully answers the question. Quality here sets the bar for your whole site.",
+            "pl": "Google nagradza treści pisane z prawdziwego doświadczenia, które w pełni odpowiadają na pytanie. Tu ustawiasz poziom całej strony."
+          },
+          "instructions": {
+            "en": [
+              "Answer the question in the first paragraph, then go deeper.",
+              "Add your own photos, examples or test results wherever possible.",
+              "Use clear headings, short paragraphs and a summary.",
+              "Read Google's guide to helpful content and check your article against it."
+            ],
+            "pl": [
+              "Odpowiedz na pytanie w pierwszym akapicie, a potem wejdź głębiej.",
+              "Dodawaj własne zdjęcia, przykłady lub wyniki testów, gdzie się da.",
+              "Używaj czytelnych nagłówków, krótkich akapitów i podsumowania.",
+              "Przeczytaj poradnik Google o pomocnych treściach i porównaj z nim artykuł."
+            ]
+          },
+          "metric_to_track": { "en": "Articles published", "pl": "Opublikowane artykuły" },
+          "resources": [
+            { "title": { "en": "Google: creating helpful content", "pl": "Google: tworzenie pomocnych treści" }, "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content" },
+            { "title": { "en": "Google SEO starter guide", "pl": "Podstawy SEO od Google" }, "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Join affiliate programs", "pl": "Dołącz do programów afiliacyjnych" },
+          "why": {
+            "en": "Programs usually approve sites that already have some content. Now you have enough to apply.",
+            "pl": "Programy zwykle akceptują strony, które mają już trochę treści. Teraz masz wystarczająco, by się zgłosić."
+          },
+          "instructions": {
+            "en": [
+              "Apply to Amazon Associates (you need 3 qualifying sales within 180 days to stay approved).",
+              "Apply to an affiliate network like Awin for brands in your niche.",
+              "Add a short disclosure at the top of every article with affiliate links."
+            ],
+            "pl": [
+              "Zgłoś się do Amazon Associates (by zostać w programie, potrzebujesz 3 kwalifikujących się sprzedaży w 180 dni).",
+              "Zgłoś się do sieci afiliacyjnej, np. Awin, dla marek z niszy.",
+              "Dodaj krótką informację o afiliacji na początku każdego artykułu z linkami."
+            ]
+          },
+          "metric_to_track": { "en": "Programs approved", "pl": "Zatwierdzone programy" },
+          "resources": [],
+          "tools": [
+            { "name": "Amazon Associates", "url": "https://affiliate-program.amazon.com", "affiliate": false },
+            { "name": "Awin", "url": "https://www.awin.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p2s3",
+          "xp": 60,
+          "est_minutes": 600,
+          "title": { "en": "Publish 5 more articles", "pl": "Opublikuj 5 kolejnych artykułów" },
+          "why": {
+            "en": "Topical depth tells Google you're an authority. Around 20–30 connected articles is when many sites start ranking.",
+            "pl": "Głębia tematyczna pokazuje Google, że jesteś ekspertem. Przy 20–30 powiązanych artykułach wiele stron zaczyna się pozycjonować."
+          },
+          "instructions": {
+            "en": [
+              "Aim for two articles a week from your topic list.",
+              "Link each new article to 2–3 related ones on your site.",
+              "Add affiliate links only where a product genuinely solves the reader's problem."
+            ],
+            "pl": [
+              "Celuj w dwa artykuły tygodniowo z listy tematów.",
+              "Linkuj każdy nowy artykuł do 2–3 powiązanych na stronie.",
+              "Dodawaj linki afiliacyjne tylko tam, gdzie produkt naprawdę rozwiązuje problem czytelnika."
+            ]
+          },
+          "metric_to_track": { "en": "Articles published", "pl": "Opublikowane artykuły" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Track costs and income", "pl": "Śledź koszty i przychody" },
+          "why": {
+            "en": "Blogs have running costs (domain, hosting). Tracking them keeps the project honest.",
+            "pl": "Blog ma stałe koszty (domena, hosting). Ich śledzenie pozwala uczciwie ocenić projekt."
+          },
+          "instructions": {
+            "en": [
+              "Create a sheet with: month, costs, affiliate income, profit.",
+              "Update it before each weekly check-in.",
+              "Check how side income is taxed where you live."
+            ],
+            "pl": [
+              "Utwórz arkusz: miesiąc, koszty, dochód z afiliacji, zysk.",
+              "Aktualizuj go przed każdym cotygodniowym podsumowaniem.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. działalność nierejestrowana)."
+            ]
+          },
+          "metric_to_track": { "en": "Monthly costs", "pl": "Koszty miesięczne" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Build authority", "pl": "Budowa autorytetu" },
+      "goal": {
+        "en": "Publish your first buying guide and improve articles based on Search Console data.",
+        "pl": "Opublikuj pierwszy poradnik zakupowy i popraw artykuły na podstawie danych z Search Console."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Write an honest buying guide", "pl": "Napisz uczciwy poradnik zakupowy" },
+          "why": {
+            "en": "‘Best X for Y’ articles earn most affiliate income. Readers and Google trust guides that show real comparison and experience.",
+            "pl": "Artykuły „najlepszy X do Y” przynoszą najwięcej z afiliacji. Czytelnicy i Google ufają poradnikom z prawdziwym porównaniem i doświadczeniem."
+          },
+          "instructions": {
+            "en": [
+              "Pick a product category your readers ask about.",
+              "Compare 3–7 options with clear criteria, pros and cons, and who each is best for.",
+              "Include your own photos or experience where possible, and be honest about downsides."
+            ],
+            "pl": [
+              "Wybierz kategorię produktów, o którą pytają czytelnicy.",
+              "Porównaj 3–7 opcji według jasnych kryteriów, z plusami, minusami i informacją, dla kogo każda jest najlepsza.",
+              "Dodaj własne zdjęcia lub doświadczenia, gdzie się da, i uczciwie pisz o wadach."
+            ]
+          },
+          "metric_to_track": { "en": "Affiliate clicks", "pl": "Kliknięcia afiliacyjne" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Strengthen internal links", "pl": "Wzmocnij linkowanie wewnętrzne" },
+          "why": {
+            "en": "Internal links help Google understand your site and pass authority to the pages that earn money.",
+            "pl": "Linki wewnętrzne pomagają Google zrozumieć stronę i przekazują autorytet stronom, które zarabiają."
+          },
+          "instructions": {
+            "en": [
+              "Link every ‘how to’ article to your most relevant buying guide.",
+              "Create a category page that links to all articles on one sub-topic.",
+              "Fix any broken links."
+            ],
+            "pl": [
+              "Linkuj każdy artykuł „jak to zrobić” do najbardziej pasującego poradnika zakupowego.",
+              "Utwórz stronę kategorii linkującą do wszystkich artykułów z jednego podtematu.",
+              "Napraw niedziałające linki."
+            ]
+          },
+          "metric_to_track": { "en": "Internal links added", "pl": "Dodane linki wewnętrzne" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Improve pages Google already shows", "pl": "Popraw strony, które Google już pokazuje" },
+          "why": {
+            "en": "Articles with impressions but few clicks are close to winning. Small title fixes can multiply traffic.",
+            "pl": "Artykuły z wyświetleniami, ale z małą liczbą kliknięć, są blisko sukcesu. Drobne poprawki tytułu potrafią zwielokrotnić ruch."
+          },
+          "instructions": {
+            "en": [
+              "In Search Console, open Performance and sort pages by impressions.",
+              "For pages with low click-through rate, rewrite titles to match the exact search query.",
+              "Add a section answering related queries you see in the report."
+            ],
+            "pl": [
+              "W Search Console otwórz Skuteczność i posortuj strony według wyświetleń.",
+              "Przy stronach z niskim CTR przepisz tytuły, by pasowały do dokładnych zapytań.",
+              "Dodaj sekcję odpowiadającą na pokrewne zapytania widoczne w raporcie."
+            ]
+          },
+          "metric_to_track": { "en": "Google clicks", "pl": "Kliknięcia z Google" },
+          "resources": [],
+          "tools": [{ "name": "Google Search Console", "url": "https://search.google.com/search-console", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Keep compounding", "pl": "Efekt kuli śnieżnej" },
+      "goal": {
+        "en": "Reach 25+ articles and add a second traffic source while Google builds trust.",
+        "pl": "Dojdź do 25+ artykułów i dodaj drugie źródło ruchu, zanim Google nabierze zaufania."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 60,
+          "est_minutes": 600,
+          "title": { "en": "Publish 8 more articles", "pl": "Opublikuj 8 kolejnych artykułów" },
+          "why": {
+            "en": "New blogs often take 6–12 months to rank. Every article you add now pays off later.",
+            "pl": "Nowe blogi często potrzebują 6–12 miesięcy, by się wypozycjonować. Każdy dodany teraz artykuł zwróci się później."
+          },
+          "instructions": {
+            "en": [
+              "Keep your two-articles-a-week rhythm.",
+              "Prioritize topics related to your best-performing pages.",
+              "Update older articles with anything new you've learned."
+            ],
+            "pl": [
+              "Utrzymuj rytm dwóch artykułów tygodniowo.",
+              "Stawiaj na tematy powiązane z najlepszymi stronami.",
+              "Aktualizuj starsze artykuły o nowe informacje."
+            ]
+          },
+          "metric_to_track": { "en": "Articles published", "pl": "Opublikowane artykuły" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Add Pinterest as a second traffic source", "pl": "Dodaj Pinterest jako drugie źródło ruchu" },
+          "why": {
+            "en": "Pinterest can send readers to a new blog long before Google does.",
+            "pl": "Pinterest może kierować czytelników na nowy blog na długo przed Google."
+          },
+          "instructions": {
+            "en": [
+              "Create a Pinterest business account for your blog.",
+              "Make 2–3 vertical pins for each article.",
+              "Pin a few times a week and track clicks in Pinterest Analytics."
+            ],
+            "pl": [
+              "Załóż konto firmowe na Pintereście dla bloga.",
+              "Przygotuj 2–3 pionowe piny do każdego artykułu.",
+              "Przypinaj kilka razy w tygodniu i śledź kliknięcia w statystykach Pinteresta."
+            ]
+          },
+          "metric_to_track": { "en": "Visitors from Pinterest", "pl": "Odwiedzający z Pinteresta" },
+          "resources": [
+            { "title": { "en": "Pinterest Business", "pl": "Pinterest Business (ang.)" }, "url": "https://business.pinterest.com" }
+          ],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Plan your next 3 months of content", "pl": "Zaplanuj treści na 3 miesiące" },
+          "why": {
+            "en": "A clear plan keeps you publishing through the quiet months before search traffic arrives.",
+            "pl": "Jasny plan pomaga publikować w cichych miesiącach, zanim pojawi się ruch z wyszukiwarki."
+          },
+          "instructions": {
+            "en": [
+              "Review which topics get impressions in Search Console.",
+              "Plan 24 new articles around those topics.",
+              "Schedule them in a calendar, two per week."
+            ],
+            "pl": [
+              "Sprawdź w Search Console, które tematy zbierają wyświetlenia.",
+              "Zaplanuj 24 nowe artykuły wokół tych tematów.",
+              "Rozpisz je w kalendarzu, po dwa tygodniowo."
+            ]
+          },
+          "metric_to_track": { "en": "Articles planned", "pl": "Zaplanowane artykuły" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–6", "pl": "Miesiące 1–6" },
+      "range": { "en": "$0–$50 / month", "pl": "0–50 $ / mies." },
+      "note": { "en": "Google needs time to trust a new site. Keep publishing.", "pl": "Google potrzebuje czasu, by zaufać nowej stronie. Publikuj dalej." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$50–$500 / month", "pl": "50–500 $ / mies." },
+      "note": { "en": "First pages rank and buying guides start converting.", "pl": "Pierwsze strony się pozycjonują, a poradniki zakupowe zaczynają sprzedawać." }
+    },
+    {
+      "label": { "en": "Months 12–18", "pl": "Miesiące 12–18" },
+      "range": { "en": "$200–$2,000 / month", "pl": "200–2000 $ / mies." },
+      "note": { "en": "Typical for well-run blogs with 60+ helpful articles.", "pl": "Typowe dla dobrze prowadzonych blogów z 60+ pomocnymi artykułami." }
+    }
+  ]
+}

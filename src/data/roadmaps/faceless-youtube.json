@@ -1,0 +1,447 @@
+{
+  "hustle_slug": "faceless-youtube",
+  "total_weeks": 12,
+  "weekly_metrics": ["videos_published", "subscribers", "watch_hours"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Channel foundation", "pl": "Fundamenty kanału" },
+      "goal": {
+        "en": "Choose an evergreen niche and a repeatable video format, and set up your channel.",
+        "pl": "Wybierz ponadczasową niszę i powtarzalny format filmów oraz załóż kanał."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Choose an evergreen niche", "pl": "Wybierz ponadczasową niszę" },
+          "why": {
+            "en": "Evergreen topics (history, personal finance, science, how-things-work) keep getting views for years, so every video keeps working for you.",
+            "pl": "Ponadczasowe tematy (historia, finanse osobiste, nauka, jak działają rzeczy) zbierają wyświetlenia latami, więc każdy film dalej na Ciebie pracuje."
+          },
+          "instructions": {
+            "en": [
+              "List 5 topics you could research every week without getting bored.",
+              "Search each on YouTube and find faceless channels under 100k subscribers that still get strong views.",
+              "Prefer topics advertisers pay well for (money, tech, education) over pure entertainment.",
+              "Pick one niche."
+            ],
+            "pl": [
+              "Wypisz 5 tematów, które możesz badać co tydzień bez znudzenia.",
+              "Wyszukaj je na YouTube i znajdź kanały bez twarzy poniżej 100 tys. subskrypcji, które wciąż mają dobre wyświetlenia.",
+              "Wybieraj tematy, za które reklamodawcy dobrze płacą (pieniądze, technologia, edukacja), zamiast czystej rozrywki.",
+              "Wybierz jedną niszę."
+            ]
+          },
+          "metric_to_track": { "en": "Niche chosen", "pl": "Wybrana nisza" },
+          "resources": [
+            { "title": { "en": "YouTube Creators", "pl": "YouTube dla twórców" }, "url": "https://www.youtube.com/creators/" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Study 10 channels and pick your format", "pl": "Przeanalizuj 10 kanałów i wybierz format" },
+          "why": {
+            "en": "A repeatable format (e.g. ‘explained in 8 minutes’, ‘top 10’, ‘story of…’) makes production faster and tells viewers what to expect.",
+            "pl": "Powtarzalny format (np. „wyjaśnione w 8 minut”, „top 10”, „historia…”) przyspiesza produkcję i mówi widzom, czego się spodziewać."
+          },
+          "instructions": {
+            "en": [
+              "Sort 10 channels in your niche by ‘Popular’ and note their most viewed titles and thumbnails.",
+              "Write down the video length, structure and style that repeat across the best videos.",
+              "Choose one format you can produce in 4–6 hours per video.",
+              "List 20 video ideas in that format."
+            ],
+            "pl": [
+              "Posortuj 10 kanałów z niszy według „Popularne” i zanotuj najpopularniejsze tytuły oraz miniatury.",
+              "Zapisz długość, strukturę i styl, które powtarzają się w najlepszych filmach.",
+              "Wybierz jeden format, który zrobisz w 4–6 godzin na film.",
+              "Wypisz 20 pomysłów na filmy w tym formacie."
+            ]
+          },
+          "metric_to_track": { "en": "20 video ideas", "pl": "20 pomysłów na filmy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Create and brand your channel", "pl": "Załóż i oznacz kanał" },
+          "why": {
+            "en": "A clear name, banner and description tell new viewers in two seconds what they'll get if they subscribe.",
+            "pl": "Czytelna nazwa, baner i opis w dwie sekundy mówią nowym widzom, co dostaną po subskrypcji."
+          },
+          "instructions": {
+            "en": [
+              "Create a channel with a Brand Account so you can add helpers later.",
+              "Pick a short, searchable name that fits your niche.",
+              "Design a profile image and banner in Canva, and write a one-line promise in the description.",
+              "Verify your account in YouTube Studio so you can upload longer videos and custom thumbnails."
+            ],
+            "pl": [
+              "Załóż kanał jako konto marki, aby móc później dodać pomocników.",
+              "Wybierz krótką, łatwą do wyszukania nazwę pasującą do niszy.",
+              "Zaprojektuj zdjęcie profilowe i baner w Canvie, a w opisie napisz jednozdaniową obietnicę.",
+              "Zweryfikuj konto w YouTube Studio, by móc wgrywać dłuższe filmy i własne miniatury."
+            ]
+          },
+          "metric_to_track": { "en": "Channel set up", "pl": "Kanał gotowy" },
+          "resources": [],
+          "tools": [
+            { "name": "YouTube Studio", "url": "https://studio.youtube.com", "affiliate": false },
+            { "name": "Canva", "url": "https://www.canva.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Set up your production tools", "pl": "Przygotuj narzędzia produkcji" },
+          "why": {
+            "en": "Picking your voice, editor and footage sources once saves hours on every video and keeps you safe on copyright.",
+            "pl": "Jednorazowy wybór głosu, edytora i źródeł materiałów oszczędza godziny przy każdym filmie i chroni przed problemami z prawami autorskimi."
+          },
+          "instructions": {
+            "en": [
+              "Choose a voice: your own (a decent USB mic is enough) or an AI voice you have commercial rights to.",
+              "Install a video editor such as CapCut.",
+              "Use footage and music only from sources that allow commercial use, and keep a list of what you used.",
+              "Create a folder template: script, voice, footage, thumbnail."
+            ],
+            "pl": [
+              "Wybierz głos: własny (wystarczy przyzwoity mikrofon USB) albo głos AI z prawami do użytku komercyjnego.",
+              "Zainstaluj edytor wideo, np. CapCut.",
+              "Korzystaj tylko z materiałów i muzyki, które pozwalają na użytek komercyjny, i zapisuj, czego używasz.",
+              "Utwórz szablon folderów: scenariusz, głos, materiały, miniatura."
+            ]
+          },
+          "metric_to_track": { "en": "Workflow ready", "pl": "Gotowy proces" },
+          "resources": [],
+          "tools": [
+            { "name": "CapCut", "url": "https://www.capcut.com", "affiliate": false },
+            { "name": "Pexels", "url": "https://www.pexels.com", "affiliate": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First videos", "pl": "Pierwsze filmy" },
+      "goal": {
+        "en": "Publish your first 4 videos with strong titles and thumbnails.",
+        "pl": "Opublikuj pierwsze 4 filmy z mocnymi tytułami i miniaturami."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Write your first script", "pl": "Napisz pierwszy scenariusz" },
+          "why": {
+            "en": "The first 30 seconds decide whether people keep watching. A tight script is the biggest lever you control.",
+            "pl": "Pierwsze 30 sekund decyduje, czy ludzie oglądają dalej. Zwarty scenariusz to największa dźwignia, jaką masz."
+          },
+          "instructions": {
+            "en": [
+              "Open with a hook that promises the payoff in one sentence.",
+              "Structure the body in 3–5 clear sections, each ending with a reason to keep watching.",
+              "Research facts from reliable sources and add your own opinion or explanation. Original value is required for monetization.",
+              "Read it aloud and cut anything that sounds like filler."
+            ],
+            "pl": [
+              "Zacznij od haczyka, który w jednym zdaniu obiecuje efekt końcowy.",
+              "Podziel treść na 3–5 jasnych części, z których każda kończy się powodem, by oglądać dalej.",
+              "Sprawdzaj fakty w wiarygodnych źródłach i dodawaj własne wyjaśnienia. Oryginalna wartość jest wymagana do monetyzacji.",
+              "Przeczytaj na głos i wytnij wszystko, co brzmi jak wypełniacz."
+            ]
+          },
+          "metric_to_track": { "en": "Script finished", "pl": "Gotowy scenariusz" },
+          "resources": [
+            { "title": { "en": "YouTube channel monetization policies", "pl": "Zasady zarabiania na kanale YouTube" }, "url": "https://support.google.com/youtube/answer/1311392" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Produce and publish video #1", "pl": "Zrób i opublikuj film nr 1" },
+          "why": {
+            "en": "Your first video won't be perfect, and that's fine. Publishing teaches you more than planning ever will.",
+            "pl": "Pierwszy film nie będzie idealny i to w porządku. Publikacja nauczy Cię więcej niż planowanie."
+          },
+          "instructions": {
+            "en": [
+              "Record the voice-over, then edit footage to match it, changing visuals every 3–5 seconds.",
+              "Design a thumbnail with 3 words or fewer and one clear focal point.",
+              "Write a title that makes a specific promise, and a description with 2–3 keywords.",
+              "Publish, then add it to a playlist for your format."
+            ],
+            "pl": [
+              "Nagraj lektora, a potem dopasuj do niego materiał, zmieniając obraz co 3–5 sekund.",
+              "Zaprojektuj miniaturę z maksymalnie 3 słowami i jednym wyraźnym punktem uwagi.",
+              "Napisz tytuł z konkretną obietnicą i opis z 2–3 słowami kluczowymi.",
+              "Opublikuj i dodaj film do playlisty dla swojego formatu."
+            ]
+          },
+          "metric_to_track": { "en": "Videos published", "pl": "Opublikowane filmy" },
+          "resources": [],
+          "tools": [
+            { "name": "CapCut", "url": "https://www.capcut.com", "affiliate": false },
+            { "name": "Canva", "url": "https://www.canva.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p2s3",
+          "xp": 60,
+          "est_minutes": 480,
+          "title": { "en": "Publish videos #2–#4 on a fixed schedule", "pl": "Opublikuj filmy nr 2–4 według stałego planu" },
+          "why": {
+            "en": "Consistency teaches the algorithm and your viewers what to expect. One video a week is a strong, sustainable pace.",
+            "pl": "Regularność uczy algorytm i widzów, czego się spodziewać. Jeden film tygodniowo to mocne i realne tempo."
+          },
+          "instructions": {
+            "en": [
+              "Pick a fixed publishing day and time.",
+              "Write the next script while the current video renders.",
+              "Reuse your thumbnail layout so your channel looks consistent."
+            ],
+            "pl": [
+              "Wybierz stały dzień i godzinę publikacji.",
+              "Pisz kolejny scenariusz, gdy obecny film się renderuje.",
+              "Korzystaj z tego samego układu miniatur, by kanał wyglądał spójnie."
+            ]
+          },
+          "metric_to_track": { "en": "Videos published", "pl": "Opublikowane filmy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Learn the 3 numbers that matter", "pl": "Poznaj 3 liczby, które mają znaczenie" },
+          "why": {
+            "en": "Click-through rate, average view duration and returning viewers tell you exactly what to fix.",
+            "pl": "Współczynnik klikalności, średni czas oglądania i powracający widzowie mówią dokładnie, co poprawić."
+          },
+          "instructions": {
+            "en": [
+              "In YouTube Studio, open Analytics for each video.",
+              "Note impressions click-through rate (thumbnail + title) and average view duration (script + editing).",
+              "Write one improvement for your next video based on the weakest number."
+            ],
+            "pl": [
+              "W YouTube Studio otwórz Statystyki każdego filmu.",
+              "Zanotuj CTR wyświetleń (miniatura + tytuł) i średni czas oglądania (scenariusz + montaż).",
+              "Zapisz jedną poprawkę do następnego filmu, bazując na najsłabszej liczbie."
+            ]
+          },
+          "metric_to_track": { "en": "Click-through rate", "pl": "Współczynnik klikalności" },
+          "resources": [],
+          "tools": [{ "name": "YouTube Studio", "url": "https://studio.youtube.com", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Consistency & growth", "pl": "Regularność i wzrost" },
+      "goal": {
+        "en": "Keep publishing weekly, improve click-through rate and use Shorts to find new viewers.",
+        "pl": "Publikuj co tydzień, popraw klikalność i wykorzystaj Shorts, by docierać do nowych widzów."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 60,
+          "est_minutes": 600,
+          "title": { "en": "Publish 3 more long videos", "pl": "Opublikuj 3 kolejne długie filmy" },
+          "why": {
+            "en": "Most channels need 10–20 videos before one takes off. Each video is another lottery ticket with better odds.",
+            "pl": "Większość kanałów potrzebuje 10–20 filmów, zanim któryś wystrzeli. Każdy film to kolejny los z lepszymi szansami."
+          },
+          "instructions": {
+            "en": [
+              "Double down on the topic or style of your best-performing video so far.",
+              "Apply one analytics lesson in every new video.",
+              "Keep the same publishing day."
+            ],
+            "pl": [
+              "Postaw na temat lub styl najlepszego dotąd filmu.",
+              "W każdym nowym filmie zastosuj jedną lekcję ze statystyk.",
+              "Trzymaj się tego samego dnia publikacji."
+            ]
+          },
+          "metric_to_track": { "en": "Videos published", "pl": "Opublikowane filmy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Test new thumbnails and titles", "pl": "Przetestuj nowe miniatury i tytuły" },
+          "why": {
+            "en": "A better thumbnail can revive a video that's already published. It's the fastest win on YouTube.",
+            "pl": "Lepsza miniatura potrafi ożywić już opublikowany film. To najszybsza wygrana na YouTube."
+          },
+          "instructions": {
+            "en": [
+              "Find videos with a click-through rate below your channel average.",
+              "Design a new thumbnail with a bigger subject and fewer words.",
+              "Use YouTube's thumbnail test feature if available, or swap and compare after a week."
+            ],
+            "pl": [
+              "Znajdź filmy z CTR poniżej średniej kanału.",
+              "Zaprojektuj nową miniaturę z większym motywem i mniejszą liczbą słów.",
+              "Skorzystaj z testu miniatur w YouTube, jeśli jest dostępny, albo podmień i porównaj po tygodniu."
+            ]
+          },
+          "metric_to_track": { "en": "Click-through rate", "pl": "Współczynnik klikalności" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Cut 5 Shorts from your long videos", "pl": "Wytnij 5 Shorts z długich filmów" },
+          "why": {
+            "en": "Shorts reach people who don't know your channel yet and can send them to your long videos.",
+            "pl": "Shorts docierają do osób, które jeszcze nie znają kanału, i mogą kierować je do długich filmów."
+          },
+          "instructions": {
+            "en": [
+              "Pick the most surprising 30–50 seconds of each long video.",
+              "Reformat to vertical with big captions.",
+              "Link the full video from each Short."
+            ],
+            "pl": [
+              "Wybierz najbardziej zaskakujące 30–50 sekund każdego długiego filmu.",
+              "Przerób je na pion z dużymi napisami.",
+              "Podlinkuj pełny film w każdym Shorcie."
+            ]
+          },
+          "metric_to_track": { "en": "Subscribers from Shorts", "pl": "Subskrypcje z Shorts" },
+          "resources": [],
+          "tools": [{ "name": "CapCut", "url": "https://www.capcut.com", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "First income", "pl": "Pierwsze zarobki" },
+      "goal": {
+        "en": "Start earning before ad revenue unlocks and plan your next 12 videos.",
+        "pl": "Zacznij zarabiać, zanim odblokujesz reklamy, i zaplanuj kolejne 12 filmów."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Add affiliate links", "pl": "Dodaj linki afiliacyjne" },
+          "why": {
+            "en": "Ad revenue needs 1,000 subscribers and 4,000 watch hours. Affiliate links can pay from your first views.",
+            "pl": "Przychody z reklam wymagają 1000 subskrypcji i 4000 godzin oglądania. Linki afiliacyjne mogą zarabiać od pierwszych wyświetleń."
+          },
+          "instructions": {
+            "en": [
+              "Join an affiliate program for books, tools or products your niche mentions (e.g. Amazon Associates).",
+              "Add 1–3 relevant links to the descriptions of your best videos.",
+              "Always disclose that they are affiliate links."
+            ],
+            "pl": [
+              "Dołącz do programu afiliacyjnego dla książek, narzędzi lub produktów z Twojej niszy (np. Amazon Associates).",
+              "Dodaj 1–3 trafne linki w opisach najlepszych filmów.",
+              "Zawsze zaznaczaj, że to linki afiliacyjne."
+            ]
+          },
+          "metric_to_track": { "en": "Affiliate clicks", "pl": "Kliknięcia w linki afiliacyjne" },
+          "resources": [],
+          "tools": [{ "name": "Amazon Associates", "url": "https://affiliate-program.amazon.com", "affiliate": false }]
+        },
+        {
+          "id": "p4s2",
+          "xp": 30,
+          "est_minutes": 30,
+          "title": { "en": "Check your Partner Program progress", "pl": "Sprawdź postęp w Programie partnerskim" },
+          "why": {
+            "en": "Knowing how far you are from monetization keeps you motivated and shows whether Shorts or long videos move you faster.",
+            "pl": "Wiedza, ile brakuje do monetyzacji, motywuje i pokazuje, czy szybciej rosną Shorts, czy długie filmy."
+          },
+          "instructions": {
+            "en": [
+              "Open the Earn section in YouTube Studio and check your subscribers and watch hours.",
+              "Read the current eligibility rules and channel monetization policies.",
+              "Set a realistic target date and write it in your plan."
+            ],
+            "pl": [
+              "Otwórz sekcję Zarabianie w YouTube Studio i sprawdź subskrypcje oraz godziny oglądania.",
+              "Przeczytaj aktualne warunki udziału i zasady zarabiania na kanale.",
+              "Ustal realną datę celu i zapisz ją w planie."
+            ]
+          },
+          "metric_to_track": { "en": "Watch hours", "pl": "Godziny oglądania" },
+          "resources": [
+            { "title": { "en": "YouTube Partner Program eligibility", "pl": "Warunki Programu partnerskiego YouTube" }, "url": "https://support.google.com/youtube/answer/72851" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Plan your next 12 videos", "pl": "Zaplanuj kolejne 12 filmów" },
+          "why": {
+            "en": "A ready plan removes the ‘what do I make next?’ block and keeps the weekly rhythm going.",
+            "pl": "Gotowy plan usuwa blokadę „co teraz nagrać?” i podtrzymuje cotygodniowy rytm."
+          },
+          "instructions": {
+            "en": [
+              "List your 3 best videos by views and watch time.",
+              "Write 4 follow-up ideas for each.",
+              "Put all 12 in a calendar, one per week.",
+              "Check how side income is taxed where you live before money starts coming in."
+            ],
+            "pl": [
+              "Wypisz 3 najlepsze filmy według wyświetleń i czasu oglądania.",
+              "Do każdego zapisz 4 pomysły na kontynuację.",
+              "Wpisz wszystkie 12 do kalendarza, po jednym na tydzień.",
+              "Zanim pojawią się pieniądze, sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju."
+            ]
+          },
+          "metric_to_track": { "en": "Videos planned", "pl": "Zaplanowane filmy" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$50 / month", "pl": "0–50 $ / mies." },
+      "note": { "en": "Usually only affiliate income. Focus on publishing every week.", "pl": "Zwykle tylko dochód z afiliacji. Skup się na cotygodniowej publikacji." }
+    },
+    {
+      "label": { "en": "Months 4–8", "pl": "Miesiące 4–8" },
+      "range": { "en": "$0–$300 / month", "pl": "0–300 $ / mies." },
+      "note": { "en": "Ad revenue starts once you join the Partner Program.", "pl": "Przychody z reklam zaczynają się po dołączeniu do Programu partnerskiego." }
+    },
+    {
+      "label": { "en": "Months 9–18", "pl": "Miesiące 9–18" },
+      "range": { "en": "$100–$2,000 / month", "pl": "100–2000 $ / mies." },
+      "note": { "en": "Growing channels add sponsors on top of ads and affiliates.", "pl": "Rosnące kanały dokładają sponsorów do reklam i afiliacji." }
+    }
+  ]
+}

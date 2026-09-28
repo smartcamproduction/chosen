@@ -1,0 +1,428 @@
+{
+  "hustle_slug": "amazon-kdp",
+  "total_weeks": 12,
+  "weekly_metrics": ["titles_published", "sales", "reviews"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Research & account", "pl": "Badanie rynku i konto" },
+      "goal": {
+        "en": "Find a book niche with proven demand and set up your KDP account.",
+        "pl": "Znajdź niszę książkową ze sprawdzonym popytem i załóż konto KDP."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 90,
+          "title": { "en": "Find a niche with proven demand", "pl": "Znajdź niszę ze sprawdzonym popytem" },
+          "why": {
+            "en": "Books sell when people already search for them. A good niche has steady sellers but not a wall of big-brand competitors.",
+            "pl": "Książki sprzedają się, gdy ludzie już ich szukają. Dobra nisza ma stale sprzedające się tytuły, ale nie mur dużych wydawnictw."
+          },
+          "instructions": {
+            "en": [
+              "Browse Amazon for low-content books (journals, logbooks, puzzle books) or short guides in areas you know.",
+              "Open 10 books per idea and check their Best Sellers Rank. A rank under about 100,000 usually means regular sales.",
+              "Read 1- and 3-star reviews to see what buyers wish were better.",
+              "Pick one niche and one specific buyer (e.g. ‘gratitude journal for new moms’)."
+            ],
+            "pl": [
+              "Przejrzyj Amazon pod kątem książek low-content (dzienniki, logbooki, łamigłówki) lub krótkich poradników z dziedzin, które znasz.",
+              "Otwórz po 10 książek na pomysł i sprawdź Best Sellers Rank. Ranking poniżej około 100 000 zwykle oznacza regularną sprzedaż.",
+              "Przeczytaj opinie 1- i 3-gwiazdkowe, by zobaczyć, czego brakuje kupującym.",
+              "Wybierz jedną niszę i konkretnego odbiorcę (np. „dziennik wdzięczności dla młodych mam”)."
+            ]
+          },
+          "metric_to_track": { "en": "Niche chosen", "pl": "Wybrana nisza" },
+          "resources": [],
+          "tools": [{ "name": "Publisher Rocket", "url": "https://publisherrocket.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Set up your KDP account", "pl": "Załóż konto KDP" },
+          "why": {
+            "en": "KDP lets you publish for free. Amazon prints each copy when it's ordered, so there's no stock to buy.",
+            "pl": "KDP pozwala publikować za darmo. Amazon drukuje każdy egzemplarz po zamówieniu, więc nie kupujesz nakładu."
+          },
+          "instructions": {
+            "en": [
+              "Create an account at KDP with your Amazon login.",
+              "Complete the tax interview and add bank details for royalty payments.",
+              "Read KDP's content guidelines, including the rules for AI-generated content."
+            ],
+            "pl": [
+              "Załóż konto na KDP, logując się kontem Amazon.",
+              "Wypełnij formularz podatkowy i dodaj dane bankowe do wypłat tantiem.",
+              "Przeczytaj wytyczne KDP dotyczące treści, w tym zasady dla treści generowanych przez AI."
+            ]
+          },
+          "metric_to_track": { "en": "Account ready", "pl": "Konto gotowe" },
+          "resources": [
+            { "title": { "en": "KDP Help Center", "pl": "Centrum pomocy KDP (ang.)" }, "url": "https://kdp.amazon.com/en_US/help" }
+          ],
+          "tools": [{ "name": "Amazon KDP", "url": "https://kdp.amazon.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Collect keywords and categories", "pl": "Zbierz słowa kluczowe i kategorie" },
+          "why": {
+            "en": "Amazon is a search engine. The right title, subtitle and keywords decide whether buyers ever see your book.",
+            "pl": "Amazon to wyszukiwarka. Właściwy tytuł, podtytuł i słowa kluczowe decydują, czy kupujący w ogóle zobaczą książkę."
+          },
+          "instructions": {
+            "en": [
+              "Type your niche into Amazon's search bar and write down the autocomplete suggestions.",
+              "Pick 7 keyword phrases for the 7 keyword boxes in KDP.",
+              "Note 2–3 specific categories where similar books rank well."
+            ],
+            "pl": [
+              "Wpisz niszę w wyszukiwarkę Amazona i zapisz podpowiedzi autouzupełniania.",
+              "Wybierz 7 fraz do 7 pól słów kluczowych w KDP.",
+              "Zanotuj 2–3 konkretne kategorie, w których podobne książki mają dobry ranking."
+            ]
+          },
+          "metric_to_track": { "en": "7 keywords chosen", "pl": "7 wybranych słów kluczowych" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Plan your first book", "pl": "Zaplanuj pierwszą książkę" },
+          "why": {
+            "en": "A clear outline (pages, sections, trim size) turns a vague idea into a book you can finish in two weeks.",
+            "pl": "Jasny plan (strony, sekcje, format) zamienia ogólny pomysł w książkę, którą skończysz w dwa tygodnie."
+          },
+          "instructions": {
+            "en": [
+              "Choose a common trim size (e.g. 6×9 in for guides, 8.5×11 in for activity books).",
+              "Outline sections and page count.",
+              "List what will make your book better than the reviews you read."
+            ],
+            "pl": [
+              "Wybierz popularny format (np. 6×9 cala dla poradników, 8,5×11 cala dla książek z zadaniami).",
+              "Rozpisz sekcje i liczbę stron.",
+              "Zapisz, co sprawi, że książka będzie lepsza od tych z przeczytanych opinii."
+            ]
+          },
+          "metric_to_track": { "en": "Outline ready", "pl": "Gotowy plan" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First book", "pl": "Pierwsza książka" },
+      "goal": {
+        "en": "Create, check and publish your first title.",
+        "pl": "Stwórz, sprawdź i opublikuj pierwszy tytuł."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 60,
+          "est_minutes": 480,
+          "title": { "en": "Create the interior", "pl": "Przygotuj wnętrze książki" },
+          "why": {
+            "en": "The interior is what buyers use every day. Clean layout and useful content earn good reviews.",
+            "pl": "Wnętrze to to, z czego kupujący korzystają na co dzień. Czysty układ i przydatna treść zbierają dobre opinie."
+          },
+          "instructions": {
+            "en": [
+              "Design the pages in Canva or a word processor at your exact trim size, with margins for printing.",
+              "Keep text and important elements inside the safe area KDP specifies.",
+              "Export a print-ready PDF and check every page."
+            ],
+            "pl": [
+              "Zaprojektuj strony w Canvie lub edytorze tekstu w dokładnym formacie, z marginesami do druku.",
+              "Trzymaj tekst i ważne elementy w bezpiecznym obszarze wskazanym przez KDP.",
+              "Wyeksportuj PDF gotowy do druku i sprawdź każdą stronę."
+            ]
+          },
+          "metric_to_track": { "en": "Interior PDF ready", "pl": "Gotowy PDF wnętrza" },
+          "resources": [
+            { "title": { "en": "KDP Help Center", "pl": "Centrum pomocy KDP (ang.)" }, "url": "https://kdp.amazon.com/en_US/help" }
+          ],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Design a cover that stands out", "pl": "Zaprojektuj wyróżniającą się okładkę" },
+          "why": {
+            "en": "Buyers see a thumbnail first. A clear, readable cover in your niche's style gets the click.",
+            "pl": "Kupujący najpierw widzą miniaturę. Czytelna okładka w stylu niszy zdobywa kliknięcie."
+          },
+          "instructions": {
+            "en": [
+              "Use KDP's cover calculator to get the exact full-cover size for your page count.",
+              "Make the title readable even at thumbnail size.",
+              "Compare your cover side by side with the top 10 books in your niche."
+            ],
+            "pl": [
+              "Użyj kalkulatora okładek KDP, by poznać dokładny rozmiar okładki dla liczby stron.",
+              "Zadbaj, by tytuł był czytelny nawet w miniaturze.",
+              "Porównaj okładkę obok 10 najlepszych książek w niszy."
+            ]
+          },
+          "metric_to_track": { "en": "Cover ready", "pl": "Gotowa okładka" },
+          "resources": [
+            { "title": { "en": "KDP cover calculator", "pl": "Kalkulator okładek KDP" }, "url": "https://kdp.amazon.com/cover-calculator" }
+          ],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 50,
+          "est_minutes": 90,
+          "title": { "en": "Publish your first title", "pl": "Opublikuj pierwszy tytuł" },
+          "why": {
+            "en": "Publishing teaches you the whole KDP process. After review, your book can be for sale within a few days.",
+            "pl": "Publikacja uczy całego procesu KDP. Po weryfikacji książka może być w sprzedaży w ciągu kilku dni."
+          },
+          "instructions": {
+            "en": [
+              "Enter the title, subtitle and description using your keywords naturally.",
+              "Add your 7 keywords and choose categories.",
+              "Upload interior and cover, fix any issues in the previewer, and set a competitive price.",
+              "Disclose AI-generated content if you used AI, as KDP requires."
+            ],
+            "pl": [
+              "Wpisz tytuł, podtytuł i opis, naturalnie używając słów kluczowych.",
+              "Dodaj 7 słów kluczowych i wybierz kategorie.",
+              "Wgraj wnętrze i okładkę, popraw błędy w podglądzie i ustaw konkurencyjną cenę.",
+              "Jeśli korzystasz z AI, zaznacz treści wygenerowane przez AI, zgodnie z wymogami KDP."
+            ]
+          },
+          "metric_to_track": { "en": "Titles published", "pl": "Opublikowane tytuły" },
+          "resources": [],
+          "tools": [{ "name": "Amazon KDP", "url": "https://kdp.amazon.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Order an author copy", "pl": "Zamów egzemplarz autorski" },
+          "why": {
+            "en": "Holding the printed book reveals problems a screen hides: margins, paper, color.",
+            "pl": "Wydrukowana książka ujawnia problemy niewidoczne na ekranie: marginesy, papier, kolor."
+          },
+          "instructions": {
+            "en": [
+              "Order one author copy at printing cost.",
+              "Check every page and the cover.",
+              "Fix and re-upload anything that's off."
+            ],
+            "pl": [
+              "Zamów jeden egzemplarz autorski w cenie druku.",
+              "Sprawdź każdą stronę i okładkę.",
+              "Popraw i wgraj ponownie wszystko, co odstaje."
+            ]
+          },
+          "metric_to_track": { "en": "Author copy checked", "pl": "Sprawdzony egzemplarz" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Build a catalog", "pl": "Budowa katalogu" },
+      "goal": {
+        "en": "Publish 3–4 more titles in the same niche and get your first reviews.",
+        "pl": "Opublikuj 3–4 kolejne tytuły w tej samej niszy i zdobądź pierwsze opinie."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 60,
+          "est_minutes": 600,
+          "title": { "en": "Publish 3 related titles", "pl": "Opublikuj 3 powiązane tytuły" },
+          "why": {
+            "en": "Most KDP income comes from a catalog, not one hit. Related titles also get shown next to each other.",
+            "pl": "Większość dochodu z KDP pochodzi z katalogu, a nie z jednego hitu. Powiązane tytuły wyświetlają się też obok siebie."
+          },
+          "instructions": {
+            "en": [
+              "Create variations for new buyers, themes or formats (e.g. large print, a different audience).",
+              "Reuse your interior template to save time.",
+              "Keep in mind that KDP limits how many titles you can publish per day."
+            ],
+            "pl": [
+              "Twórz warianty dla nowych odbiorców, motywów lub formatów (np. duży druk, inna grupa).",
+              "Korzystaj z szablonu wnętrza, by oszczędzić czas.",
+              "Pamiętaj, że KDP ogranicza liczbę tytułów publikowanych dziennie."
+            ]
+          },
+          "metric_to_track": { "en": "Titles published", "pl": "Opublikowane tytuły" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Get honest first reviews", "pl": "Zdobądź pierwsze uczciwe opinie" },
+          "why": {
+            "en": "Reviews build trust with buyers. Amazon has strict rules, so only ask in allowed ways.",
+            "pl": "Opinie budują zaufanie kupujących. Amazon ma ścisłe zasady, więc proś tylko w dozwolony sposób."
+          },
+          "instructions": {
+            "en": [
+              "Add a short, polite note at the end of your book asking readers for an honest review.",
+              "Never pay for reviews or ask family and friends to review. Amazon removes those.",
+              "Share the book in communities where it genuinely helps, following their rules."
+            ],
+            "pl": [
+              "Dodaj na końcu książki krótką, uprzejmą prośbę o szczerą opinię.",
+              "Nigdy nie płać za opinie ani nie proś o nie rodziny i znajomych. Amazon je usuwa.",
+              "Poleć książkę w społecznościach, w których naprawdę pomoże, zgodnie z ich zasadami."
+            ]
+          },
+          "metric_to_track": { "en": "Reviews", "pl": "Opinie" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 30,
+          "est_minutes": 30,
+          "title": { "en": "Track royalties and taxes", "pl": "Śledź tantiemy i podatki" },
+          "why": {
+            "en": "Royalties arrive about two months after the sales month. Tracking shows which titles really earn.",
+            "pl": "Tantiemy wpływają około dwóch miesięcy po miesiącu sprzedaży. Śledzenie pokazuje, które tytuły naprawdę zarabiają."
+          },
+          "instructions": {
+            "en": [
+              "Check the KDP Reports page weekly.",
+              "Log units sold and royalties per title in a sheet.",
+              "Check how book royalties are taxed where you live."
+            ],
+            "pl": [
+              "Co tydzień sprawdzaj raporty w KDP.",
+              "Zapisuj w arkuszu sprzedane egzemplarze i tantiemy dla każdego tytułu.",
+              "Sprawdź, jak rozlicza się tantiemy w Twoim kraju."
+            ]
+          },
+          "metric_to_track": { "en": "Royalties per title", "pl": "Tantiemy na tytuł" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Scale", "pl": "Skalowanie" },
+      "goal": {
+        "en": "Double down on titles that sell and test small ads.",
+        "pl": "Postaw na tytuły, które się sprzedają, i przetestuj małe reklamy."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 50,
+          "est_minutes": 60,
+          "title": { "en": "Find your best title and why it sells", "pl": "Znajdź najlepszy tytuł i powód jego sprzedaży" },
+          "why": {
+            "en": "Your data now shows which niche angle works. The next books should build on it.",
+            "pl": "Dane pokazują już, które podejście do niszy działa. Kolejne książki powinny na nim bazować."
+          },
+          "instructions": {
+            "en": [
+              "Compare sales per title over the last 30 days.",
+              "Note what the best seller does differently (keywords, cover, audience).",
+              "Plan 3 new titles that use the same winning angle."
+            ],
+            "pl": [
+              "Porównaj sprzedaż tytułów z ostatnich 30 dni.",
+              "Zanotuj, czym różni się bestseller (słowa kluczowe, okładka, odbiorcy).",
+              "Zaplanuj 3 nowe tytuły korzystające z tego samego podejścia."
+            ]
+          },
+          "metric_to_track": { "en": "Sales per title", "pl": "Sprzedaż na tytuł" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 50,
+          "est_minutes": 60,
+          "title": { "en": "Test Amazon Ads on your best title", "pl": "Przetestuj Amazon Ads na najlepszym tytule" },
+          "why": {
+            "en": "Small, targeted ads can push a proven book higher in search. Unproven books usually just burn budget.",
+            "pl": "Małe, celowane reklamy mogą podnieść sprawdzoną książkę w wynikach. Przy niesprawdzonych zwykle tylko przepalają budżet."
+          },
+          "instructions": {
+            "en": [
+              "Start an automatic Sponsored Products campaign with a small daily budget.",
+              "After 2 weeks, check which search terms led to sales.",
+              "Keep only campaigns where ad cost is lower than your royalty."
+            ],
+            "pl": [
+              "Uruchom automatyczną kampanię Sponsored Products z małym dziennym budżetem.",
+              "Po 2 tygodniach sprawdź, które wyszukiwane frazy przyniosły sprzedaż.",
+              "Zostaw tylko kampanie, w których koszt reklamy jest niższy niż tantiemy."
+            ]
+          },
+          "metric_to_track": { "en": "Ad cost per sale", "pl": "Koszt reklamy na sprzedaż" },
+          "resources": [],
+          "tools": [{ "name": "Amazon Ads", "url": "https://advertising.amazon.com", "affiliate": false }]
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 480,
+          "title": { "en": "Publish your next 3 titles", "pl": "Opublikuj kolejne 3 tytuły" },
+          "why": {
+            "en": "Authors with 10+ titles in a good niche are the ones who reach steady monthly income.",
+            "pl": "Autorzy z 10+ tytułami w dobrej niszy to ci, którzy osiągają stały miesięczny dochód."
+          },
+          "instructions": {
+            "en": [
+              "Create the 3 titles you planned from your best seller's angle.",
+              "Link them together as a series where it makes sense.",
+              "Keep a steady rhythm of 1–2 new titles per month."
+            ],
+            "pl": [
+              "Stwórz 3 zaplanowane tytuły w oparciu o podejście bestsellera.",
+              "Połącz je w serię, gdzie ma to sens.",
+              "Utrzymuj rytm 1–2 nowych tytułów miesięcznie."
+            ]
+          },
+          "metric_to_track": { "en": "Titles published", "pl": "Opublikowane tytuły" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$100 / month", "pl": "0–100 $ / mies." },
+      "note": { "en": "Early titles often sell a few copies while you learn.", "pl": "Pierwsze tytuły często sprzedają kilka egzemplarzy, gdy się uczysz." }
+    },
+    {
+      "label": { "en": "Months 4–6", "pl": "Miesiące 4–6" },
+      "range": { "en": "$50–$400 / month", "pl": "50–400 $ / mies." },
+      "note": { "en": "A catalog of 5–10 related titles in one niche.", "pl": "Katalog 5–10 powiązanych tytułów w jednej niszy." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$200–$1,500 / month", "pl": "200–1500 $ / mies." },
+      "note": { "en": "Typical for authors with 10+ titles and some ads.", "pl": "Typowe dla autorów z 10+ tytułami i niewielkimi reklamami." }
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "hustle_slug": "stock-media",
+  "total_weeks": 12,
+  "weekly_metrics": ["files_uploaded", "downloads"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Accounts & first shoot", "pl": "Konta i pierwsza sesja" },
+      "goal": {
+        "en": "Learn what buyers need, open contributor accounts and shoot your first 30 photos.",
+        "pl": "Dowiedz się, czego potrzebują kupujący, załóż konta współtwórcy i zrób pierwsze 30 zdjęć."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Study what sells", "pl": "Sprawdź, co się sprzedaje" },
+          "why": {
+            "en": "Stock buyers are businesses. They need clear, useful images of everyday concepts (work, food, health, money, home), not artistic landscapes.",
+            "pl": "Kupujący stock to firmy. Potrzebują czytelnych, użytecznych obrazów codziennych pojęć (praca, jedzenie, zdrowie, pieniądze, dom), a nie artystycznych pejzaży."
+          },
+          "instructions": {
+            "en": [
+              "Browse the most popular results on Adobe Stock and Shutterstock for topics near you.",
+              "Note common concepts, compositions and space left for text.",
+              "List 20 shots you can take with what you have around you."
+            ],
+            "pl": [
+              "Przejrzyj najpopularniejsze wyniki w Adobe Stock i Shutterstock dla tematów z Twojego otoczenia.",
+              "Zanotuj popularne motywy, kompozycje i miejsce zostawione na tekst.",
+              "Wypisz 20 ujęć, które zrobisz przy użyciu tego, co masz wokół siebie."
+            ]
+          },
+          "metric_to_track": { "en": "Shot list of 20", "pl": "Lista 20 ujęć" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Open contributor accounts", "pl": "Załóż konta współtwórcy" },
+          "why": {
+            "en": "Uploading to several agencies multiplies the chances each file sells, for almost no extra work.",
+            "pl": "Wgrywanie do kilku agencji zwielokrotnia szansę sprzedaży każdego pliku niemal bez dodatkowej pracy."
+          },
+          "instructions": {
+            "en": [
+              "Sign up as a contributor on Adobe Stock and Shutterstock.",
+              "Complete identity and tax information so payouts work.",
+              "Read each agency's submission guidelines."
+            ],
+            "pl": [
+              "Zarejestruj się jako współtwórca w Adobe Stock i Shutterstock.",
+              "Uzupełnij dane tożsamości i podatkowe, by wypłaty działały.",
+              "Przeczytaj zasady przesyłania w każdej agencji."
+            ]
+          },
+          "metric_to_track": { "en": "Accounts approved", "pl": "Zatwierdzone konta" },
+          "resources": [
+            { "title": { "en": "Adobe Stock contributor help", "pl": "Pomoc dla współtwórców Adobe Stock (ang.)" }, "url": "https://helpx.adobe.com/stock/contributor.html" }
+          ],
+          "tools": [
+            { "name": "Adobe Stock Contributor", "url": "https://contributor.stock.adobe.com", "affiliate": false },
+            { "name": "Shutterstock Contributor", "url": "https://submit.shutterstock.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Learn the legal rules", "pl": "Poznaj zasady prawne" },
+          "why": {
+            "en": "Most rejections come from logos, trademarks or people without releases. Knowing the rules saves hours of wasted uploads.",
+            "pl": "Większość odrzuceń wynika z logotypów, znaków towarowych lub osób bez zgody. Znajomość zasad oszczędza godziny zmarnowanych uploadów."
+          },
+          "instructions": {
+            "en": [
+              "Avoid logos, brand names, artwork and recognizable buildings that need permission.",
+              "Get a signed model release for any recognizable person.",
+              "If you use AI tools, follow each agency's rules for labeling or submitting AI content."
+            ],
+            "pl": [
+              "Unikaj logotypów, nazw marek, dzieł sztuki i rozpoznawalnych budynków wymagających zgody.",
+              "Uzyskaj podpisaną zgodę modela dla każdej rozpoznawalnej osoby.",
+              "Jeśli używasz narzędzi AI, stosuj się do zasad oznaczania lub przesyłania treści AI w każdej agencji."
+            ]
+          },
+          "metric_to_track": { "en": "Rules checklist ready", "pl": "Gotowa lista zasad" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s4",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Shoot your first 30 photos", "pl": "Zrób pierwsze 30 zdjęć" },
+          "why": {
+            "en": "A modern phone is enough to start. Good light, sharp focus and a clear subject matter more than the camera.",
+            "pl": "Na start wystarczy nowoczesny telefon. Dobre światło, ostrość i wyraźny motyw są ważniejsze niż aparat."
+          },
+          "instructions": {
+            "en": [
+              "Shoot in soft daylight and keep the horizon straight.",
+              "Take each subject in horizontal and vertical versions, with and without space for text.",
+              "Check sharpness at 100% zoom before keeping a photo."
+            ],
+            "pl": [
+              "Fotografuj w miękkim świetle dziennym i trzymaj prosty horyzont.",
+              "Każdy motyw zrób w poziomie i pionie, z miejscem na tekst i bez.",
+              "Zanim zostawisz zdjęcie, sprawdź ostrość w powiększeniu 100%."
+            ]
+          },
+          "metric_to_track": { "en": "Photos shot", "pl": "Zrobione zdjęcia" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First uploads", "pl": "Pierwsze uploady" },
+      "goal": {
+        "en": "Edit, keyword and upload your first 50 files.",
+        "pl": "Obrób, opisz słowami kluczowymi i prześlij pierwsze 50 plików."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Edit and add keywords", "pl": "Obróbka i słowa kluczowe" },
+          "why": {
+            "en": "Buyers only find what's keyworded well. A precise title and relevant keywords are half of every sale.",
+            "pl": "Kupujący znajdą tylko to, co jest dobrze opisane. Precyzyjny tytuł i trafne słowa kluczowe to połowa każdej sprzedaży."
+          },
+          "instructions": {
+            "en": [
+              "Do light edits: exposure, straightening, cropping. Avoid heavy filters.",
+              "Write a descriptive title that says what, who, where and the concept.",
+              "Add relevant keywords, most important first. Don't add unrelated words."
+            ],
+            "pl": [
+              "Zrób lekką obróbkę: ekspozycja, prostowanie, kadrowanie. Unikaj mocnych filtrów.",
+              "Napisz opisowy tytuł: co, kto, gdzie i jakie pojęcie.",
+              "Dodaj trafne słowa kluczowe, najważniejsze na początku. Nie dodawaj niezwiązanych słów."
+            ]
+          },
+          "metric_to_track": { "en": "Files ready", "pl": "Gotowe pliki" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Upload your first 50 files", "pl": "Prześlij pierwsze 50 plików" },
+          "why": {
+            "en": "Stock income grows with portfolio size. The sooner files are live, the sooner they can start selling.",
+            "pl": "Dochód ze stocku rośnie wraz z portfolio. Im szybciej pliki są online, tym szybciej mogą się sprzedawać."
+          },
+          "instructions": {
+            "en": [
+              "Upload the same files to both agencies.",
+              "Pick categories carefully and attach releases where needed.",
+              "Submit and note the date so you can track review times."
+            ],
+            "pl": [
+              "Prześlij te same pliki do obu agencji.",
+              "Starannie wybieraj kategorie i dołączaj zgody, gdzie trzeba.",
+              "Wyślij do weryfikacji i zanotuj datę, by śledzić czas oceny."
+            ]
+          },
+          "metric_to_track": { "en": "Files uploaded", "pl": "Przesłane pliki" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Learn from rejections", "pl": "Ucz się na odrzuceniach" },
+          "why": {
+            "en": "Rejections are free feedback. Fixing the common reason can double your acceptance rate.",
+            "pl": "Odrzucenia to darmowa informacja zwrotna. Naprawa najczęstszej przyczyny może podwoić odsetek akceptacji."
+          },
+          "instructions": {
+            "en": [
+              "Group rejections by reason (focus, noise, trademark, similar content).",
+              "Fix the most common issue in your next shoot.",
+              "Resubmit only files where the problem is fixable."
+            ],
+            "pl": [
+              "Pogrupuj odrzucenia według przyczyny (ostrość, szum, znak towarowy, podobne treści).",
+              "W kolejnej sesji wyeliminuj najczęstszy problem.",
+              "Wysyłaj ponownie tylko pliki, które da się poprawić."
+            ]
+          },
+          "metric_to_track": { "en": "Acceptance rate", "pl": "Odsetek akceptacji" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Track earnings and taxes", "pl": "Śledź zarobki i podatki" },
+          "why": {
+            "en": "Stock earnings come in small amounts from several agencies. A simple log shows your real progress.",
+            "pl": "Zarobki ze stocku to małe kwoty z kilku agencji. Prosty zapis pokazuje realne postępy."
+          },
+          "instructions": {
+            "en": [
+              "Log files online, downloads and earnings per agency each week.",
+              "Note your earnings per file per month.",
+              "Check how licensing income is taxed where you live."
+            ],
+            "pl": [
+              "Co tydzień zapisuj pliki online, pobrania i zarobki w każdej agencji.",
+              "Notuj miesięczny zarobek na plik.",
+              "Sprawdź, jak rozlicza się dochody z licencji w Twoim kraju."
+            ]
+          },
+          "metric_to_track": { "en": "Earnings per file", "pl": "Zarobek na plik" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Series & video", "pl": "Serie i wideo" },
+      "goal": {
+        "en": "Shoot themed series, add video clips and learn what sells.",
+        "pl": "Rób serie tematyczne, dodaj klipy wideo i sprawdź, co się sprzedaje."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 60,
+          "est_minutes": 300,
+          "title": { "en": "Shoot 3 themed series", "pl": "Zrób 3 serie tematyczne" },
+          "why": {
+            "en": "Buyers often need several related images. Series of 20–40 shots on one theme sell better than random single photos.",
+            "pl": "Kupujący często potrzebują kilku powiązanych obrazów. Serie po 20–40 ujęć na jeden temat sprzedają się lepiej niż przypadkowe zdjęcia."
+          },
+          "instructions": {
+            "en": [
+              "Pick 3 concepts from your research (e.g. ‘working from home’, ‘healthy breakfast’, ‘budgeting’).",
+              "Shoot each from many angles: close-ups, wide shots, details, flat lays.",
+              "Keyword and upload each series."
+            ],
+            "pl": [
+              "Wybierz 3 pojęcia z badania (np. „praca z domu”, „zdrowe śniadanie”, „budżet domowy”).",
+              "Sfotografuj każde z wielu ujęć: zbliżenia, plany ogólne, detale, zdjęcia z góry.",
+              "Opisz i prześlij każdą serię."
+            ]
+          },
+          "metric_to_track": { "en": "Files uploaded", "pl": "Przesłane pliki" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Add 20 short video clips", "pl": "Dodaj 20 krótkich klipów wideo" },
+          "why": {
+            "en": "Video clips usually earn more per download than photos and face less competition.",
+            "pl": "Klipy wideo zwykle zarabiają więcej na pobraniu niż zdjęcia i mają mniejszą konkurencję."
+          },
+          "instructions": {
+            "en": [
+              "Film 10–20 second clips on a tripod, with steady, slow movement.",
+              "Shoot in the highest quality your phone supports.",
+              "Trim the start and end, then keyword and upload."
+            ],
+            "pl": [
+              "Nagrywaj 10–20-sekundowe klipy ze statywu, ze stabilnym, powolnym ruchem.",
+              "Nagrywaj w najwyższej jakości, jaką obsługuje telefon.",
+              "Przytnij początek i koniec, opisz i prześlij."
+            ]
+          },
+          "metric_to_track": { "en": "Clips uploaded", "pl": "Przesłane klipy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 45,
+          "title": { "en": "Find what sells and shoot more of it", "pl": "Znajdź to, co się sprzedaje, i rób więcej" },
+          "why": {
+            "en": "Your first downloads reveal what buyers want from you specifically.",
+            "pl": "Pierwsze pobrania pokazują, czego kupujący chcą właśnie od Ciebie."
+          },
+          "instructions": {
+            "en": [
+              "Check which files got downloads and why (subject, style, keywords).",
+              "Plan a new series around your top file.",
+              "Improve keywords on similar files that haven't sold."
+            ],
+            "pl": [
+              "Sprawdź, które pliki zostały pobrane i dlaczego (motyw, styl, słowa kluczowe).",
+              "Zaplanuj nową serię wokół najlepszego pliku.",
+              "Popraw słowa kluczowe w podobnych plikach, które się nie sprzedały."
+            ]
+          },
+          "metric_to_track": { "en": "Downloads", "pl": "Pobrania" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Build volume", "pl": "Budowa skali" },
+      "goal": {
+        "en": "Grow your portfolio steadily and add another agency.",
+        "pl": "Regularnie powiększaj portfolio i dodaj kolejną agencję."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 60,
+          "est_minutes": 600,
+          "title": { "en": "Grow to 300 files", "pl": "Dojdź do 300 plików" },
+          "why": {
+            "en": "Stock is a volume game. Portfolios of several hundred strong files are where monthly income becomes noticeable.",
+            "pl": "Stock to gra skali. Przy portfolio z kilkuset dobrymi plikami miesięczny dochód staje się zauważalny."
+          },
+          "instructions": {
+            "en": [
+              "Set a weekly upload target (e.g. 40 files).",
+              "Batch shooting on one day and keywording on another.",
+              "Keep quality high. Rejections waste time."
+            ],
+            "pl": [
+              "Ustal tygodniowy cel uploadów (np. 40 plików).",
+              "Grupuj zdjęcia w jeden dzień, a opisywanie w inny.",
+              "Dbaj o jakość. Odrzucenia marnują czas."
+            ]
+          },
+          "metric_to_track": { "en": "Files online", "pl": "Pliki online" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Plan seasonal shoots", "pl": "Zaplanuj sesje sezonowe" },
+          "why": {
+            "en": "Buyers look for seasonal images weeks before holidays. Uploading early catches that demand.",
+            "pl": "Kupujący szukają zdjęć sezonowych na tygodnie przed świętami. Wczesny upload łapie ten popyt."
+          },
+          "instructions": {
+            "en": [
+              "List holidays and seasons for the next 4 months.",
+              "Plan one shoot for each, 6–8 weeks before it.",
+              "Include diverse, inclusive scenes where possible."
+            ],
+            "pl": [
+              "Wypisz święta i sezony na najbliższe 4 miesiące.",
+              "Zaplanuj jedną sesję na każde, 6–8 tygodni wcześniej.",
+              "Tam, gdzie to możliwe, uwzględnij różnorodne, inkluzywne sceny."
+            ]
+          },
+          "metric_to_track": { "en": "Seasonal shoots planned", "pl": "Zaplanowane sesje sezonowe" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Add a third agency", "pl": "Dodaj trzecią agencję" },
+          "why": {
+            "en": "Pond5 is strong for video. Another agency means more buyers for files you already have.",
+            "pl": "Pond5 jest mocny w wideo. Kolejna agencja to więcej kupujących dla plików, które już masz."
+          },
+          "instructions": {
+            "en": [
+              "Create a contributor account on Pond5.",
+              "Upload your best clips and photos first.",
+              "Compare earnings per agency after one month."
+            ],
+            "pl": [
+              "Załóż konto współtwórcy w Pond5.",
+              "Najpierw prześlij najlepsze klipy i zdjęcia.",
+              "Po miesiącu porównaj zarobki w każdej agencji."
+            ]
+          },
+          "metric_to_track": { "en": "Earnings per agency", "pl": "Zarobki w agencji" },
+          "resources": [],
+          "tools": [{ "name": "Pond5", "url": "https://www.pond5.com", "affiliate": false }]
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$50 / month", "pl": "0–50 $ / mies." },
+      "note": { "en": "First downloads trickle in as your portfolio grows.", "pl": "Pierwsze pobrania pojawiają się w miarę wzrostu portfolio." }
+    },
+    {
+      "label": { "en": "Months 4–8", "pl": "Miesiące 4–8" },
+      "range": { "en": "$30–$200 / month", "pl": "30–200 $ / mies." },
+      "note": { "en": "Several hundred files and a few best sellers.", "pl": "Kilkaset plików i kilka bestsellerów." }
+    },
+    {
+      "label": { "en": "Months 9–18", "pl": "Miesiące 9–18" },
+      "range": { "en": "$100–$800 / month", "pl": "100–800 $ / mies." },
+      "note": { "en": "Typical for portfolios of 500+ strong files, including video.", "pl": "Typowe dla portfolio z 500+ dobrymi plikami, także wideo." }
+    }
+  ]
+}

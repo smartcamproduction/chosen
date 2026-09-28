@@ -1,0 +1,425 @@
+{
+  "hustle_slug": "ai-automations",
+  "total_weeks": 12,
+  "weekly_metrics": ["pitches_sent", "calls_booked", "clients"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Skills & offer", "pl": "Umiejętności i oferta" },
+      "goal": {
+        "en": "Learn the basics of Make or Zapier and define one automation you can sell.",
+        "pl": "Poznaj podstawy Make lub Zapier i określ jedną automatyzację, którą możesz sprzedać."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 40,
+          "est_minutes": 180,
+          "title": { "en": "Learn the basics of Make or Zapier", "pl": "Poznaj podstawy Make lub Zapier" },
+          "why": {
+            "en": "You only need to master a few building blocks (triggers, filters, AI steps, spreadsheets, email) to solve most small-business problems.",
+            "pl": "Wystarczy opanować kilka elementów (wyzwalacze, filtry, kroki AI, arkusze, e-mail), by rozwiązać większość problemów małych firm."
+          },
+          "instructions": {
+            "en": [
+              "Create a free account on Make or Zapier.",
+              "Complete the beginner lessons in their academy.",
+              "Build 3 practice automations: form → spreadsheet, new email → summary with AI, new lead → reminder email."
+            ],
+            "pl": [
+              "Załóż darmowe konto w Make lub Zapier.",
+              "Przejdź lekcje dla początkujących w ich akademii.",
+              "Zbuduj 3 automatyzacje ćwiczeniowe: formularz → arkusz, nowy e-mail → podsumowanie AI, nowy lead → e-mail z przypomnieniem."
+            ]
+          },
+          "metric_to_track": { "en": "Practice automations built", "pl": "Zbudowane automatyzacje ćwiczeniowe" },
+          "resources": [
+            { "title": { "en": "Make Academy", "pl": "Make Academy (ang.)" }, "url": "https://academy.make.com" }
+          ],
+          "tools": [
+            { "name": "Make", "url": "https://www.make.com", "affiliate": false },
+            { "name": "Zapier", "url": "https://zapier.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Pick one industry and one painful task", "pl": "Wybierz jedną branżę i jedno uciążliwe zadanie" },
+          "why": {
+            "en": "‘I automate lead follow-ups for dental clinics’ is easy to understand and easy to buy. ‘I do automations’ isn't.",
+            "pl": "„Automatyzuję kontakt z pacjentami dla gabinetów stomatologicznych” łatwo zrozumieć i kupić. „Robię automatyzacje” już nie."
+          },
+          "instructions": {
+            "en": [
+              "List 5 local business types (clinics, salons, agencies, trades, e-commerce).",
+              "For each, write the repetitive task that costs them the most time or lost customers.",
+              "Pick one industry and one task to specialize in."
+            ],
+            "pl": [
+              "Wypisz 5 rodzajów lokalnych firm (gabinety, salony, agencje, usługi, e-commerce).",
+              "Przy każdej zapisz powtarzalne zadanie, które kosztuje je najwięcej czasu lub klientów.",
+              "Wybierz jedną branżę i jedno zadanie do specjalizacji."
+            ]
+          },
+          "metric_to_track": { "en": "Offer defined", "pl": "Określona oferta" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Build a demo automation", "pl": "Zbuduj automatyzację demonstracyjną" },
+          "why": {
+            "en": "A working demo that solves your chosen task is the most convincing thing you can show a business owner.",
+            "pl": "Działające demo rozwiązujące wybrane zadanie to najbardziej przekonująca rzecz, jaką pokażesz właścicielowi firmy."
+          },
+          "instructions": {
+            "en": [
+              "Build the automation end to end with test data.",
+              "Add error handling so nothing breaks silently.",
+              "Record a 2-minute Loom video showing the before and after."
+            ],
+            "pl": [
+              "Zbuduj automatyzację od początku do końca na danych testowych.",
+              "Dodaj obsługę błędów, by nic nie psuło się po cichu.",
+              "Nagraj 2-minutowy film w Loomie pokazujący sytuację przed i po."
+            ]
+          },
+          "metric_to_track": { "en": "Demo recorded", "pl": "Nagrane demo" },
+          "resources": [],
+          "tools": [{ "name": "Loom", "url": "https://www.loom.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Price your offer", "pl": "Wyceń ofertę" },
+          "why": {
+            "en": "Pricing by value (hours saved, customers not lost) lets you charge fairly for work that took you a few hours.",
+            "pl": "Wycena według wartości (zaoszczędzone godziny, zatrzymani klienci) pozwala uczciwie liczyć za pracę, która zajęła Ci kilka godzin."
+          },
+          "instructions": {
+            "en": [
+              "Estimate how many hours per month your automation saves a business.",
+              "Set a setup fee (early projects often pay $200–$1,000) plus an optional monthly maintenance fee.",
+              "Write a one-page offer: problem, solution, price, timeline."
+            ],
+            "pl": [
+              "Oszacuj, ile godzin miesięcznie automatyzacja oszczędza firmie.",
+              "Ustal opłatę za wdrożenie (pierwsze projekty to często 200–1000 $) i opcjonalny miesięczny abonament za utrzymanie.",
+              "Napisz jednostronicową ofertę: problem, rozwiązanie, cena, termin."
+            ]
+          },
+          "metric_to_track": { "en": "Offer page ready", "pl": "Gotowa oferta" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First clients", "pl": "Pierwsi klienci" },
+      "goal": {
+        "en": "Reach out to local businesses, book calls and close your first project.",
+        "pl": "Skontaktuj się z lokalnymi firmami, umów rozmowy i zamknij pierwszy projekt."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Contact 30 businesses", "pl": "Skontaktuj się z 30 firmami" },
+          "why": {
+            "en": "Most small businesses don't search for automation. You find them, show them the demo, and solve a problem they feel every day.",
+            "pl": "Większość małych firm nie szuka automatyzacji. To Ty je znajdujesz, pokazujesz demo i rozwiązujesz problem, który czują codziennie."
+          },
+          "instructions": {
+            "en": [
+              "Build a list of 30 businesses in your industry (Google Maps, LinkedIn, local directories).",
+              "Send a short personal message with your 2-minute demo video.",
+              "Ask for a 15-minute call, not a sale."
+            ],
+            "pl": [
+              "Zbuduj listę 30 firm z wybranej branży (Mapy Google, LinkedIn, lokalne katalogi).",
+              "Wyślij krótką, osobistą wiadomość z 2-minutowym filmem demo.",
+              "Poproś o 15-minutową rozmowę, a nie o zakup."
+            ]
+          },
+          "metric_to_track": { "en": "Businesses contacted", "pl": "Firmy, z którymi nawiązano kontakt" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Run discovery calls", "pl": "Przeprowadź rozmowy wstępne" },
+          "why": {
+            "en": "Listening to how the business really works reveals the automation worth paying for, often a different one than you expected.",
+            "pl": "Słuchanie, jak firma naprawdę działa, pokazuje automatyzację wartą zapłaty, często inną niż zakładano."
+          },
+          "instructions": {
+            "en": [
+              "Ask which tools they use and which tasks they repeat every day.",
+              "Ask what one lost customer or wasted hour costs them.",
+              "Summarize the problem back and propose a clear next step."
+            ],
+            "pl": [
+              "Zapytaj, z jakich narzędzi korzystają i jakie zadania powtarzają codziennie.",
+              "Zapytaj, ile kosztuje ich jeden stracony klient lub zmarnowana godzina.",
+              "Podsumuj problem własnymi słowami i zaproponuj jasny następny krok."
+            ]
+          },
+          "metric_to_track": { "en": "Calls booked", "pl": "Umówione rozmowy" },
+          "resources": [],
+          "tools": [{ "name": "Calendly", "url": "https://calendly.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 60,
+          "est_minutes": 300,
+          "title": { "en": "Close and deliver your first project", "pl": "Zamknij i zrealizuj pierwszy projekt" },
+          "why": {
+            "en": "Your first project becomes your case study. Delivering it well matters more than the price.",
+            "pl": "Pierwszy projekt staje się Twoim studium przypadku. Dobra realizacja jest ważniejsza niż cena."
+          },
+          "instructions": {
+            "en": [
+              "Send a short proposal with scope, price and timeline, and take a deposit.",
+              "Build in the client's own accounts so they own the automation.",
+              "Hand over a short video guide and check in after one week."
+            ],
+            "pl": [
+              "Wyślij krótką propozycję z zakresem, ceną i terminem oraz pobierz zaliczkę.",
+              "Buduj na kontach klienta, aby to on był właścicielem automatyzacji.",
+              "Przekaż krótki film instruktażowy i odezwij się po tygodniu."
+            ]
+          },
+          "metric_to_track": { "en": "Paying clients", "pl": "Płacący klienci" },
+          "resources": [
+            { "title": { "en": "Stripe Payment Links", "pl": "Stripe Payment Links (ang.)" }, "url": "https://docs.stripe.com/payment-links" }
+          ],
+          "tools": [{ "name": "Stripe", "url": "https://stripe.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Track income and taxes", "pl": "Śledź dochody i podatki" },
+          "why": {
+            "en": "Service income needs proper invoices and records. Set it up before the second client.",
+            "pl": "Dochód z usług wymaga poprawnych faktur i ewidencji. Ustaw to przed drugim klientem."
+          },
+          "instructions": {
+            "en": [
+              "Log each project: client, price, hours, tools cost, profit.",
+              "Check how service income and invoicing work where you live.",
+              "Set aside part of every payment for taxes."
+            ],
+            "pl": [
+              "Zapisuj każdy projekt: klient, cena, godziny, koszt narzędzi, zysk.",
+              "Sprawdź, jak w Twoim kraju rozlicza się usługi i wystawia rachunki (w Polsce np. działalność nierejestrowana).",
+              "Odkładaj część każdej wpłaty na podatki."
+            ]
+          },
+          "metric_to_track": { "en": "Profit per project", "pl": "Zysk na projekcie" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Proof & pipeline", "pl": "Dowody i lejek" },
+      "goal": {
+        "en": "Turn your first project into a case study and fill your pipeline.",
+        "pl": "Zamień pierwszy projekt w studium przypadku i zapełnij lejek sprzedaży."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Write a case study", "pl": "Napisz studium przypadku" },
+          "why": {
+            "en": "‘Saved a clinic 6 hours a week’ is the sentence that sells your next ten projects.",
+            "pl": "„Klinika oszczędza 6 godzin tygodniowo” to zdanie, które sprzeda kolejne dziesięć projektów."
+          },
+          "instructions": {
+            "en": [
+              "Measure the result with your client: hours saved, leads answered, errors avoided.",
+              "Write a short before/after story with numbers and a client quote.",
+              "Add it to your outreach messages and LinkedIn."
+            ],
+            "pl": [
+              "Zmierz z klientem efekt: zaoszczędzone godziny, obsłużone leady, uniknięte błędy.",
+              "Napisz krótką historię przed/po z liczbami i cytatem klienta.",
+              "Dodaj ją do wiadomości i na LinkedIn."
+            ]
+          },
+          "metric_to_track": { "en": "Case studies", "pl": "Studia przypadku" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Contact 30 more businesses", "pl": "Skontaktuj się z 30 kolejnymi firmami" },
+          "why": {
+            "en": "With a real case study, your reply rate goes up. Keep the outreach engine running.",
+            "pl": "Z prawdziwym studium przypadku rośnie odsetek odpowiedzi. Utrzymuj stały kontakt z nowymi firmami."
+          },
+          "instructions": {
+            "en": [
+              "Reach out to 30 new businesses in the same industry.",
+              "Lead with the case study result in the first sentence.",
+              "Follow up once after 4–5 days."
+            ],
+            "pl": [
+              "Skontaktuj się z 30 nowymi firmami z tej samej branży.",
+              "W pierwszym zdaniu pokaż wynik ze studium przypadku.",
+              "Przypomnij się raz po 4–5 dniach."
+            ]
+          },
+          "metric_to_track": { "en": "Pitches sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Offer monthly maintenance", "pl": "Zaproponuj miesięczne utrzymanie" },
+          "why": {
+            "en": "Automations need monitoring and small changes. A monthly fee turns one-off projects into recurring income.",
+            "pl": "Automatyzacje wymagają nadzoru i drobnych zmian. Miesięczna opłata zamienia jednorazowe projekty w stały dochód."
+          },
+          "instructions": {
+            "en": [
+              "Define what maintenance includes (monitoring, fixes, one small change per month).",
+              "Offer it to every past and new client.",
+              "Put it in writing with a clear monthly price."
+            ],
+            "pl": [
+              "Określ, co obejmuje utrzymanie (monitoring, poprawki, jedna drobna zmiana miesięcznie).",
+              "Proponuj je każdemu dawnemu i nowemu klientowi.",
+              "Spisz warunki z jasną ceną miesięczną."
+            ]
+          },
+          "metric_to_track": { "en": "Monthly retainers", "pl": "Stałe umowy miesięczne" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Scale", "pl": "Skalowanie" },
+      "goal": {
+        "en": "Package your best automation and build steady monthly clients.",
+        "pl": "Zamień najlepszą automatyzację w pakiet i zbuduj grupę stałych klientów."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Turn your best project into a reusable template", "pl": "Zamień najlepszy projekt w szablon wielokrotnego użytku" },
+          "why": {
+            "en": "Reusing a proven automation for similar businesses cuts delivery time while the value to the client stays the same.",
+            "pl": "Ponowne użycie sprawdzonej automatyzacji w podobnych firmach skraca realizację, a wartość dla klienta pozostaje ta sama."
+          },
+          "instructions": {
+            "en": [
+              "Duplicate your best automation and remove client-specific data.",
+              "Document setup steps so you can deploy it in a few hours.",
+              "Offer it as a fixed-price package."
+            ],
+            "pl": [
+              "Zduplikuj najlepszą automatyzację i usuń dane klienta.",
+              "Opisz kroki wdrożenia, by uruchomić ją w kilka godzin.",
+              "Oferuj ją jako pakiet w stałej cenie."
+            ]
+          },
+          "metric_to_track": { "en": "Hours per project", "pl": "Godziny na projekt" },
+          "resources": [],
+          "tools": [{ "name": "n8n", "url": "https://n8n.io", "affiliate": false }]
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Ask for referrals", "pl": "Poproś o polecenia" },
+          "why": {
+            "en": "Business owners know other business owners. One happy client can introduce you to several more.",
+            "pl": "Właściciele firm znają innych właścicieli firm. Jeden zadowolony klient może przedstawić Cię kilku kolejnym."
+          },
+          "instructions": {
+            "en": [
+              "Ask each happy client for one or two introductions.",
+              "Offer a small thank-you, like a free month of maintenance.",
+              "Follow up with every referral within 24 hours."
+            ],
+            "pl": [
+              "Poproś każdego zadowolonego klienta o jedno lub dwa polecenia.",
+              "Zaproponuj drobne podziękowanie, np. darmowy miesiąc utrzymania.",
+              "Odezwij się do każdej poleconej osoby w ciągu 24 godzin."
+            ]
+          },
+          "metric_to_track": { "en": "Referrals", "pl": "Polecenia" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 50,
+          "est_minutes": 120,
+          "title": { "en": "Share your work on LinkedIn weekly", "pl": "Co tydzień pokazuj pracę na LinkedIn" },
+          "why": {
+            "en": "Short posts showing real automations and results bring inbound leads over time.",
+            "pl": "Krótkie posty z prawdziwymi automatyzacjami i wynikami z czasem przyciągają zapytania."
+          },
+          "instructions": {
+            "en": [
+              "Post one short before/after or screen recording per week.",
+              "Explain the business result in plain language, not technical terms.",
+              "End with an invitation to a free 15-minute call."
+            ],
+            "pl": [
+              "Publikuj co tydzień jedno krótkie przed/po lub nagranie ekranu.",
+              "Wyjaśniaj efekt biznesowy prostym językiem, bez technicznego żargonu.",
+              "Kończ zaproszeniem na darmową 15-minutową rozmowę."
+            ]
+          },
+          "metric_to_track": { "en": "Inbound inquiries", "pl": "Zapytania przychodzące" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Weeks 3–8", "pl": "Tygodnie 3–8" },
+      "range": { "en": "$200–$1,000", "pl": "200–1000 $" },
+      "note": { "en": "Your first 1–2 projects.", "pl": "Pierwsze 1–2 projekty." }
+    },
+    {
+      "label": { "en": "Months 3–6", "pl": "Miesiące 3–6" },
+      "range": { "en": "$500–$2,000 / month", "pl": "500–2000 $ / mies." },
+      "note": { "en": "New projects plus the first maintenance retainers.", "pl": "Nowe projekty i pierwsze umowy na utrzymanie." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$1,000–$4,000 / month", "pl": "1000–4000 $ / mies." },
+      "note": { "en": "Realistic with 2–4 monthly clients.", "pl": "Realne przy 2–4 stałych klientach." }
+    }
+  ]
+}

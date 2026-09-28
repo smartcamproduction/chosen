@@ -1,0 +1,425 @@
+{
+  "hustle_slug": "social-media-manager",
+  "total_weeks": 12,
+  "weekly_metrics": ["pitches_sent", "calls_booked", "clients"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Offer & samples", "pl": "Oferta i próbki" },
+      "goal": {
+        "en": "Choose the businesses you'll serve, create sample content and define your packages.",
+        "pl": "Wybierz firmy, którym pomożesz, przygotuj próbne treści i określ pakiety."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick a type of business to serve", "pl": "Wybierz typ firm, którym pomożesz" },
+          "why": {
+            "en": "Specializing (e.g. cafés, beauty salons, gyms) makes your pitch sharper and your content faster to create.",
+            "pl": "Specjalizacja (np. kawiarnie, salony beauty, siłownie) wyostrza ofertę i przyspiesza tworzenie treści."
+          },
+          "instructions": {
+            "en": [
+              "List 5 local business types you like and understand.",
+              "Check 10 of their Instagram or Facebook profiles and note how active and professional they are.",
+              "Pick the type with the most neglected profiles. That's your opportunity."
+            ],
+            "pl": [
+              "Wypisz 5 typów lokalnych firm, które lubisz i rozumiesz.",
+              "Sprawdź 10 ich profili na Instagramie lub Facebooku i zanotuj, jak są aktywne i profesjonalne.",
+              "Wybierz typ z najbardziej zaniedbanymi profilami. To Twoja szansa."
+            ]
+          },
+          "metric_to_track": { "en": "Niche chosen", "pl": "Wybrana nisza" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Create a sample content pack", "pl": "Przygotuj próbny pakiet treści" },
+          "why": {
+            "en": "Showing a business what their feed could look like is far more convincing than describing your skills.",
+            "pl": "Pokazanie firmie, jak mógłby wyglądać jej profil, przekonuje dużo bardziej niż opis umiejętności."
+          },
+          "instructions": {
+            "en": [
+              "Pick one real business from your niche as an example (don't publish anything for them).",
+              "Create a 2-week content plan and 9 post designs in Canva, including 2 short Reels ideas.",
+              "Write captions in the business's tone of voice."
+            ],
+            "pl": [
+              "Wybierz jedną prawdziwą firmę z niszy jako przykład (niczego za nią nie publikuj).",
+              "Stwórz 2-tygodniowy plan treści i 9 projektów postów w Canvie, w tym 2 pomysły na Reels.",
+              "Napisz opisy w stylu komunikacji tej firmy."
+            ]
+          },
+          "metric_to_track": { "en": "Sample posts", "pl": "Próbne posty" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Set up your tools", "pl": "Przygotuj narzędzia" },
+          "why": {
+            "en": "Scheduling tools let you plan a month of posts in one sitting and manage several clients calmly.",
+            "pl": "Narzędzia do planowania pozwalają przygotować miesiąc postów za jednym razem i spokojnie obsługiwać kilku klientów."
+          },
+          "instructions": {
+            "en": [
+              "Learn Meta Business Suite for Facebook and Instagram scheduling.",
+              "Try a free plan of a scheduler like Buffer for other platforms.",
+              "Create a content calendar template in Notion or a spreadsheet."
+            ],
+            "pl": [
+              "Poznaj Meta Business Suite do planowania postów na Facebooku i Instagramie.",
+              "Wypróbuj darmowy plan narzędzia typu Buffer dla innych platform.",
+              "Przygotuj szablon kalendarza treści w Notion lub arkuszu."
+            ]
+          },
+          "metric_to_track": { "en": "Tools set up", "pl": "Gotowe narzędzia" },
+          "resources": [
+            { "title": { "en": "Meta Blueprint (free courses)", "pl": "Meta Blueprint (darmowe kursy)" }, "url": "https://www.facebook.com/business/learn" }
+          ],
+          "tools": [
+            { "name": "Meta Business Suite", "url": "https://business.facebook.com", "affiliate": false },
+            { "name": "Buffer", "url": "https://buffer.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Define your packages", "pl": "Określ pakiety" },
+          "why": {
+            "en": "Clear monthly packages make it easy for business owners to say yes and easy for you to deliver.",
+            "pl": "Jasne pakiety miesięczne ułatwiają właścicielom firm decyzję, a Tobie realizację."
+          },
+          "instructions": {
+            "en": [
+              "Create 2–3 packages (e.g. 8, 12 or 20 posts per month, with or without Reels).",
+              "Price them for your market; one client often pays $300–$800 per month.",
+              "List what's not included (ads budget, photo shoots) to avoid misunderstandings."
+            ],
+            "pl": [
+              "Stwórz 2–3 pakiety (np. 8, 12 lub 20 postów miesięcznie, z Reels lub bez).",
+              "Wyceń je dla swojego rynku; jeden klient płaci często 300–800 $ miesięcznie.",
+              "Wypisz, czego pakiet nie obejmuje (budżet reklamowy, sesje zdjęciowe), by uniknąć nieporozumień."
+            ]
+          },
+          "metric_to_track": { "en": "Packages defined", "pl": "Określone pakiety" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First client", "pl": "Pierwszy klient" },
+      "goal": {
+        "en": "Reach out to local businesses and sign your first monthly client.",
+        "pl": "Skontaktuj się z lokalnymi firmami i podpisz umowę z pierwszym stałym klientem."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Contact 30 businesses", "pl": "Skontaktuj się z 30 firmami" },
+          "why": {
+            "en": "Most small businesses know they should post more but don't have time. A friendly, specific message opens the door.",
+            "pl": "Większość małych firm wie, że powinna publikować więcej, ale nie ma czasu. Przyjazna, konkretna wiadomość otwiera drzwi."
+          },
+          "instructions": {
+            "en": [
+              "List 30 businesses in your niche with inactive or messy profiles.",
+              "Send a short message or email with 2 specific ideas for their profile and your sample pack.",
+              "Visit a few in person if they're local. It works surprisingly well."
+            ],
+            "pl": [
+              "Wypisz 30 firm z niszy z nieaktywnymi lub chaotycznymi profilami.",
+              "Wyślij krótką wiadomość lub e-mail z 2 konkretnymi pomysłami na ich profil i próbnym pakietem.",
+              "Odwiedź kilka osobiście, jeśli są blisko. To działa zaskakująco dobrze."
+            ]
+          },
+          "metric_to_track": { "en": "Pitches sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Run discovery calls with a mini audit", "pl": "Przeprowadź rozmowy z mini audytem" },
+          "why": {
+            "en": "A quick audit of their profile shows you understand their business and gives them a reason to hire you.",
+            "pl": "Szybki audyt profilu pokazuje, że rozumiesz ich biznes, i daje powód, by Cię zatrudnić."
+          },
+          "instructions": {
+            "en": [
+              "Before each call, note 3 strengths and 3 quick wins for their profile.",
+              "Ask about their goals: more bookings, more foot traffic, more followers?",
+              "Recommend the package that fits and send it in writing the same day."
+            ],
+            "pl": [
+              "Przed każdą rozmową zanotuj 3 mocne strony i 3 szybkie usprawnienia profilu.",
+              "Zapytaj o cele: więcej rezerwacji, więcej klientów w lokalu, więcej obserwujących?",
+              "Poleć pasujący pakiet i wyślij ofertę na piśmie tego samego dnia."
+            ]
+          },
+          "metric_to_track": { "en": "Calls booked", "pl": "Umówione rozmowy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s3",
+          "xp": 60,
+          "est_minutes": 180,
+          "title": { "en": "Onboard your first client", "pl": "Wdróż pierwszego klienta" },
+          "why": {
+            "en": "A clear start (agreement, access, approval process) prevents most problems in client work.",
+            "pl": "Jasny start (umowa, dostępy, proces akceptacji) zapobiega większości problemów we współpracy."
+          },
+          "instructions": {
+            "en": [
+              "Sign a simple agreement: package, price, payment date, approval process, notice period.",
+              "Get access through Meta Business Suite roles, never by sharing passwords.",
+              "Collect brand assets and photos, then present the first month's calendar for approval."
+            ],
+            "pl": [
+              "Podpisz prostą umowę: pakiet, cena, termin płatności, akceptacja treści, okres wypowiedzenia.",
+              "Uzyskaj dostęp przez role w Meta Business Suite, nigdy przez udostępnianie haseł.",
+              "Zbierz materiały marki i zdjęcia, a potem przedstaw kalendarz pierwszego miesiąca do akceptacji."
+            ]
+          },
+          "metric_to_track": { "en": "Paying clients", "pl": "Płacący klienci" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Set up invoicing and taxes", "pl": "Ustaw rachunki i podatki" },
+          "why": {
+            "en": "Monthly clients mean monthly invoices. Getting this right early keeps you professional and compliant.",
+            "pl": "Stali klienci to comiesięczne rachunki. Wczesne uporządkowanie tego zapewnia profesjonalizm i zgodność z przepisami."
+          },
+          "instructions": {
+            "en": [
+              "Choose how you'll invoice (e.g. Stripe invoices or a local invoicing tool).",
+              "Check how service income is taxed where you live.",
+              "Log every payment before your weekly check-in."
+            ],
+            "pl": [
+              "Wybierz sposób wystawiania rachunków (np. faktury w Stripe lub lokalne narzędzie).",
+              "Sprawdź, jak rozlicza się dochody z usług w Twoim kraju (w Polsce np. działalność nierejestrowana).",
+              "Zapisuj każdą wpłatę przed cotygodniowym podsumowaniem."
+            ]
+          },
+          "metric_to_track": { "en": "Monthly recurring income", "pl": "Stały dochód miesięczny" },
+          "resources": [
+            { "title": { "en": "Stripe Invoicing", "pl": "Faktury w Stripe (ang.)" }, "url": "https://docs.stripe.com/invoicing" }
+          ],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Deliver & prove", "pl": "Realizacja i efekty" },
+      "goal": {
+        "en": "Build an efficient monthly workflow and show your client clear results.",
+        "pl": "Zbuduj sprawny miesięczny proces i pokaż klientowi wyraźne efekty."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Batch a month of content", "pl": "Przygotuj hurtowo miesiąc treści" },
+          "why": {
+            "en": "Batching a whole month in 1–2 sessions lets you serve more clients without working every day.",
+            "pl": "Przygotowanie całego miesiąca w 1–2 sesjach pozwala obsłużyć więcej klientów bez codziennej pracy."
+          },
+          "instructions": {
+            "en": [
+              "Design all posts for the month using your templates.",
+              "Get client approval in one round.",
+              "Schedule everything and set a reminder to reply to comments."
+            ],
+            "pl": [
+              "Zaprojektuj wszystkie posty na miesiąc, korzystając z szablonów.",
+              "Uzyskaj akceptację klienta w jednej rundzie.",
+              "Zaplanuj wszystko i ustaw przypomnienie o odpowiadaniu na komentarze."
+            ]
+          },
+          "metric_to_track": { "en": "Hours per client per month", "pl": "Godziny na klienta miesięcznie" },
+          "resources": [],
+          "tools": [{ "name": "Meta Business Suite", "url": "https://business.facebook.com", "affiliate": false }]
+        },
+        {
+          "id": "p3s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Send a monthly results report", "pl": "Wysyłaj miesięczny raport wyników" },
+          "why": {
+            "en": "Clients stay when they see progress. A one-page report makes your value visible.",
+            "pl": "Klienci zostają, gdy widzą postępy. Jednostronicowy raport pokazuje Twoją wartość."
+          },
+          "instructions": {
+            "en": [
+              "Track reach, followers, engagement and messages or bookings from social.",
+              "Compare with the previous month and explain what you'll do next.",
+              "Keep it to one page with 3 key numbers."
+            ],
+            "pl": [
+              "Śledź zasięg, obserwujących, zaangażowanie i wiadomości lub rezerwacje z social mediów.",
+              "Porównaj z poprzednim miesiącem i wyjaśnij, co zrobisz dalej.",
+              "Zmieść raport na jednej stronie z 3 kluczowymi liczbami."
+            ]
+          },
+          "metric_to_track": { "en": "Reports sent", "pl": "Wysłane raporty" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Collect a testimonial", "pl": "Zbierz rekomendację" },
+          "why": {
+            "en": "A quote from a real local business makes your next pitches much easier.",
+            "pl": "Cytat od prawdziwej lokalnej firmy bardzo ułatwia kolejne propozycje."
+          },
+          "instructions": {
+            "en": [
+              "Ask your client for 2–3 sentences about working with you.",
+              "Turn the results into a short before/after case study.",
+              "Add both to your portfolio."
+            ],
+            "pl": [
+              "Poproś klienta o 2–3 zdania o współpracy z Tobą.",
+              "Zamień wyniki w krótkie studium przypadku przed/po.",
+              "Dodaj oba do portfolio."
+            ]
+          },
+          "metric_to_track": { "en": "Testimonials", "pl": "Rekomendacje" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Grow to 2–3 clients", "pl": "Rozwój do 2–3 klientów" },
+      "goal": {
+        "en": "Sign more clients, raise your prices and systemize your work.",
+        "pl": "Pozyskaj kolejnych klientów, podnieś ceny i usystematyzuj pracę."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 60,
+          "est_minutes": 180,
+          "title": { "en": "Sign your second and third clients", "pl": "Pozyskaj drugiego i trzeciego klienta" },
+          "why": {
+            "en": "With 2–4 clients, social media management becomes a real monthly income.",
+            "pl": "Przy 2–4 klientach prowadzenie social mediów staje się realnym miesięcznym dochodem."
+          },
+          "instructions": {
+            "en": [
+              "Pitch 30 new businesses using your case study.",
+              "Ask your current client for one referral.",
+              "Onboard each new client with the same process."
+            ],
+            "pl": [
+              "Wyślij propozycje do 30 nowych firm, pokazując studium przypadku.",
+              "Poproś obecnego klienta o jedno polecenie.",
+              "Wdrażaj każdego nowego klienta tym samym procesem."
+            ]
+          },
+          "metric_to_track": { "en": "Paying clients", "pl": "Płacący klienci" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 45,
+          "title": { "en": "Raise prices and add an upsell", "pl": "Podnieś ceny i dodaj usługę dodatkową" },
+          "why": {
+            "en": "With results and testimonials, you can charge more, and add services like short videos or ads management.",
+            "pl": "Mając wyniki i rekomendacje, możesz liczyć więcej i dodać usługi, np. krótkie filmy lub obsługę reklam."
+          },
+          "instructions": {
+            "en": [
+              "Raise prices for new clients by 20–30%.",
+              "Offer one add-on (Reels production, ads management, monthly photo session).",
+              "Present it in your next monthly report."
+            ],
+            "pl": [
+              "Podnieś ceny dla nowych klientów o 20–30%.",
+              "Zaproponuj jeden dodatek (produkcja Reels, obsługa reklam, comiesięczna sesja zdjęciowa).",
+              "Przedstaw go w najbliższym raporcie miesięcznym."
+            ]
+          },
+          "metric_to_track": { "en": "Average income per client", "pl": "Średni dochód na klienta" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Systemize your workflow", "pl": "Usystematyzuj proces pracy" },
+          "why": {
+            "en": "Templates and checklists let you add clients without adding stress.",
+            "pl": "Szablony i checklisty pozwalają dodawać klientów bez dodawania stresu."
+          },
+          "instructions": {
+            "en": [
+              "Create reusable templates for posts, captions, reports and onboarding.",
+              "Write a monthly checklist per client.",
+              "Block fixed days in your calendar for each client."
+            ],
+            "pl": [
+              "Przygotuj szablony postów, opisów, raportów i wdrożenia.",
+              "Napisz comiesięczną checklistę dla każdego klienta.",
+              "Zarezerwuj w kalendarzu stałe dni na każdego klienta."
+            ]
+          },
+          "metric_to_track": { "en": "Hours per client per month", "pl": "Godziny na klienta miesięcznie" },
+          "resources": [],
+          "tools": [{ "name": "Notion", "url": "https://www.notion.com", "affiliate": false }]
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Weeks 3–8", "pl": "Tygodnie 3–8" },
+      "range": { "en": "$300–$800 / month", "pl": "300–800 $ / mies." },
+      "note": { "en": "Your first monthly client.", "pl": "Pierwszy stały klient." }
+    },
+    {
+      "label": { "en": "Months 3–6", "pl": "Miesiące 3–6" },
+      "range": { "en": "$600–$2,000 / month", "pl": "600–2000 $ / mies." },
+      "note": { "en": "Two or three clients with clear results.", "pl": "Dwóch lub trzech klientów z wyraźnymi efektami." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$1,000–$3,000 / month", "pl": "1000–3000 $ / mies." },
+      "note": { "en": "Realistic with 2–4 clients and higher prices.", "pl": "Realne przy 2–4 klientach i wyższych cenach." }
+    }
+  ]
+}

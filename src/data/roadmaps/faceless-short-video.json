@@ -1,0 +1,429 @@
+{
+  "hustle_slug": "faceless-short-video",
+  "total_weeks": 12,
+  "weekly_metrics": ["videos_published", "followers", "views"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Account & format", "pl": "Konto i format" },
+      "goal": {
+        "en": "Pick a niche, set up your accounts and find a video format you can repeat daily.",
+        "pl": "Wybierz niszę, załóż konta i znajdź format filmów, który powtórzysz codziennie."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick a niche that sells", "pl": "Wybierz niszę, która sprzedaje" },
+          "why": {
+            "en": "Short videos pay mostly through affiliate links and brand deals. Niches with products to recommend (tech, beauty, home, fitness, books) make that easier.",
+            "pl": "Krótkie filmy zarabiają głównie przez linki afiliacyjne i współprace. Nisze z produktami do polecania (technologia, uroda, dom, fitness, książki) to ułatwiają."
+          },
+          "instructions": {
+            "en": [
+              "List 5 niches where people buy products after watching videos.",
+              "Search each on TikTok and Instagram and find faceless accounts growing fast.",
+              "Choose one niche you can make 5 videos a week about."
+            ],
+            "pl": [
+              "Wypisz 5 nisz, w których ludzie kupują produkty po obejrzeniu filmów.",
+              "Wyszukaj je na TikToku i Instagramie i znajdź szybko rosnące konta bez twarzy.",
+              "Wybierz jedną niszę, o której zrobisz 5 filmów tygodniowo."
+            ]
+          },
+          "metric_to_track": { "en": "Niche chosen", "pl": "Wybrana nisza" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Save 30 videos and find the pattern", "pl": "Zapisz 30 filmów i znajdź schemat" },
+          "why": {
+            "en": "Viral short videos follow patterns: a hook in the first second, one idea, a payoff. Studying them saves months of guessing.",
+            "pl": "Viralowe krótkie filmy mają schematy: haczyk w pierwszej sekundzie, jedna myśl, puenta. Ich analiza oszczędza miesiące zgadywania."
+          },
+          "instructions": {
+            "en": [
+              "Save 30 top-performing faceless videos from your niche.",
+              "Write down the first sentence (hook) of each.",
+              "Group them into 3 formats you could produce without showing your face (screen recordings, hands-only, text + stock footage, voice-over).",
+              "Pick your main format."
+            ],
+            "pl": [
+              "Zapisz 30 najlepszych filmów bez twarzy z Twojej niszy.",
+              "Zapisz pierwsze zdanie (haczyk) każdego z nich.",
+              "Pogrupuj je w 3 formaty, które zrobisz bez pokazywania twarzy (nagranie ekranu, same dłonie, tekst + stock, lektor).",
+              "Wybierz swój główny format."
+            ]
+          },
+          "metric_to_track": { "en": "30 videos analyzed", "pl": "30 przeanalizowanych filmów" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Set up your accounts", "pl": "Załóż konta" },
+          "why": {
+            "en": "Posting the same video to TikTok and Instagram Reels doubles your reach for almost no extra work.",
+            "pl": "Publikacja tego samego filmu na TikToku i Instagram Reels podwaja zasięg niemal bez dodatkowej pracy."
+          },
+          "instructions": {
+            "en": [
+              "Create a TikTok account and an Instagram professional (creator) account with the same name.",
+              "Write a bio that says what people get from following you.",
+              "Use one profile image across both platforms."
+            ],
+            "pl": [
+              "Załóż konto na TikToku i profesjonalne konto twórcy na Instagramie z tą samą nazwą.",
+              "Napisz bio, które mówi, co ludzie zyskują, obserwując Cię.",
+              "Używaj jednego zdjęcia profilowego na obu platformach."
+            ]
+          },
+          "metric_to_track": { "en": "Accounts ready", "pl": "Gotowe konta" },
+          "resources": [
+            { "title": { "en": "Instagram for creators", "pl": "Instagram dla twórców (ang.)" }, "url": "https://creators.instagram.com" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Create your video template", "pl": "Przygotuj szablon filmu" },
+          "why": {
+            "en": "A reusable template (fonts, caption style, intro, length) lets you make a video in 20 minutes instead of 2 hours.",
+            "pl": "Szablon wielokrotnego użytku (czcionki, styl napisów, początek, długość) pozwala zrobić film w 20 minut zamiast 2 godzin."
+          },
+          "instructions": {
+            "en": [
+              "Build a CapCut project with your caption style, colors and end card.",
+              "Save a list of footage sources that allow commercial use.",
+              "Make a test video and time how long it takes."
+            ],
+            "pl": [
+              "Zbuduj projekt w CapCut ze swoim stylem napisów, kolorami i planszą końcową.",
+              "Zapisz listę źródeł materiałów, które pozwalają na użytek komercyjny.",
+              "Zrób film testowy i zmierz, ile czasu zajmuje."
+            ]
+          },
+          "metric_to_track": { "en": "Minutes per video", "pl": "Minuty na film" },
+          "resources": [],
+          "tools": [
+            { "name": "CapCut", "url": "https://www.capcut.com", "affiliate": false },
+            { "name": "Pexels", "url": "https://www.pexels.com", "affiliate": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "Daily posting", "pl": "Codzienne publikacje" },
+      "goal": {
+        "en": "Post one video a day for 3 weeks and learn which hooks work.",
+        "pl": "Publikuj jeden film dziennie przez 3 tygodnie i sprawdź, które haczyki działają."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 50,
+          "est_minutes": 300,
+          "title": { "en": "Batch-create your first 10 videos", "pl": "Nagraj hurtowo pierwsze 10 filmów" },
+          "why": {
+            "en": "Batching keeps you posting even on busy days, and the algorithm rewards consistency.",
+            "pl": "Praca hurtowa pozwala publikować nawet w zabiegane dni, a algorytm nagradza regularność."
+          },
+          "instructions": {
+            "en": [
+              "Write 10 hooks using the patterns you found.",
+              "Produce all 10 videos in one or two sessions.",
+              "Keep each video between 15 and 45 seconds, with captions on screen.",
+              "Schedule or save them as drafts."
+            ],
+            "pl": [
+              "Napisz 10 haczyków na bazie znalezionych schematów.",
+              "Zrób wszystkie 10 filmów w jednej lub dwóch sesjach.",
+              "Każdy film niech trwa 15–45 sekund i ma napisy na ekranie.",
+              "Zaplanuj je lub zapisz jako wersje robocze."
+            ]
+          },
+          "metric_to_track": { "en": "Videos ready", "pl": "Gotowe filmy" },
+          "resources": [],
+          "tools": [{ "name": "CapCut", "url": "https://www.capcut.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s2",
+          "xp": 60,
+          "est_minutes": 420,
+          "title": { "en": "Post daily for 3 weeks", "pl": "Publikuj codziennie przez 3 tygodnie" },
+          "why": {
+            "en": "Each post is a test. Twenty tests show you far more than one ‘perfect’ video.",
+            "pl": "Każdy post to test. Dwadzieścia testów pokaże Ci więcej niż jeden „idealny” film."
+          },
+          "instructions": {
+            "en": [
+              "Post one video per day on TikTok and the same video on Reels.",
+              "Reply to comments in the first hour after posting.",
+              "Keep making new videos while posting the batch."
+            ],
+            "pl": [
+              "Publikuj jeden film dziennie na TikToku i ten sam na Reels.",
+              "Odpowiadaj na komentarze w pierwszej godzinie po publikacji.",
+              "Nagrywaj nowe filmy, publikując przygotowaną porcję."
+            ]
+          },
+          "metric_to_track": { "en": "Videos published", "pl": "Opublikowane filmy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Find your winning hooks", "pl": "Znajdź zwycięskie haczyki" },
+          "why": {
+            "en": "Retention in the first 3 seconds decides reach. Your analytics show which openings keep people watching.",
+            "pl": "Utrzymanie widza w pierwszych 3 sekundach decyduje o zasięgu. Statystyki pokazują, które otwarcia zatrzymują ludzi."
+          },
+          "instructions": {
+            "en": [
+              "Rank your videos by views and average watch time.",
+              "Copy the hooks of your top 3 into a ‘winners’ list.",
+              "Make your next 5 videos using those hooks with new topics."
+            ],
+            "pl": [
+              "Uszereguj filmy według wyświetleń i średniego czasu oglądania.",
+              "Przepisz haczyki 3 najlepszych na listę „zwycięzców”.",
+              "Zrób 5 kolejnych filmów z tymi haczykami, ale na nowe tematy."
+            ]
+          },
+          "metric_to_track": { "en": "Average watch time", "pl": "Średni czas oglądania" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Set up a link in bio", "pl": "Ustaw link w bio" },
+          "why": {
+            "en": "When a video takes off, you want viewers to land somewhere that can earn money right away.",
+            "pl": "Gdy film wystrzeli, widzowie powinni trafić tam, gdzie od razu możesz zarobić."
+          },
+          "instructions": {
+            "en": [
+              "Create a simple link page listing the products you mention most.",
+              "Put it in both bios.",
+              "Update it whenever you feature a new product."
+            ],
+            "pl": [
+              "Utwórz prostą stronę z linkami do produktów, o których najczęściej mówisz.",
+              "Dodaj ją do obu bio.",
+              "Aktualizuj ją za każdym razem, gdy pokazujesz nowy produkt."
+            ]
+          },
+          "metric_to_track": { "en": "Link clicks", "pl": "Kliknięcia w linki" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Monetize", "pl": "Zarabianie" },
+      "goal": {
+        "en": "Add affiliate links and start earning from the attention you've built.",
+        "pl": "Dodaj linki afiliacyjne i zacznij zarabiać na zbudowanej uwadze."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Join affiliate programs", "pl": "Dołącz do programów afiliacyjnych" },
+          "why": {
+            "en": "Affiliate commissions are the fastest income for faceless accounts. You earn without follower minimums.",
+            "pl": "Prowizje afiliacyjne to najszybszy dochód dla kont bez twarzy. Zarabiasz bez minimalnej liczby obserwujących."
+          },
+          "instructions": {
+            "en": [
+              "Join Amazon Associates or brand programs that fit your niche.",
+              "Add your social profiles to your affiliate account settings where required.",
+              "Add your top 5 product links to your link page."
+            ],
+            "pl": [
+              "Dołącz do Amazon Associates lub programów marek pasujących do niszy.",
+              "Tam, gdzie jest to wymagane, dodaj swoje profile społecznościowe w ustawieniach konta afiliacyjnego.",
+              "Dodaj 5 najlepszych linków produktowych na swoją stronę z linkami."
+            ]
+          },
+          "metric_to_track": { "en": "Affiliate programs joined", "pl": "Programy afiliacyjne" },
+          "resources": [
+            { "title": { "en": "FTC: disclosures for influencers", "pl": "FTC: oznaczanie współprac (ang.)" }, "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" }
+          ],
+          "tools": [{ "name": "Amazon Associates", "url": "https://affiliate-program.amazon.com", "affiliate": false }]
+        },
+        {
+          "id": "p3s2",
+          "xp": 50,
+          "est_minutes": 300,
+          "title": { "en": "Make 10 product-focused videos", "pl": "Zrób 10 filmów wokół produktów" },
+          "why": {
+            "en": "Videos that show a product solving a problem convert far better than generic tips.",
+            "pl": "Filmy pokazujące, jak produkt rozwiązuje problem, sprzedają znacznie lepiej niż ogólne porady."
+          },
+          "instructions": {
+            "en": [
+              "Pick 10 products your audience already asks about.",
+              "Use a winning hook, show the problem, then the product as the fix.",
+              "Mention ‘link in bio’ and label the video as containing affiliate links."
+            ],
+            "pl": [
+              "Wybierz 10 produktów, o które odbiorcy już pytają.",
+              "Użyj zwycięskiego haczyka, pokaż problem, a potem produkt jako rozwiązanie.",
+              "Wspomnij o „linku w bio” i oznacz, że film zawiera linki afiliacyjne."
+            ]
+          },
+          "metric_to_track": { "en": "Affiliate sales", "pl": "Sprzedaż afiliacyjna" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 30,
+          "est_minutes": 30,
+          "title": { "en": "Track money and taxes", "pl": "Śledź pieniądze i podatki" },
+          "why": {
+            "en": "Affiliate income arrives with delays. A simple tracker shows what's really working.",
+            "pl": "Dochód z afiliacji wpływa z opóźnieniem. Prosty arkusz pokazuje, co naprawdę działa."
+          },
+          "instructions": {
+            "en": [
+              "Create a sheet with: week, clicks, sales, commission, costs.",
+              "Update it before each weekly check-in.",
+              "Check how side income is taxed where you live, and set aside part of it."
+            ],
+            "pl": [
+              "Utwórz arkusz: tydzień, kliknięcia, sprzedaż, prowizja, koszty.",
+              "Aktualizuj go przed każdym cotygodniowym podsumowaniem.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. działalność nierejestrowana), i odkładaj część."
+            ]
+          },
+          "metric_to_track": { "en": "Weekly commissions", "pl": "Prowizje tygodniowe" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Scale", "pl": "Skalowanie" },
+      "goal": {
+        "en": "Land your first brand deal and turn your best formats into a series.",
+        "pl": "Zdobądź pierwszą współpracę z marką i zamień najlepsze formaty w serię."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 50,
+          "est_minutes": 90,
+          "title": { "en": "Create a one-page media kit", "pl": "Przygotuj jednostronicowy media kit" },
+          "why": {
+            "en": "Brands pay for access to your audience. A clear media kit makes it easy for them to say yes.",
+            "pl": "Marki płacą za dostęp do Twoich odbiorców. Czytelny media kit ułatwia im zgodę."
+          },
+          "instructions": {
+            "en": [
+              "Show followers, average views, audience countries and your best 3 videos.",
+              "Add example packages (e.g. 1 video, 3 videos) with prices.",
+              "Save it as a PDF."
+            ],
+            "pl": [
+              "Pokaż liczbę obserwujących, średnie wyświetlenia, kraje odbiorców i 3 najlepsze filmy.",
+              "Dodaj przykładowe pakiety (np. 1 film, 3 filmy) z cenami.",
+              "Zapisz go jako PDF."
+            ]
+          },
+          "metric_to_track": { "en": "Media kit ready", "pl": "Gotowy media kit" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p4s2",
+          "xp": 60,
+          "est_minutes": 120,
+          "title": { "en": "Pitch 15 brands", "pl": "Wyślij propozycje do 15 marek" },
+          "why": {
+            "en": "Most first brand deals come from creators reaching out, not brands finding them.",
+            "pl": "Większość pierwszych współprac bierze się z inicjatywy twórców, a nie marek."
+          },
+          "instructions": {
+            "en": [
+              "List 15 brands whose products you already feature or would recommend.",
+              "Send a short email: who you are, your audience, one idea for their product, your media kit.",
+              "Follow up once after 5 days."
+            ],
+            "pl": [
+              "Wypisz 15 marek, których produkty już pokazujesz lub chętnie polecisz odbiorcom.",
+              "Wyślij krótki e-mail: kim jesteś, kim są Twoi odbiorcy, jeden pomysł na ich produkt, media kit.",
+              "Przypomnij się raz po 5 dniach."
+            ]
+          },
+          "metric_to_track": { "en": "Pitches sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Turn your best format into a series", "pl": "Zamień najlepszy format w serię" },
+          "why": {
+            "en": "Series (‘Part 1, 2, 3…’) bring viewers back and turn one-time viewers into followers.",
+            "pl": "Serie („Część 1, 2, 3…”) sprowadzają widzów z powrotem i zamieniają jednorazowych widzów w obserwujących."
+          },
+          "instructions": {
+            "en": [
+              "Pick your best-performing video idea.",
+              "Plan 10 episodes that follow the same structure.",
+              "Pin the first episode to your profile."
+            ],
+            "pl": [
+              "Wybierz pomysł z najlepszego filmu.",
+              "Zaplanuj 10 odcinków o tej samej strukturze.",
+              "Przypnij pierwszy odcinek na profilu."
+            ]
+          },
+          "metric_to_track": { "en": "Followers", "pl": "Obserwujący" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$200 / month", "pl": "0–200 $ / mies." },
+      "note": { "en": "First affiliate commissions once videos start getting views.", "pl": "Pierwsze prowizje afiliacyjne, gdy filmy zaczynają zbierać wyświetlenia." }
+    },
+    {
+      "label": { "en": "Months 4–6", "pl": "Miesiące 4–6" },
+      "range": { "en": "$100–$800 / month", "pl": "100–800 $ / mies." },
+      "note": { "en": "Steady views plus the first small brand deals.", "pl": "Stabilne wyświetlenia i pierwsze małe współprace." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$300–$2,000 / month", "pl": "300–2000 $ / mies." },
+      "note": { "en": "Typical for accounts posting daily with affiliates and brand deals.", "pl": "Typowe dla kont publikujących codziennie z afiliacją i współpracami." }
+    }
+  ]
+}

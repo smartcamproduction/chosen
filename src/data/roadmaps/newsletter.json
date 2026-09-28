@@ -1,0 +1,432 @@
+{
+  "hustle_slug": "newsletter",
+  "total_weeks": 12,
+  "weekly_metrics": ["subscribers", "issues_published", "pitches_sent"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Niche & setup", "pl": "Nisza i konfiguracja" },
+      "goal": {
+        "en": "Define who you write for and set up your newsletter with a clear promise.",
+        "pl": "Określ, dla kogo piszesz, i skonfiguruj newsletter z jasną obietnicą."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick your niche and ideal reader", "pl": "Wybierz niszę i idealnego czytelnika" },
+          "why": {
+            "en": "Sponsors pay for specific audiences. ‘AI tools for real estate agents’ is worth more than ‘AI news’.",
+            "pl": "Sponsorzy płacą za konkretne grupy odbiorców. „Narzędzia AI dla agentów nieruchomości” są warte więcej niż „nowości o AI”."
+          },
+          "instructions": {
+            "en": [
+              "Choose one industry or hobby you know and can write about every week.",
+              "Describe your ideal reader: job, goals, what they struggle with.",
+              "Write your promise in one sentence: what readers get, how often, and why it's worth their time."
+            ],
+            "pl": [
+              "Wybierz jedną branżę lub hobby, które znasz i o których możesz pisać co tydzień.",
+              "Opisz idealnego czytelnika: zawód, cele, z czym ma problem.",
+              "Zapisz obietnicę w jednym zdaniu: co czytelnik dostaje, jak często i dlaczego warto."
+            ]
+          },
+          "metric_to_track": { "en": "One-sentence promise written", "pl": "Obietnica w jednym zdaniu" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Study 10 newsletters in your niche", "pl": "Przeanalizuj 10 newsletterów w niszy" },
+          "why": {
+            "en": "Seeing what already works (and what's missing) helps you stand out from issue #1.",
+            "pl": "Obserwacja tego, co już działa (i czego brakuje), pozwala wyróżnić się od pierwszego wydania."
+          },
+          "instructions": {
+            "en": [
+              "Subscribe to 10 newsletters your reader might read.",
+              "Read two issues of each and note format, length and how they make money.",
+              "Write down 3 things none of them do well. That's your angle."
+            ],
+            "pl": [
+              "Zasubskrybuj 10 newsletterów, które może czytać Twój odbiorca.",
+              "Przeczytaj po dwa wydania i zanotuj format, długość i sposób zarabiania.",
+              "Zapisz 3 rzeczy, których żaden z nich nie robi dobrze. To Twój wyróżnik."
+            ]
+          },
+          "metric_to_track": { "en": "Newsletters analyzed", "pl": "Przeanalizowane newslettery" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Set up your newsletter", "pl": "Załóż newsletter" },
+          "why": {
+            "en": "beehiiv and Substack handle sign-ups, sending and payments, so you can focus on writing.",
+            "pl": "beehiiv i Substack obsługują zapisy, wysyłkę i płatności, więc możesz skupić się na pisaniu."
+          },
+          "instructions": {
+            "en": [
+              "Choose beehiiv (built for growth and ads) or Substack (simple, built-in paid subscriptions).",
+              "Create your publication with a clear name and simple logo.",
+              "Connect a custom domain if you have one.",
+              "Send yourself a test email and check it on your phone."
+            ],
+            "pl": [
+              "Wybierz beehiiv (nastawiony na wzrost i reklamy) lub Substack (prosty, z płatnymi subskrypcjami).",
+              "Utwórz publikację z czytelną nazwą i prostym logo.",
+              "Podłącz własną domenę, jeśli ją masz.",
+              "Wyślij sobie e-mail testowy i sprawdź go na telefonie."
+            ]
+          },
+          "metric_to_track": { "en": "Newsletter set up", "pl": "Newsletter gotowy" },
+          "resources": [
+            { "title": { "en": "Substack help center", "pl": "Centrum pomocy Substack (ang.)" }, "url": "https://support.substack.com" }
+          ],
+          "tools": [
+            { "name": "beehiiv", "url": "https://www.beehiiv.com", "affiliate": false },
+            { "name": "Substack", "url": "https://substack.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Write your welcome email and sign-up page", "pl": "Napisz e-mail powitalny i stronę zapisu" },
+          "why": {
+            "en": "Your sign-up page converts visitors into readers. Your welcome email sets expectations and gets you into the main inbox.",
+            "pl": "Strona zapisu zamienia odwiedzających w czytelników. E-mail powitalny ustawia oczekiwania i pomaga trafić do głównej skrzynki."
+          },
+          "instructions": {
+            "en": [
+              "Use your one-sentence promise as the headline of your sign-up page.",
+              "Add 3 bullet points on what readers get.",
+              "Write a short welcome email that asks readers to reply with one question. Replies improve deliverability."
+            ],
+            "pl": [
+              "Użyj obietnicy z jednego zdania jako nagłówka strony zapisu.",
+              "Dodaj 3 punkty o tym, co dostaje czytelnik.",
+              "Napisz krótki e-mail powitalny z prośbą o odpowiedź na jedno pytanie. Odpowiedzi poprawiają dostarczalność."
+            ]
+          },
+          "metric_to_track": { "en": "Sign-up page live", "pl": "Strona zapisu online" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "Launch", "pl": "Start" },
+      "goal": {
+        "en": "Publish your first 3 issues on schedule and reach your first 100 subscribers.",
+        "pl": "Opublikuj pierwsze 3 wydania zgodnie z planem i zdobądź pierwszych 100 subskrybentów."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 50,
+          "est_minutes": 120,
+          "title": { "en": "Publish issue #1 and share it with 20 people", "pl": "Opublikuj wydanie nr 1 i wyślij je 20 osobom" },
+          "why": {
+            "en": "Your first readers come from people you personally ask. It's awkward, and it works.",
+            "pl": "Pierwsi czytelnicy to osoby, które osobiście poprosisz. Bywa niezręcznie, ale to działa."
+          },
+          "instructions": {
+            "en": [
+              "Write issue #1 using your format: an intro, 3–5 useful items, one takeaway.",
+              "Publish it on your chosen day.",
+              "Personally message 20 people who fit your reader profile with the link and why you think they'd like it."
+            ],
+            "pl": [
+              "Napisz wydanie nr 1 w swoim formacie: wstęp, 3–5 przydatnych punktów, jeden wniosek.",
+              "Opublikuj je w wybranym dniu.",
+              "Wyślij osobistą wiadomość do 20 osób pasujących do profilu z linkiem i powodem, dla którego może im się spodobać."
+            ]
+          },
+          "metric_to_track": { "en": "Subscribers", "pl": "Subskrybenci" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Publish issues #2 and #3", "pl": "Opublikuj wydania nr 2 i 3" },
+          "why": {
+            "en": "Readers and sponsors trust newsletters that show up on the same day, every week.",
+            "pl": "Czytelnicy i sponsorzy ufają newsletterom, które pojawiają się w ten sam dzień co tydzień."
+          },
+          "instructions": {
+            "en": [
+              "Keep the same day and time as issue #1.",
+              "Collect ideas during the week in one note so writing takes under 2 hours.",
+              "End each issue with a question and reply to every answer."
+            ],
+            "pl": [
+              "Zachowaj ten sam dzień i godzinę co przy wydaniu nr 1.",
+              "Zbieraj pomysły w ciągu tygodnia w jednej notatce, by pisanie zajmowało mniej niż 2 godziny.",
+              "Kończ każde wydanie pytaniem i odpowiadaj na każdą odpowiedź."
+            ]
+          },
+          "metric_to_track": { "en": "Issues sent", "pl": "Wysłane wydania" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Share in 3 online communities", "pl": "Udostępnij w 3 społecznościach online" },
+          "why": {
+            "en": "Communities where your readers already hang out are the cheapest source of your first 100 subscribers.",
+            "pl": "Społeczności, w których już są Twoi czytelnicy, to najtańsze źródło pierwszych 100 subskrybentów."
+          },
+          "instructions": {
+            "en": [
+              "Find 3 communities (Reddit, LinkedIn, Facebook groups, Discord) where your readers are active.",
+              "Read each group's rules about self-promotion.",
+              "Share one genuinely useful insight from your latest issue, with the link only where allowed."
+            ],
+            "pl": [
+              "Znajdź 3 społeczności (Reddit, LinkedIn, grupy na Facebooku, Discord), w których są Twoi czytelnicy.",
+              "Przeczytaj zasady autopromocji w każdej grupie.",
+              "Podziel się jedną naprawdę przydatną myślą z ostatniego wydania, z linkiem tylko tam, gdzie wolno."
+            ]
+          },
+          "metric_to_track": { "en": "New subscribers from communities", "pl": "Nowi subskrybenci ze społeczności" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Set your growth target", "pl": "Ustal cel wzrostu" },
+          "why": {
+            "en": "Sponsors usually start paying around 1,000 engaged subscribers. A weekly target makes that concrete.",
+            "pl": "Sponsorzy zaczynają zwykle płacić przy około 1000 zaangażowanych subskrybentach. Cel tygodniowy czyni to konkretnym."
+          },
+          "instructions": {
+            "en": [
+              "Write down your subscriber count and open rate today.",
+              "Set a weekly target (e.g. +50 subscribers).",
+              "Log both numbers in every weekly check-in."
+            ],
+            "pl": [
+              "Zapisz dzisiejszą liczbę subskrybentów i współczynnik otwarć.",
+              "Ustal cel tygodniowy (np. +50 subskrybentów).",
+              "Wpisuj obie liczby w każdym cotygodniowym podsumowaniu."
+            ]
+          },
+          "metric_to_track": { "en": "Subscribers", "pl": "Subskrybenci" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Growth", "pl": "Wzrost" },
+      "goal": {
+        "en": "Grow through partners, referrals and social posts.",
+        "pl": "Rośnij dzięki partnerom, poleceniom i postom w social mediach."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 50,
+          "est_minutes": 120,
+          "title": { "en": "Swap recommendations with 3 newsletters", "pl": "Wymień się poleceniami z 3 newsletterami" },
+          "why": {
+            "en": "Cross-promotions bring readers who already love newsletters, at no cost.",
+            "pl": "Wzajemne polecenia przyciągają czytelników, którzy już lubią newslettery, bez żadnych kosztów."
+          },
+          "instructions": {
+            "en": [
+              "Find newsletters of a similar size with an overlapping but not identical audience.",
+              "Send a short, friendly proposal to recommend each other.",
+              "Write a genuine 2–3 sentence recommendation for their newsletter."
+            ],
+            "pl": [
+              "Znajdź newslettery podobnej wielkości z pokrewną, ale nie identyczną grupą odbiorców.",
+              "Wyślij krótką, przyjazną propozycję wzajemnego polecenia.",
+              "Napisz szczere, 2–3-zdaniowe polecenie ich newslettera."
+            ]
+          },
+          "metric_to_track": { "en": "Subscribers from partners", "pl": "Subskrybenci od partnerów" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Launch a referral program", "pl": "Uruchom program poleceń" },
+          "why": {
+            "en": "Readers who share with friends are your best growth channel. Small rewards make it happen.",
+            "pl": "Czytelnicy dzielący się ze znajomymi to najlepszy kanał wzrostu. Małe nagrody to napędzają."
+          },
+          "instructions": {
+            "en": [
+              "Turn on your platform's referral feature or use a tool like SparkLoop.",
+              "Offer simple digital rewards (a guide, a template, a shout-out).",
+              "Mention the program at the end of every issue."
+            ],
+            "pl": [
+              "Włącz funkcję poleceń na swojej platformie albo użyj narzędzia typu SparkLoop.",
+              "Zaproponuj proste cyfrowe nagrody (poradnik, szablon, wzmiankę).",
+              "Wspominaj o programie na końcu każdego wydania."
+            ]
+          },
+          "metric_to_track": { "en": "Referrals", "pl": "Polecenia" },
+          "resources": [],
+          "tools": [{ "name": "SparkLoop", "url": "https://sparkloop.app", "affiliate": false }]
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Turn each issue into 3 social posts", "pl": "Zamień każde wydanie w 3 posty" },
+          "why": {
+            "en": "You've already done the research. Posting pieces of it on LinkedIn or X brings new readers for free.",
+            "pl": "Research jest już zrobiony. Publikacja jego fragmentów na LinkedIn czy X przyciąga nowych czytelników za darmo."
+          },
+          "instructions": {
+            "en": [
+              "Pick the 3 most useful points from each issue.",
+              "Rewrite each as a short standalone post.",
+              "End with a soft invite to subscribe."
+            ],
+            "pl": [
+              "Wybierz 3 najbardziej przydatne punkty z każdego wydania.",
+              "Przepisz każdy jako krótki, samodzielny post.",
+              "Zakończ delikatnym zaproszeniem do subskrypcji."
+            ]
+          },
+          "metric_to_track": { "en": "Subscribers from social", "pl": "Subskrybenci z social mediów" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "First revenue", "pl": "Pierwsze przychody" },
+      "goal": {
+        "en": "Prepare a sponsor offer, pitch your first sponsors and pick your monetization mix.",
+        "pl": "Przygotuj ofertę dla sponsorów, zaproponuj współpracę pierwszym z nich i wybierz sposoby zarabiania."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Create a media kit and a payment link", "pl": "Przygotuj media kit i link do płatności" },
+          "why": {
+            "en": "Sponsors want numbers and an easy way to pay. Having both ready lets you close a deal the moment someone says yes.",
+            "pl": "Sponsorzy chcą liczb i łatwego sposobu płatności. Gdy masz oba, zamkniesz współpracę w chwili, gdy ktoś powie „tak”."
+          },
+          "instructions": {
+            "en": [
+              "Make a one-page media kit: audience, subscribers, open rate, placements, prices.",
+              "Start simple, e.g. one sponsor slot per issue.",
+              "Create a Stripe Payment Link for one slot."
+            ],
+            "pl": [
+              "Przygotuj jednostronicowy media kit: odbiorcy, subskrybenci, współczynnik otwarć, miejsca reklamowe, ceny.",
+              "Zacznij prosto, np. jedno miejsce sponsorskie na wydanie.",
+              "Utwórz Payment Link w Stripe na jedno miejsce."
+            ]
+          },
+          "metric_to_track": { "en": "Media kit ready", "pl": "Gotowy media kit" },
+          "resources": [
+            { "title": { "en": "Stripe Payment Links", "pl": "Stripe Payment Links (ang.)" }, "url": "https://docs.stripe.com/payment-links" }
+          ],
+          "tools": [
+            { "name": "Stripe", "url": "https://stripe.com", "affiliate": false },
+            { "name": "Canva", "url": "https://www.canva.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p4s2",
+          "xp": 60,
+          "est_minutes": 120,
+          "title": { "en": "Pitch 10 potential sponsors", "pl": "Zaproponuj sponsoring 10 firmom" },
+          "why": {
+            "en": "Small, niche sponsors often say yes to newsletters with a few hundred engaged readers.",
+            "pl": "Mali, niszowi sponsorzy często zgadzają się na newslettery z kilkuset zaangażowanymi czytelnikami."
+          },
+          "instructions": {
+            "en": [
+              "List 10 businesses or tools your readers would genuinely care about.",
+              "Send a short, personal pitch with your media kit and payment link.",
+              "Offer a discounted first slot so they can test you.",
+              "Follow up once after 5 days."
+            ],
+            "pl": [
+              "Wypisz 10 firm lub narzędzi, które naprawdę zainteresują czytelników.",
+              "Wyślij krótką, osobistą propozycję z media kitem i linkiem do płatności.",
+              "Zaproponuj zniżkę na pierwsze miejsce, by mogli Cię przetestować.",
+              "Przypomnij się raz po 5 dniach."
+            ]
+          },
+          "metric_to_track": { "en": "Pitches sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Pick your money mix", "pl": "Wybierz sposoby zarabiania" },
+          "why": {
+            "en": "Sponsors, an ad network, paid subscriptions and affiliate links each fit different audiences. Picking two keeps you focused.",
+            "pl": "Sponsorzy, sieć reklamowa, płatne subskrypcje i linki afiliacyjne pasują do różnych grup. Wybór dwóch pozwala się skupić."
+          },
+          "instructions": {
+            "en": [
+              "Check whether your platform's ad network or paid subscriptions are available on your plan.",
+              "Choose two income streams to focus on for the next 3 months.",
+              "Check how side income is taxed where you live, and set aside part of every payment."
+            ],
+            "pl": [
+              "Sprawdź, czy sieć reklamowa lub płatne subskrypcje są dostępne w Twoim planie.",
+              "Wybierz dwa źródła dochodu na najbliższe 3 miesiące.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. działalność nierejestrowana), i odkładaj część każdej wpłaty."
+            ]
+          },
+          "metric_to_track": { "en": "Revenue per 1,000 subscribers", "pl": "Przychód na 1000 subskrybentów" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0 / month", "pl": "0 $ / mies." },
+      "note": { "en": "Usually nothing until about 1,000 subscribers. Growth is the goal.", "pl": "Zwykle nic do około 1000 subskrybentów. Celem jest wzrost." }
+    },
+    {
+      "label": { "en": "Months 4–8", "pl": "Miesiące 4–8" },
+      "range": { "en": "$50–$500 / month", "pl": "50–500 $ / mies." },
+      "note": { "en": "First small sponsors and affiliate income.", "pl": "Pierwsi mali sponsorzy i dochód z afiliacji." }
+    },
+    {
+      "label": { "en": "Months 9–18", "pl": "Miesiące 9–18" },
+      "range": { "en": "$100–$1,500 / month", "pl": "100–1500 $ / mies." },
+      "note": { "en": "Regular sponsors, ad network or paid tier on top.", "pl": "Stali sponsorzy, sieć reklamowa lub płatna subskrypcja." }
+    }
+  ]
+}

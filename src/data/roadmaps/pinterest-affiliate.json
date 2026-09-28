@@ -1,0 +1,428 @@
+{
+  "hustle_slug": "pinterest-affiliate",
+  "total_weeks": 12,
+  "weekly_metrics": ["pins_published", "clicks", "sales"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Niche & accounts", "pl": "Nisza i konta" },
+      "goal": {
+        "en": "Pick a product niche, set up your Pinterest business account and join an affiliate program.",
+        "pl": "Wybierz niszę produktową, załóż konto firmowe na Pintereście i dołącz do programu afiliacyjnego."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick a niche people shop for on Pinterest", "pl": "Wybierz niszę, w której ludzie kupują na Pintereście" },
+          "why": {
+            "en": "People use Pinterest to plan purchases: home decor, kitchen, fashion, crafts, travel gear, baby products. Those niches convert best.",
+            "pl": "Ludzie używają Pinteresta do planowania zakupów: wystrój wnętrz, kuchnia, moda, rękodzieło, sprzęt podróżny, produkty dla dzieci. Te nisze sprzedają najlepiej."
+          },
+          "instructions": {
+            "en": [
+              "List 5 niches where people save product ideas.",
+              "Check each in Pinterest Trends to see if interest is steady or growing.",
+              "Pick one niche with many products under $100 that people buy online."
+            ],
+            "pl": [
+              "Wypisz 5 nisz, w których ludzie zapisują pomysły na produkty.",
+              "Sprawdź każdą w Pinterest Trends, czy zainteresowanie jest stałe lub rośnie.",
+              "Wybierz jedną niszę z wieloma produktami poniżej 100 $, kupowanymi online."
+            ]
+          },
+          "metric_to_track": { "en": "Niche chosen", "pl": "Wybrana nisza" },
+          "resources": [
+            { "title": { "en": "Pinterest Trends", "pl": "Pinterest Trends" }, "url": "https://trends.pinterest.com" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Set up a Pinterest business account", "pl": "Załóż konto firmowe na Pintereście" },
+          "why": {
+            "en": "A business account is free and unlocks analytics, so you can see which pins bring clicks.",
+            "pl": "Konto firmowe jest darmowe i odblokowuje statystyki, dzięki którym widzisz, które piny przynoszą kliknięcia."
+          },
+          "instructions": {
+            "en": [
+              "Create a free business account with a name that includes your niche keyword.",
+              "Write a profile description with 2–3 search phrases.",
+              "Create 5 boards named after what people search for (e.g. ‘Small Kitchen Organization Ideas’)."
+            ],
+            "pl": [
+              "Załóż darmowe konto firmowe z nazwą zawierającą słowo kluczowe niszy.",
+              "Napisz opis profilu z 2–3 frazami wyszukiwania.",
+              "Utwórz 5 tablic nazwanych tak, jak ludzie szukają (np. „Small Kitchen Organization Ideas”)."
+            ]
+          },
+          "metric_to_track": { "en": "Boards created", "pl": "Utworzone tablice" },
+          "resources": [
+            { "title": { "en": "Pinterest Business", "pl": "Pinterest Business (ang.)" }, "url": "https://business.pinterest.com" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Join an affiliate program", "pl": "Dołącz do programu afiliacyjnego" },
+          "why": {
+            "en": "Affiliate programs give you trackable links that pay a commission when someone buys.",
+            "pl": "Programy afiliacyjne dają linki, które naliczają prowizję, gdy ktoś kupi."
+          },
+          "instructions": {
+            "en": [
+              "Apply to Amazon Associates or a program from brands in your niche.",
+              "Add your Pinterest profile to your affiliate account where required.",
+              "Read the program's rules about where links may be posted.",
+              "Plan how you'll disclose affiliate links in every pin description."
+            ],
+            "pl": [
+              "Zgłoś się do Amazon Associates lub programu marek z Twojej niszy.",
+              "Tam, gdzie jest to wymagane, dodaj profil Pinterest w ustawieniach konta afiliacyjnego.",
+              "Przeczytaj zasady programu dotyczące miejsc publikacji linków.",
+              "Zaplanuj, jak oznaczysz linki afiliacyjne w opisie każdego pinu."
+            ]
+          },
+          "metric_to_track": { "en": "Program approved", "pl": "Zatwierdzony program" },
+          "resources": [
+            { "title": { "en": "FTC: disclosures for influencers", "pl": "FTC: oznaczanie współprac (ang.)" }, "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" }
+          ],
+          "tools": [{ "name": "Amazon Associates", "url": "https://affiliate-program.amazon.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Create 3 pin templates", "pl": "Przygotuj 3 szablony pinów" },
+          "why": {
+            "en": "Templates let you make a fresh pin in 5 minutes. Pinterest favors new images over repins.",
+            "pl": "Szablony pozwalają zrobić nowy pin w 5 minut. Pinterest faworyzuje nowe grafiki zamiast ponownych przypięć."
+          },
+          "instructions": {
+            "en": [
+              "Design 3 vertical templates (2:3 ratio, e.g. 1000×1500 px) in Canva.",
+              "Include a large, readable headline and space for 1–4 product photos.",
+              "Use consistent fonts and colors so people recognize your pins."
+            ],
+            "pl": [
+              "Zaprojektuj w Canvie 3 pionowe szablony (proporcje 2:3, np. 1000×1500 px).",
+              "Dodaj duży, czytelny nagłówek i miejsce na 1–4 zdjęcia produktów.",
+              "Używaj spójnych czcionek i kolorów, by ludzie rozpoznawali Twoje piny."
+            ]
+          },
+          "metric_to_track": { "en": "Templates ready", "pl": "Gotowe szablony" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "Start pinning", "pl": "Start przypinania" },
+      "goal": {
+        "en": "Publish fresh pins every day and get your first clicks.",
+        "pl": "Codziennie publikuj nowe piny i zdobądź pierwsze kliknięcia."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Build your keyword list", "pl": "Zbuduj listę słów kluczowych" },
+          "why": {
+            "en": "Pinterest is a search engine. Pins with the right words in the title and description keep appearing for months.",
+            "pl": "Pinterest to wyszukiwarka. Piny z właściwymi słowami w tytule i opisie pojawiają się miesiącami."
+          },
+          "instructions": {
+            "en": [
+              "Type your niche into Pinterest search and write down the suggested phrases.",
+              "Check Pinterest Trends for seasonal peaks.",
+              "Collect 30 phrases in a sheet."
+            ],
+            "pl": [
+              "Wpisz niszę w wyszukiwarkę Pinteresta i zapisz podpowiadane frazy.",
+              "Sprawdź w Pinterest Trends sezonowe szczyty.",
+              "Zbierz 30 fraz w arkuszu."
+            ]
+          },
+          "metric_to_track": { "en": "Keywords collected", "pl": "Zebrane słowa kluczowe" },
+          "resources": [
+            { "title": { "en": "Pinterest Trends", "pl": "Pinterest Trends" }, "url": "https://trends.pinterest.com" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Create your first 30 pins", "pl": "Stwórz pierwsze 30 pinów" },
+          "why": {
+            "en": "Volume matters on Pinterest. 30 pins give you enough data to see what people click.",
+            "pl": "Na Pintereście liczy się liczba. 30 pinów daje dość danych, by zobaczyć, co ludzie klikają."
+          },
+          "instructions": {
+            "en": [
+              "Make each pin around one keyword and one clear benefit.",
+              "Link each pin to a product (or a page listing several products) with your affiliate link.",
+              "Write a title and description with the keyword and a clear ‘affiliate link’ note."
+            ],
+            "pl": [
+              "Każdy pin buduj wokół jednego słowa kluczowego i jednej korzyści.",
+              "Podlinkuj każdy pin do produktu (lub strony z kilkoma produktami) linkiem afiliacyjnym.",
+              "Napisz tytuł i opis ze słowem kluczowym i wyraźną informacją o linku afiliacyjnym."
+            ]
+          },
+          "metric_to_track": { "en": "Pins published", "pl": "Opublikowane piny" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 50,
+          "est_minutes": 300,
+          "title": { "en": "Pin 3–5 fresh pins a day for 3 weeks", "pl": "Przypinaj 3–5 nowych pinów dziennie przez 3 tygodnie" },
+          "why": {
+            "en": "Daily consistency tells Pinterest your account is active. Accounts that pin steadily get more distribution.",
+            "pl": "Codzienna regularność pokazuje Pinterestowi, że konto jest aktywne. Konta publikujące stale dostają większe zasięgi."
+          },
+          "instructions": {
+            "en": [
+              "Schedule pins in advance using Pinterest's built-in scheduler.",
+              "Spread pins across different boards and products.",
+              "Avoid pinning the exact same image repeatedly. Change the photo or headline instead."
+            ],
+            "pl": [
+              "Planuj piny z wyprzedzeniem we wbudowanym harmonogramie Pinteresta.",
+              "Rozkładaj piny na różne tablice i produkty.",
+              "Nie przypinaj wielokrotnie tej samej grafiki. Zmieniaj zdjęcie lub nagłówek."
+            ]
+          },
+          "metric_to_track": { "en": "Pins published", "pl": "Opublikowane piny" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Track clicks and commissions", "pl": "Śledź kliknięcia i prowizje" },
+          "why": {
+            "en": "Commissions arrive with delays. A weekly log shows which boards and products really earn.",
+            "pl": "Prowizje wpływają z opóźnieniem. Cotygodniowy zapis pokazuje, które tablice i produkty naprawdę zarabiają."
+          },
+          "instructions": {
+            "en": [
+              "Create a sheet with: week, pins, outbound clicks, orders, commission.",
+              "Fill it before every weekly check-in.",
+              "Check how side income is taxed where you live."
+            ],
+            "pl": [
+              "Utwórz arkusz: tydzień, piny, kliknięcia wychodzące, zamówienia, prowizja.",
+              "Uzupełniaj go przed każdym cotygodniowym podsumowaniem.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. działalność nierejestrowana)."
+            ]
+          },
+          "metric_to_track": { "en": "Outbound clicks", "pl": "Kliknięcia wychodzące" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Double down", "pl": "Postaw na to, co działa" },
+      "goal": {
+        "en": "Find your best pins and make more like them.",
+        "pl": "Znajdź najlepsze piny i rób więcej podobnych."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 40,
+          "est_minutes": 45,
+          "title": { "en": "Find your top 5 pins", "pl": "Znajdź 5 najlepszych pinów" },
+          "why": {
+            "en": "A few pins usually drive most clicks. Knowing which ones tells you what to make next.",
+            "pl": "Kilka pinów zwykle generuje większość kliknięć. Wiedza, które to są, mówi, co robić dalej."
+          },
+          "instructions": {
+            "en": [
+              "Open Pinterest Analytics and sort pins by outbound clicks.",
+              "Note what the top 5 share: topic, image style, headline type.",
+              "Compare with the products that earned commissions."
+            ],
+            "pl": [
+              "Otwórz statystyki Pinteresta i posortuj piny według kliknięć wychodzących.",
+              "Zanotuj, co łączy 5 najlepszych: temat, styl grafiki, rodzaj nagłówka.",
+              "Porównaj to z produktami, które przyniosły prowizję."
+            ]
+          },
+          "metric_to_track": { "en": "Top pins identified", "pl": "Wskazane najlepsze piny" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Make 10 variations of your top pins", "pl": "Zrób 10 wariantów najlepszych pinów" },
+          "why": {
+            "en": "New images of a winning idea reach new people while keeping what already works.",
+            "pl": "Nowe grafiki zwycięskiego pomysłu docierają do nowych osób, zachowując to, co działa."
+          },
+          "instructions": {
+            "en": [
+              "For each top pin, create 2 new versions with different photos or headlines.",
+              "Target a related keyword in each version.",
+              "Schedule them over the next 2 weeks."
+            ],
+            "pl": [
+              "Do każdego najlepszego pinu zrób 2 nowe wersje z innymi zdjęciami lub nagłówkami.",
+              "W każdej wersji celuj w pokrewne słowo kluczowe.",
+              "Zaplanuj je na najbliższe 2 tygodnie."
+            ]
+          },
+          "metric_to_track": { "en": "Outbound clicks", "pl": "Kliknięcia wychodzące" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Plan seasonal pins early", "pl": "Zaplanuj sezonowe piny z wyprzedzeniem" },
+          "why": {
+            "en": "Pinterest users plan weeks or months ahead. Seasonal pins need time to rank before the peak.",
+            "pl": "Użytkownicy Pinteresta planują z tygodniowym lub miesięcznym wyprzedzeniem. Sezonowe piny potrzebują czasu, by się wypozycjonować."
+          },
+          "instructions": {
+            "en": [
+              "List the next 3 seasonal moments in your niche (holidays, back to school, summer).",
+              "Create boards for them now.",
+              "Start pinning seasonal content 6–8 weeks before each one."
+            ],
+            "pl": [
+              "Wypisz 3 najbliższe sezonowe okazje w niszy (święta, powrót do szkoły, lato).",
+              "Utwórz dla nich tablice już teraz.",
+              "Zacznij przypinać treści sezonowe 6–8 tygodni wcześniej."
+            ]
+          },
+          "metric_to_track": { "en": "Seasonal pins scheduled", "pl": "Zaplanowane piny sezonowe" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Scale", "pl": "Skalowanie" },
+      "goal": {
+        "en": "Add higher-paying offers and build a system you can run in a few hours a week.",
+        "pl": "Dodaj lepiej płatne oferty i zbuduj system, który obsłużysz w kilka godzin tygodniowo."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Add a higher-commission program", "pl": "Dodaj program z wyższą prowizją" },
+          "why": {
+            "en": "Commission rates vary a lot. Brands with their own programs often pay more than large marketplaces.",
+            "pl": "Stawki prowizji bardzo się różnią. Marki z własnymi programami często płacą więcej niż duże marketplace'y."
+          },
+          "instructions": {
+            "en": [
+              "Search for ‘[brand] affiliate program’ for the brands you pin most.",
+              "Compare commission rates and cookie length.",
+              "Swap links on your top pins to the better-paying program where allowed."
+            ],
+            "pl": [
+              "Wyszukaj „[marka] affiliate program” dla marek, które przypinasz najczęściej.",
+              "Porównaj stawki prowizji i czas ważności plików cookie.",
+              "Tam, gdzie to dozwolone, podmień linki w najlepszych pinach na lepiej płatny program."
+            ]
+          },
+          "metric_to_track": { "en": "Commission per click", "pl": "Prowizja na kliknięcie" },
+          "resources": [],
+          "tools": [{ "name": "Awin", "url": "https://www.awin.com", "affiliate": false }]
+        },
+        {
+          "id": "p4s2",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Create a roundup page for your best topic", "pl": "Stwórz stronę zestawienia dla najlepszego tematu" },
+          "why": {
+            "en": "A simple ‘best products for…’ page lets one pin earn from several products and works with programs that don't allow direct links.",
+            "pl": "Prosta strona „najlepsze produkty do…” pozwala jednemu pinowi zarabiać na kilku produktach i działa z programami, które nie pozwalają na bezpośrednie linki."
+          },
+          "instructions": {
+            "en": [
+              "Build a free one-page site (e.g. with Notion or a simple website builder).",
+              "List 5–10 products with a photo, one honest sentence each and your affiliate link.",
+              "Point your best pins to this page."
+            ],
+            "pl": [
+              "Zbuduj darmową jednostronicową witrynę (np. w Notion lub prostym kreatorze stron).",
+              "Wypisz 5–10 produktów ze zdjęciem, jednym szczerym zdaniem i linkiem afiliacyjnym.",
+              "Kieruj najlepsze piny na tę stronę."
+            ]
+          },
+          "metric_to_track": { "en": "Clicks from the roundup page", "pl": "Kliknięcia ze strony zestawienia" },
+          "resources": [],
+          "tools": [{ "name": "Notion", "url": "https://www.notion.com", "affiliate": false }]
+        },
+        {
+          "id": "p4s3",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Batch a full month of pins", "pl": "Przygotuj hurtowo piny na cały miesiąc" },
+          "why": {
+            "en": "Batching turns Pinterest into a few focused sessions a month, which you can keep up for a long time.",
+            "pl": "Praca hurtowa zamienia Pinterest w kilka skupionych sesji w miesiącu, które da się utrzymać na długo."
+          },
+          "instructions": {
+            "en": [
+              "Create around 90 pins in 2–3 sessions using your templates.",
+              "Schedule them evenly over the next 30 days.",
+              "Block one hour a week to check analytics and adjust."
+            ],
+            "pl": [
+              "Stwórz około 90 pinów w 2–3 sesjach, korzystając z szablonów.",
+              "Rozplanuj je równomiernie na 30 dni.",
+              "Zarezerwuj godzinę tygodniowo na statystyki i poprawki."
+            ]
+          },
+          "metric_to_track": { "en": "Pins scheduled", "pl": "Zaplanowane piny" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$100 / month", "pl": "0–100 $ / mies." },
+      "note": { "en": "Pins take weeks to gain traction. Early commissions are small.", "pl": "Piny potrzebują tygodni, by się rozkręcić. Pierwsze prowizje są niewielkie." }
+    },
+    {
+      "label": { "en": "Months 4–6", "pl": "Miesiące 4–6" },
+      "range": { "en": "$50–$400 / month", "pl": "50–400 $ / mies." },
+      "note": { "en": "Winning pins keep bringing clicks while you add new ones.", "pl": "Zwycięskie piny przynoszą kliknięcia, a Ty dodajesz nowe." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$200–$1,000 / month", "pl": "200–1000 $ / mies." },
+      "note": { "en": "Typical for consistent pinners with several affiliate programs.", "pl": "Typowe dla osób regularnie przypinających z kilkoma programami afiliacyjnymi." }
+    }
+  ]
+}

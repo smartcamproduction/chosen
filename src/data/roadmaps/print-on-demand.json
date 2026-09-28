@@ -1,0 +1,447 @@
+{
+  "hustle_slug": "print-on-demand",
+  "total_weeks": 12,
+  "weekly_metrics": ["listings", "shop_visits", "sales"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Niche & shop setup", "pl": "Nisza i sklep" },
+      "goal": {
+        "en": "Pick a niche you can design for and open an Etsy shop connected to Printful.",
+        "pl": "Wybierz niszę, dla której umiesz projektować, i otwórz sklep na Etsy połączony z Printful."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick one specific niche", "pl": "Wybierz jedną konkretną niszę" },
+          "why": {
+            "en": "Broad shops get lost in search. A narrow audience (like night-shift nurses or retro camper owners) tells you exactly what to design and which words buyers type.",
+            "pl": "Ogólne sklepy giną w wyszukiwarce. Wąska grupa (np. pielęgniarki na nocnych zmianach albo fani starych kamperów) podpowiada, co projektować i jakie słowa wpisują kupujący."
+          },
+          "instructions": {
+            "en": [
+              "List 10 hobbies, jobs or identities people are proud of or joke about (e.g. ‘night-shift nurses’, ‘sourdough bakers’).",
+              "Search each one on Etsy and note whether the top listings have many reviews (proof that people buy).",
+              "Pick one niche with real demand where you can still stand out.",
+              "Write down 20 phrases, inside jokes or references your niche uses."
+            ],
+            "pl": [
+              "Wypisz 10 hobby, zawodów lub tożsamości, z których ludzie są dumni albo żartują (np. „pielęgniarki na nocce”, „piekarze chleba na zakwasie”).",
+              "Wyszukaj każdą na Etsy i sprawdź, czy najwyższe oferty mają dużo opinii (to dowód, że ludzie kupują).",
+              "Wybierz jedną niszę z realnym popytem, w której wciąż możesz się wyróżnić.",
+              "Zapisz 20 haseł, żartów lub nawiązań, których używa Twoja nisza."
+            ]
+          },
+          "metric_to_track": { "en": "1 niche chosen, 20 design ideas listed", "pl": "1 wybrana nisza, 20 pomysłów na projekty" },
+          "resources": [
+            { "title": { "en": "Etsy Seller Handbook", "pl": "Etsy Seller Handbook (ang.)" }, "url": "https://www.etsy.com/seller-handbook" }
+          ],
+          "tools": [{ "name": "eRank", "url": "https://erank.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s2",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Check trademarks before you design", "pl": "Sprawdź znaki towarowe przed projektowaniem" },
+          "why": {
+            "en": "Trademarked phrases, brands and characters get listings removed and can close your shop. A 30-minute check protects everything you build.",
+            "pl": "Zastrzeżone hasła, marki i postacie kończą się usunięciem ofert, a nawet zamknięciem sklepu. 30 minut sprawdzania chroni wszystko, co zbudujesz."
+          },
+          "instructions": {
+            "en": [
+              "Search every phrase from your list in a trademark database.",
+              "Drop anything with brand names, sports teams, movie or game characters, or celebrity names.",
+              "Keep only phrases that are free to use, and note where you checked them."
+            ],
+            "pl": [
+              "Wyszukaj każde hasło z listy w bazie znaków towarowych.",
+              "Odrzuć wszystko z nazwami marek, drużyn sportowych, postaci z filmów lub gier albo nazwiskami celebrytów.",
+              "Zostaw tylko hasła, których możesz swobodnie używać, i zanotuj, gdzie je sprawdzono."
+            ]
+          },
+          "metric_to_track": { "en": "Phrases checked", "pl": "Sprawdzone hasła" },
+          "resources": [
+            { "title": { "en": "Etsy intellectual property policy", "pl": "Zasady Etsy dot. własności intelektualnej (ang.)" }, "url": "https://www.etsy.com/legal/ip" },
+            { "title": { "en": "TMview trademark search", "pl": "Wyszukiwarka znaków towarowych TMview" }, "url": "https://www.tmdn.org/tmview/" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Open your Etsy shop and connect Printful", "pl": "Otwórz sklep na Etsy i połącz Printful" },
+          "why": {
+            "en": "Once Printful is connected, every order is printed and shipped automatically. You focus on designs, not packages.",
+            "pl": "Po połączeniu z Printful każde zamówienie jest drukowane i wysyłane automatycznie. Ty skupiasz się na projektach, nie na paczkach."
+          },
+          "instructions": {
+            "en": [
+              "Create an Etsy seller account. Have your ID and bank details ready; some countries pay a small one-time setup fee.",
+              "Add a shop name, banner and a short ‘About’ section that speaks to your niche.",
+              "Create a free Printful account and connect it to Etsy under Stores.",
+              "In your Etsy listings, add Printful as a production partner. Etsy requires this for print-on-demand."
+            ],
+            "pl": [
+              "Załóż konto sprzedawcy na Etsy. Przygotuj dokument tożsamości i dane konta bankowego; w niektórych krajach obowiązuje niewielka jednorazowa opłata.",
+              "Dodaj nazwę sklepu, baner i krótką sekcję „O nas” skierowaną do Twojej niszy.",
+              "Załóż darmowe konto w Printful i połącz je z Etsy w sekcji Stores.",
+              "W ofertach na Etsy dodaj Printful jako partnera produkcyjnego. Etsy wymaga tego przy print on demand."
+            ]
+          },
+          "metric_to_track": { "en": "Shop open and connected", "pl": "Sklep otwarty i połączony" },
+          "resources": [
+            { "title": { "en": "Printful + Etsy integration", "pl": "Integracja Printful z Etsy (ang.)" }, "url": "https://www.printful.com/integrations/etsy" },
+            { "title": { "en": "Etsy fees explained", "pl": "Opłaty na Etsy (ang.)" }, "url": "https://www.etsy.com/legal/fees/" }
+          ],
+          "tools": [
+            { "name": "Etsy", "url": "https://www.etsy.com/sell", "affiliate": false },
+            { "name": "Printful", "url": "https://www.printful.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 30,
+          "title": { "en": "Order one sample", "pl": "Zamów jedną próbkę" },
+          "why": {
+            "en": "Seeing and touching the product shows you real print quality and colors, and gives you your own photos, which convert better than mockups.",
+            "pl": "Produkt w ręku pokazuje prawdziwą jakość i kolory nadruku, a do tego dostajesz własne zdjęcia, które sprzedają lepiej niż mockupy."
+          },
+          "instructions": {
+            "en": [
+              "Pick the product type most sellers in your niche use (usually a T-shirt or a mug).",
+              "Order one sample through Printful's sample order option to pay less.",
+              "Check colors, print size and fabric, then photograph it in daylight for your listings."
+            ],
+            "pl": [
+              "Wybierz typ produktu, który najczęściej sprzedaje się w Twojej niszy (zwykle koszulka lub kubek).",
+              "Zamów jedną próbkę przez opcję zamówienia próbek w Printful, żeby zapłacić mniej.",
+              "Sprawdź kolory, rozmiar nadruku i materiał, a potem zrób zdjęcia w dziennym świetle do ofert."
+            ]
+          },
+          "metric_to_track": { "en": "Sample ordered", "pl": "Zamówiona próbka" },
+          "resources": [],
+          "tools": [{ "name": "Printful", "url": "https://www.printful.com", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "Designs & first listings", "pl": "Projekty i pierwsze oferty" },
+      "goal": {
+        "en": "Publish your first 20 listings with strong titles, tags and mockups.",
+        "pl": "Opublikuj pierwsze 20 ofert z mocnymi tytułami, tagami i mockupami."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Create your first 10 designs", "pl": "Stwórz pierwsze 10 projektów" },
+          "why": {
+            "en": "Etsy rewards shops with many relevant listings. More designs mean more chances to be found.",
+            "pl": "Etsy nagradza sklepy z wieloma trafnymi ofertami. Więcej projektów to więcej szans, że ktoś Cię znajdzie."
+          },
+          "instructions": {
+            "en": [
+              "Start with text-based designs using your phrase list. They're fast to make and often sell well.",
+              "Export at the size Printful asks for in the product's print file guidelines, with a transparent background.",
+              "Make a light and a dark version of each design so it works on more product colors.",
+              "Save files in folders named by niche and phrase."
+            ],
+            "pl": [
+              "Zacznij od projektów tekstowych z listy haseł. Powstają szybko i często dobrze się sprzedają.",
+              "Eksportuj w rozmiarze z wytycznych Printful dla danego produktu, z przezroczystym tłem.",
+              "Przygotuj jasną i ciemną wersję każdego projektu, żeby pasowała do większej liczby kolorów.",
+              "Zapisuj pliki w folderach nazwanych według niszy i hasła."
+            ]
+          },
+          "metric_to_track": { "en": "Designs finished", "pl": "Gotowe projekty" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Write search-friendly titles and 13 tags", "pl": "Napisz tytuły pod wyszukiwarkę i 13 tagów" },
+          "why": {
+            "en": "Buyers find you through the words they type. Titles and tags decide whether your listing shows up at all.",
+            "pl": "Kupujący znajdują Cię po słowach, które wpisują. Tytuły i tagi decydują, czy oferta w ogóle się pokaże."
+          },
+          "instructions": {
+            "en": [
+              "Start each title with what a buyer would type, e.g. ‘Night Shift Nurse Shirt, Funny Nurse Gift’.",
+              "Use all 13 tags. Each tag can be up to 20 characters.",
+              "Use phrases instead of single words (e.g. ‘nurse gift for her’).",
+              "Check how often phrases are searched in eRank before you finalize them."
+            ],
+            "pl": [
+              "Zaczynaj tytuł od tego, co wpisałby kupujący, np. „Night Shift Nurse Shirt, Funny Nurse Gift”.",
+              "Wykorzystaj wszystkie 13 tagów. Każdy może mieć do 20 znaków.",
+              "Używaj fraz zamiast pojedynczych słów (np. „nurse gift for her”).",
+              "Zanim zatwierdzisz frazy, sprawdź w eRank, jak często są wyszukiwane."
+            ]
+          },
+          "metric_to_track": { "en": "Listings with full titles and tags", "pl": "Oferty z pełnymi tytułami i tagami" },
+          "resources": [
+            { "title": { "en": "Etsy Seller Handbook", "pl": "Etsy Seller Handbook (ang.)" }, "url": "https://www.etsy.com/seller-handbook" }
+          ],
+          "tools": [{ "name": "eRank", "url": "https://erank.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 60,
+          "est_minutes": 300,
+          "title": { "en": "Publish your first 20 listings", "pl": "Opublikuj pierwsze 20 ofert" },
+          "why": {
+            "en": "Your listings are your storefront. Around 20 is when a new shop starts to get steady views.",
+            "pl": "Oferty to Twoja witryna. Przy około 20 nowy sklep zaczyna dostawać regularne wyświetlenia."
+          },
+          "instructions": {
+            "en": [
+              "Create each product in Printful and push it to Etsy.",
+              "Use at least 5 images per listing, including one lifestyle photo or your sample photo.",
+              "Set prices so you keep a profit after Printful costs, shipping and Etsy fees. Aim for at least $5–8 per item.",
+              "Publish, then open every listing on your phone to check it looks right."
+            ],
+            "pl": [
+              "Utwórz każdy produkt w Printful i wyślij go na Etsy.",
+              "Dodaj co najmniej 5 zdjęć do oferty, w tym jedno lifestyle'owe lub zdjęcie próbki.",
+              "Ustal ceny tak, by po kosztach Printful, wysyłce i opłatach Etsy został zysk. Celuj w co najmniej 5–8 $ na sztuce.",
+              "Opublikuj, a potem otwórz każdą ofertę na telefonie i sprawdź, czy dobrze wygląda."
+            ]
+          },
+          "metric_to_track": { "en": "Listings live", "pl": "Aktywne oferty" },
+          "resources": [
+            { "title": { "en": "Etsy fees explained", "pl": "Opłaty na Etsy (ang.)" }, "url": "https://www.etsy.com/legal/fees/" }
+          ],
+          "tools": [{ "name": "Printful", "url": "https://www.printful.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Set up simple profit tracking", "pl": "Ustaw proste śledzenie zysku" },
+          "why": {
+            "en": "Print-on-demand margins are thin. You need to know your real profit per sale, not just revenue.",
+            "pl": "Marże w print on demand są niewielkie. Musisz znać realny zysk z każdej sprzedaży, nie tylko przychód."
+          },
+          "instructions": {
+            "en": [
+              "Create a spreadsheet with columns: date, product, sale price, Printful cost, Etsy fees, profit.",
+              "Add every sale once a week, before your check-in.",
+              "Check how side income is taxed where you live, and set aside part of your profit."
+            ],
+            "pl": [
+              "Utwórz arkusz z kolumnami: data, produkt, cena, koszt Printful, opłaty Etsy, zysk.",
+              "Raz w tygodniu, przed podsumowaniem, dopisuj każdą sprzedaż.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. zasady działalności nierejestrowanej), i odkładaj część zysku."
+            ]
+          },
+          "metric_to_track": { "en": "Profit per sale", "pl": "Zysk na sprzedaży" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Traction", "pl": "Pierwsze efekty" },
+      "goal": {
+        "en": "Get steady views and your first sales, then double down on what works.",
+        "pl": "Zdobądź regularne wyświetlenia i pierwsze sprzedaże, a potem postaw na to, co działa."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 60,
+          "est_minutes": 300,
+          "title": { "en": "Publish 20 more listings", "pl": "Opublikuj 20 kolejnych ofert" },
+          "why": {
+            "en": "Most shops only see regular sales after 40–50 listings. Each new listing is another door into your shop.",
+            "pl": "Większość sklepów notuje regularną sprzedaż dopiero po 40–50 ofertach. Każda nowa oferta to kolejne drzwi do sklepu."
+          },
+          "instructions": {
+            "en": [
+              "Put designs that got views or favorites on new products (mugs, hoodies, stickers).",
+              "Add 10 new designs in the same niche.",
+              "Reuse your best-performing tags as a starting point."
+            ],
+            "pl": [
+              "Projekty, które zebrały wyświetlenia lub polubienia, przenieś na nowe produkty (kubki, bluzy, naklejki).",
+              "Dodaj 10 nowych projektów w tej samej niszy.",
+              "Zacznij od tagów, które najlepiej działały dotąd."
+            ]
+          },
+          "metric_to_track": { "en": "Listings live", "pl": "Aktywne oferty" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Fix listings with views but no sales", "pl": "Popraw oferty z wyświetleniami, ale bez sprzedaży" },
+          "why": {
+            "en": "Small changes to your main photo and title can double clicks. Fixing a listing is faster than making a new one.",
+            "pl": "Drobne zmiany głównego zdjęcia i tytułu potrafią podwoić liczbę kliknięć. Poprawa oferty jest szybsza niż tworzenie nowej."
+          },
+          "instructions": {
+            "en": [
+              "In Etsy Stats, find listings with views but no favorites or sales.",
+              "Test a new main photo first. It drives most clicks.",
+              "Rewrite the title with a more specific phrase.",
+              "Change one thing at a time, and wait a week before judging."
+            ],
+            "pl": [
+              "W statystykach Etsy znajdź oferty z wyświetleniami, ale bez polubień i sprzedaży.",
+              "Najpierw przetestuj nowe główne zdjęcie. To ono generuje najwięcej kliknięć.",
+              "Przepisz tytuł, używając bardziej konkretnej frazy.",
+              "Zmieniaj jedną rzecz naraz i oceniaj efekt po tygodniu."
+            ]
+          },
+          "metric_to_track": { "en": "Listings improved", "pl": "Poprawione oferty" },
+          "resources": [],
+          "tools": [{ "name": "eRank", "url": "https://erank.com", "affiliate": false }]
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Share your designs on Pinterest", "pl": "Pokaż projekty na Pintereście" },
+          "why": {
+            "en": "Pinterest works like a search engine for ideas and gifts. Pins keep bringing visitors for months.",
+            "pl": "Pinterest działa jak wyszukiwarka pomysłów i prezentów. Piny przyprowadzają odwiedzających przez wiele miesięcy."
+          },
+          "instructions": {
+            "en": [
+              "Create a free Pinterest business account.",
+              "Make a board for your niche and pin 3 mockups of different listings each day for a week.",
+              "Write pin titles with the same search phrases as your Etsy titles."
+            ],
+            "pl": [
+              "Załóż darmowe konto firmowe na Pintereście.",
+              "Utwórz tablicę dla swojej niszy i przez tydzień przypinaj codziennie 3 mockupy różnych ofert.",
+              "W tytułach pinów używaj tych samych fraz co w tytułach na Etsy."
+            ]
+          },
+          "metric_to_track": { "en": "Shop visits from Pinterest", "pl": "Odwiedziny sklepu z Pinteresta" },
+          "resources": [
+            { "title": { "en": "Pinterest Business", "pl": "Pinterest Business (ang.)" }, "url": "https://business.pinterest.com" }
+          ],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Scale", "pl": "Skalowanie" },
+      "goal": {
+        "en": "Turn your best sellers into a system and reach steady monthly profit.",
+        "pl": "Zamień bestsellery w system i osiągnij stały miesięczny zysk."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 40,
+          "est_minutes": 45,
+          "title": { "en": "Make 5 variations of each best seller", "pl": "Zrób 5 wariantów każdego bestsellera" },
+          "why": {
+            "en": "A design that sells once will usually sell again in a new color, phrase or product. Winners are your cheapest growth.",
+            "pl": "Projekt, który raz się sprzedał, zwykle sprzeda się znowu w nowym kolorze, haśle lub na innym produkcie. Zwycięzcy to najtańszy wzrost."
+          },
+          "instructions": {
+            "en": [
+              "Sort listings by sales and favorites for the last 30 days.",
+              "For your top 3, create 5 variations each: new colors, new phrases, new product types.",
+              "Publish them with titles that target slightly different search phrases."
+            ],
+            "pl": [
+              "Posortuj oferty według sprzedaży i polubień z ostatnich 30 dni.",
+              "Dla 3 najlepszych stwórz po 5 wariantów: nowe kolory, nowe hasła, nowe typy produktów.",
+              "Opublikuj je z tytułami celującymi w nieco inne frazy."
+            ]
+          },
+          "metric_to_track": { "en": "Sales from variations", "pl": "Sprzedaż z wariantów" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 50,
+          "est_minutes": 45,
+          "title": { "en": "Test Etsy Ads on proven listings only", "pl": "Przetestuj Etsy Ads tylko na sprawdzonych ofertach" },
+          "why": {
+            "en": "Ads amplify what already works. On unproven listings they mostly burn money.",
+            "pl": "Reklamy wzmacniają to, co już działa. Na niesprawdzonych ofertach głównie przepalają pieniądze."
+          },
+          "instructions": {
+            "en": [
+              "Turn on Etsy Ads with a small daily budget ($1–3).",
+              "Advertise only listings that have already sold.",
+              "After 2 weeks, compare ad cost per sale with your profit per sale, and stop ads that lose money."
+            ],
+            "pl": [
+              "Włącz Etsy Ads z małym dziennym budżetem (1–3 $).",
+              "Reklamuj tylko oferty, które już się sprzedały.",
+              "Po 2 tygodniach porównaj koszt reklamy na sprzedaż z zyskiem na sprzedaży i wyłącz reklamy, które przynoszą stratę."
+            ]
+          },
+          "metric_to_track": { "en": "Ad cost per sale", "pl": "Koszt reklamy na sprzedaż" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 50,
+          "est_minutes": 60,
+          "title": { "en": "Plan your seasonal calendar", "pl": "Zaplanuj kalendarz sezonowy" },
+          "why": {
+            "en": "Holidays drive most print-on-demand sales. Listings need 6–8 weeks to get found before the rush.",
+            "pl": "Święta napędzają większość sprzedaży w print on demand. Oferty potrzebują 6–8 tygodni, żeby zostać zauważone przed szczytem."
+          },
+          "instructions": {
+            "en": [
+              "List the holidays and events your niche cares about for the next 6 months.",
+              "Put each one in your calendar 8 weeks early as a ‘publish designs’ reminder.",
+              "Prepare 5 designs for the next upcoming event now."
+            ],
+            "pl": [
+              "Wypisz święta i wydarzenia ważne dla Twojej niszy w najbliższych 6 miesiącach.",
+              "Dodaj każde do kalendarza z 8-tygodniowym wyprzedzeniem jako przypomnienie „opublikuj projekty”.",
+              "Przygotuj już teraz 5 projektów na najbliższe wydarzenie."
+            ]
+          },
+          "metric_to_track": { "en": "Seasonal listings ready", "pl": "Gotowe oferty sezonowe" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$200 / month", "pl": "0–200 $ / mies." },
+      "note": { "en": "Most shops need 30–50 listings before sales become regular.", "pl": "Większość sklepów potrzebuje 30–50 ofert, zanim sprzedaż stanie się regularna." }
+    },
+    {
+      "label": { "en": "Months 4–6", "pl": "Miesiące 4–6" },
+      "range": { "en": "$100–$500 / month", "pl": "100–500 $ / mies." },
+      "note": { "en": "Winners appear. Expanding them to new products drives growth.", "pl": "Pojawiają się bestsellery. Przenoszenie ich na nowe produkty napędza wzrost." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$300–$1,500 / month", "pl": "300–1500 $ / mies." },
+      "note": { "en": "Typical for shops with 100+ focused listings and seasonal designs.", "pl": "Typowe dla sklepów ze 100+ dopracowanymi ofertami i projektami sezonowymi." }
+    }
+  ]
+}

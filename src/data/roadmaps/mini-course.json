@@ -1,0 +1,424 @@
+{
+  "hustle_slug": "mini-course",
+  "total_weeks": 12,
+  "weekly_metrics": ["leads", "sales", "reviews"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Validate the idea", "pl": "Weryfikacja pomysłu" },
+      "goal": {
+        "en": "Choose a skill people will pay to learn and prove it before building anything.",
+        "pl": "Wybierz umiejętność, za której naukę ludzie zapłacą, i sprawdź to, zanim cokolwiek zbudujesz."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Pick a skill and the person one step behind you", "pl": "Wybierz umiejętność i osobę, która jest krok za Tobą" },
+          "why": {
+            "en": "You don't need to be the world's best expert. People pay to learn from someone who solved their exact problem recently.",
+            "pl": "Nie musisz być najlepszym ekspertem na świecie. Ludzie płacą, by uczyć się od kogoś, kto niedawno rozwiązał dokładnie ich problem."
+          },
+          "instructions": {
+            "en": [
+              "List 10 things friends or colleagues ask you for help with.",
+              "Mark the ones that lead to money, time saved or a clear result (e.g. ‘build a portfolio in Figma’, ‘pass a job interview’).",
+              "Pick one skill and describe the student: who they are and what result they want."
+            ],
+            "pl": [
+              "Wypisz 10 rzeczy, w których znajomi lub współpracownicy proszą Cię o pomoc.",
+              "Zaznacz te, które prowadzą do pieniędzy, oszczędności czasu lub jasnego efektu (np. „portfolio w Figmie”, „zdana rozmowa o pracę”).",
+              "Wybierz jedną umiejętność i opisz kursanta: kim jest i jakiego efektu chce."
+            ]
+          },
+          "metric_to_track": { "en": "Skill and student defined", "pl": "Określona umiejętność i kursant" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Talk to 5 potential students", "pl": "Porozmawiaj z 5 potencjalnymi kursantami" },
+          "why": {
+            "en": "Five real conversations tell you what to teach, what to skip, and the words your students use.",
+            "pl": "Pięć prawdziwych rozmów mówi, czego uczyć, co pominąć i jakich słów używają kursanci."
+          },
+          "instructions": {
+            "en": [
+              "Find 5 people who match your student profile (friends of friends, online communities).",
+              "Ask: what have you tried, where did you get stuck, what would a solution be worth to you?",
+              "Write down their exact phrases. You'll use them in your sales page."
+            ],
+            "pl": [
+              "Znajdź 5 osób pasujących do profilu kursanta (znajomi znajomych, społeczności online).",
+              "Zapytaj: co już próbowali, gdzie utknęli, ile byłoby dla nich warte rozwiązanie?",
+              "Zapisz ich dokładne sformułowania. Przydadzą się na stronie sprzedażowej."
+            ]
+          },
+          "metric_to_track": { "en": "Conversations held", "pl": "Odbyte rozmowy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 30,
+          "est_minutes": 90,
+          "title": { "en": "Outline your mini course", "pl": "Rozpisz mini kurs" },
+          "why": {
+            "en": "A short course with one clear result sells better and gets finished more often than a long one.",
+            "pl": "Krótki kurs z jednym jasnym efektem sprzedaje się lepiej i częściej jest kończony niż długi."
+          },
+          "instructions": {
+            "en": [
+              "Write the promise: ‘After this course you will…’.",
+              "Split the path into 5–7 short lessons, each with one action.",
+              "Cut anything that doesn't move the student toward the promise."
+            ],
+            "pl": [
+              "Zapisz obietnicę: „Po tym kursie będziesz…”.",
+              "Podziel drogę na 5–7 krótkich lekcji, każda z jednym działaniem.",
+              "Wytnij wszystko, co nie przybliża kursanta do obietnicy."
+            ]
+          },
+          "metric_to_track": { "en": "Outline ready", "pl": "Gotowy plan kursu" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s4",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Open a waitlist or pre-sale", "pl": "Otwórz listę oczekujących lub przedsprzedaż" },
+          "why": {
+            "en": "If people join a waitlist or pre-order, you know the course will sell before you spend weeks recording.",
+            "pl": "Jeśli ludzie zapisują się na listę lub kupują w przedsprzedaży, wiesz, że kurs się sprzeda, zanim spędzisz tygodnie na nagrywaniu."
+          },
+          "instructions": {
+            "en": [
+              "Create a simple page with the promise, the lesson list and a sign-up form.",
+              "Offer an early-bird price for the first students.",
+              "Share it with the 5 people you interviewed and in 2 communities where your students are."
+            ],
+            "pl": [
+              "Stwórz prostą stronę z obietnicą, listą lekcji i formularzem zapisu.",
+              "Zaproponuj cenę dla pierwszych kursantów.",
+              "Wyślij ją 5 rozmówcom i udostępnij w 2 społecznościach, w których są kursanci."
+            ]
+          },
+          "metric_to_track": { "en": "Sign-ups", "pl": "Zapisy" },
+          "resources": [],
+          "tools": [
+            { "name": "Tally", "url": "https://tally.so", "affiliate": false },
+            { "name": "Gumroad", "url": "https://gumroad.com", "affiliate": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "Build & beta", "pl": "Budowa i wersja beta" },
+      "goal": {
+        "en": "Record the course, put it on Gumroad and run a small beta for feedback.",
+        "pl": "Nagraj kurs, umieść go na Gumroad i przeprowadź małą betę dla opinii."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 60,
+          "est_minutes": 480,
+          "title": { "en": "Record your lessons", "pl": "Nagraj lekcje" },
+          "why": {
+            "en": "Short, clear screen recordings are enough. Students care about results, not studio quality.",
+            "pl": "Wystarczą krótkie, czytelne nagrania ekranu. Kursantom zależy na efektach, nie na studyjnej jakości."
+          },
+          "instructions": {
+            "en": [
+              "Record each lesson in 5–12 minutes with Loom or OBS.",
+              "Use a decent microphone and a quiet room. Audio matters more than video.",
+              "Don't chase perfection. Re-record only if something is unclear."
+            ],
+            "pl": [
+              "Nagrywaj każdą lekcję w 5–12 minut w Loomie lub OBS.",
+              "Użyj przyzwoitego mikrofonu i cichego pokoju. Dźwięk jest ważniejszy niż obraz.",
+              "Nie goń za perfekcją. Nagrywaj ponownie tylko to, co niejasne."
+            ]
+          },
+          "metric_to_track": { "en": "Lessons recorded", "pl": "Nagrane lekcje" },
+          "resources": [],
+          "tools": [
+            { "name": "Loom", "url": "https://www.loom.com", "affiliate": false },
+            { "name": "OBS Studio", "url": "https://obsproject.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p2s2",
+          "xp": 30,
+          "est_minutes": 120,
+          "title": { "en": "Create a workbook", "pl": "Przygotuj zeszyt ćwiczeń" },
+          "why": {
+            "en": "A worksheet or template for each lesson turns watching into doing, which makes students succeed and recommend you.",
+            "pl": "Ćwiczenie lub szablon do każdej lekcji zamienia oglądanie w działanie, dzięki czemu kursanci osiągają efekt i Cię polecają."
+          },
+          "instructions": {
+            "en": [
+              "Write one exercise or checklist per lesson.",
+              "Design it as a simple PDF in Canva.",
+              "Add a final checklist that confirms the promise was reached."
+            ],
+            "pl": [
+              "Napisz jedno ćwiczenie lub checklistę do każdej lekcji.",
+              "Zaprojektuj to jako prosty PDF w Canvie.",
+              "Dodaj końcową checklistę potwierdzającą osiągnięcie obietnicy."
+            ]
+          },
+          "metric_to_track": { "en": "Workbook ready", "pl": "Gotowy zeszyt ćwiczeń" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Set up the course on Gumroad", "pl": "Umieść kurs na Gumroad" },
+          "why": {
+            "en": "Gumroad hosts your videos, handles payments and emails students, with no monthly fee.",
+            "pl": "Gumroad hostuje filmy, obsługuje płatności i maile do kursantów, bez abonamentu."
+          },
+          "instructions": {
+            "en": [
+              "Create a course product and upload lessons in order.",
+              "Write the sales page using your students' own words from the interviews.",
+              "Set your price and do a test purchase with a discount code."
+            ],
+            "pl": [
+              "Utwórz produkt typu kurs i wgraj lekcje po kolei.",
+              "Napisz stronę sprzedażową, używając słów kursantów z rozmów.",
+              "Ustal cenę i zrób zakup testowy z kodem rabatowym."
+            ]
+          },
+          "metric_to_track": { "en": "Course live", "pl": "Kurs online" },
+          "resources": [],
+          "tools": [{ "name": "Gumroad", "url": "https://gumroad.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s4",
+          "xp": 50,
+          "est_minutes": 120,
+          "title": { "en": "Run a beta with 5–10 students", "pl": "Przeprowadź betę z 5–10 kursantami" },
+          "why": {
+            "en": "Beta students show you what's confusing, and their results become your best marketing.",
+            "pl": "Kursanci z bety pokażą, co jest niejasne, a ich efekty staną się najlepszym marketingiem."
+          },
+          "instructions": {
+            "en": [
+              "Offer the course at a beta price to your waitlist.",
+              "Ask each student to share where they got stuck.",
+              "Collect short testimonials with their results (with permission to use them)."
+            ],
+            "pl": [
+              "Zaproponuj kurs w cenie beta osobom z listy oczekujących.",
+              "Poproś każdego kursanta o wskazanie miejsc, w których pojawiły się trudności.",
+              "Zbierz krótkie opinie z efektami (za zgodą na ich wykorzystanie)."
+            ]
+          },
+          "metric_to_track": { "en": "Beta students", "pl": "Kursanci bety" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Launch", "pl": "Premiera" },
+      "goal": {
+        "en": "Improve the course from beta feedback and run your first public launch.",
+        "pl": "Popraw kurs na podstawie opinii z bety i przeprowadź pierwszą publiczną premierę."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 40,
+          "est_minutes": 120,
+          "title": { "en": "Fix what beta students struggled with", "pl": "Popraw to, z czym mieli problem kursanci bety" },
+          "why": {
+            "en": "Every fix now means fewer refunds and better reviews later.",
+            "pl": "Każda poprawka teraz to mniej zwrotów i lepsze opinie później."
+          },
+          "instructions": {
+            "en": [
+              "List every point where beta students got stuck.",
+              "Re-record or add a short extra video for each.",
+              "Add testimonials to your sales page."
+            ],
+            "pl": [
+              "Wypisz każde miejsce, w którym kursanci bety utknęli.",
+              "Nagraj ponownie lub dodaj krótki dodatkowy film do każdego.",
+              "Dodaj opinie na stronę sprzedażową."
+            ]
+          },
+          "metric_to_track": { "en": "Fixes made", "pl": "Wprowadzone poprawki" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Run a one-week launch", "pl": "Przeprowadź tygodniową premierę" },
+          "why": {
+            "en": "A launch with a clear start and end date creates urgency. Most first sales happen in the last 48 hours.",
+            "pl": "Premiera z jasnym początkiem i końcem tworzy poczucie pilności. Większość sprzedaży dzieje się w ostatnich 48 godzinach."
+          },
+          "instructions": {
+            "en": [
+              "Announce a launch week with a launch price.",
+              "Share one useful lesson snippet per day on social media and to your email list.",
+              "Send a final reminder 24 hours before the price goes up."
+            ],
+            "pl": [
+              "Ogłoś tydzień premiery z ceną premierową.",
+              "Codziennie udostępniaj fragment przydatnej lekcji w social mediach i na liście mailowej.",
+              "Wyślij ostatnie przypomnienie 24 godziny przed podwyżką ceny."
+            ]
+          },
+          "metric_to_track": { "en": "Sales", "pl": "Sprzedaż" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Track sales and taxes", "pl": "Śledź sprzedaż i podatki" },
+          "why": {
+            "en": "Knowing your real profit and conversion rate tells you what to improve before the next launch.",
+            "pl": "Znajomość realnego zysku i konwersji mówi, co poprawić przed kolejną premierą."
+          },
+          "instructions": {
+            "en": [
+              "Log visitors, sign-ups, sales, fees and profit in a sheet.",
+              "Update it before each weekly check-in.",
+              "Check how side income is taxed where you live."
+            ],
+            "pl": [
+              "Zapisuj w arkuszu odwiedziny, zapisy, sprzedaż, opłaty i zysk.",
+              "Aktualizuj go przed każdym cotygodniowym podsumowaniem.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. działalność nierejestrowana)."
+            ]
+          },
+          "metric_to_track": { "en": "Visitor to buyer rate", "pl": "Konwersja odwiedzających na kupujących" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Evergreen sales", "pl": "Stała sprzedaż" },
+      "goal": {
+        "en": "Keep the course selling every week without a launch.",
+        "pl": "Spraw, by kurs sprzedawał się co tydzień bez premiery."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Publish free lessons every week", "pl": "Publikuj darmowe lekcje co tydzień" },
+          "why": {
+            "en": "Teaching small pieces for free builds trust and sends people to the full course.",
+            "pl": "Uczenie małych fragmentów za darmo buduje zaufanie i kieruje ludzi do pełnego kursu."
+          },
+          "instructions": {
+            "en": [
+              "Turn each lesson into 3 short posts or videos.",
+              "Post 3 times a week on one platform where your students are.",
+              "Link to a free mini-lesson that collects emails."
+            ],
+            "pl": [
+              "Zamień każdą lekcję w 3 krótkie posty lub filmy.",
+              "Publikuj 3 razy w tygodniu na jednej platformie, na której są kursanci.",
+              "Linkuj do darmowej mini lekcji, która zbiera adresy e-mail."
+            ]
+          },
+          "metric_to_track": { "en": "New leads", "pl": "Nowe kontakty" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Add an upsell", "pl": "Dodaj ofertę dodatkową" },
+          "why": {
+            "en": "Some students want more help. A higher-priced option (a 1:1 call, a review, a template pack) raises income per student.",
+            "pl": "Część kursantów chce więcej pomocy. Droższa opcja (rozmowa 1:1, recenzja, pakiet szablonów) zwiększa dochód na kursanta."
+          },
+          "instructions": {
+            "en": [
+              "Ask students what extra help they'd pay for.",
+              "Create one upsell product on Gumroad.",
+              "Offer it right after purchase and at the end of the course."
+            ],
+            "pl": [
+              "Zapytaj kursantów, za jaką dodatkową pomoc by zapłacili.",
+              "Stwórz jeden produkt dodatkowy na Gumroad.",
+              "Proponuj go od razu po zakupie i na końcu kursu."
+            ]
+          },
+          "metric_to_track": { "en": "Upsell sales", "pl": "Sprzedaż ofert dodatkowych" },
+          "resources": [],
+          "tools": [{ "name": "Gumroad", "url": "https://gumroad.com", "affiliate": false }]
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Recruit 3 partners", "pl": "Zdobądź 3 partnerów" },
+          "why": {
+            "en": "Creators and newsletters with your audience can sell the course for a commission, reaching people you can't.",
+            "pl": "Twórcy i newslettery z Twoją grupą odbiorców mogą sprzedawać kurs za prowizję, docierając tam, gdzie Ty nie dotrzesz."
+          },
+          "instructions": {
+            "en": [
+              "Turn on affiliates for your Gumroad product and set a commission.",
+              "List 10 creators who serve your students.",
+              "Offer them free access and a commission in a short, personal message."
+            ],
+            "pl": [
+              "Włącz program partnerski dla produktu na Gumroad i ustal prowizję.",
+              "Wypisz 10 twórców, którzy obsługują Twoich kursantów.",
+              "Zaproponuj im darmowy dostęp i prowizję w krótkiej, osobistej wiadomości."
+            ]
+          },
+          "metric_to_track": { "en": "Sales from partners", "pl": "Sprzedaż od partnerów" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "First launch", "pl": "Pierwsza premiera" },
+      "range": { "en": "$0–$500", "pl": "0–500 $" },
+      "note": { "en": "Depends mostly on your waitlist size.", "pl": "Zależy głównie od wielkości listy oczekujących." }
+    },
+    {
+      "label": { "en": "Months 4–6", "pl": "Miesiące 4–6" },
+      "range": { "en": "$100–$800 / month", "pl": "100–800 $ / mies." },
+      "note": { "en": "Evergreen sales from weekly content and partners.", "pl": "Stała sprzedaż dzięki cotygodniowym treściom i partnerom." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$200–$2,000 / month", "pl": "200–2000 $ / mies." },
+      "note": { "en": "Typical with a small audience, an upsell and good testimonials.", "pl": "Typowe przy niewielkiej publiczności, ofercie dodatkowej i dobrych opiniach." }
+    }
+  ]
+}

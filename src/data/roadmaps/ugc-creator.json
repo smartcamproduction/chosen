@@ -1,0 +1,429 @@
+{
+  "hustle_slug": "ugc-creator",
+  "total_weeks": 12,
+  "weekly_metrics": ["pitches_sent", "clients", "videos_delivered"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Setup & samples", "pl": "Przygotowanie i próbki" },
+      "goal": {
+        "en": "Choose your product categories, set up simple gear and film 3 sample videos.",
+        "pl": "Wybierz kategorie produktów, przygotuj prosty sprzęt i nagraj 3 filmy próbne."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 30,
+          "title": { "en": "Pick 2–3 product categories", "pl": "Wybierz 2–3 kategorie produktów" },
+          "why": {
+            "en": "Brands hire creators who look like their customers. Focusing on products you actually use makes your videos believable.",
+            "pl": "Marki zatrudniają twórców, którzy wyglądają jak ich klienci. Skupienie na produktach, których naprawdę używasz, czyni filmy wiarygodnymi."
+          },
+          "instructions": {
+            "en": [
+              "List the products you use every day (skincare, kitchen, pets, fitness, tech, home).",
+              "Pick 2–3 categories where you'd naturally be the customer.",
+              "Save 20 UGC-style ads in those categories from TikTok or Instagram for inspiration."
+            ],
+            "pl": [
+              "Wypisz produkty, których używasz na co dzień (pielęgnacja, kuchnia, zwierzęta, fitness, technologia, dom).",
+              "Wybierz 2–3 kategorie, w których naturalnie jesteś klientem.",
+              "Zapisz 20 reklam w stylu UGC z tych kategorii z TikToka lub Instagrama jako inspirację."
+            ]
+          },
+          "metric_to_track": { "en": "Categories chosen", "pl": "Wybrane kategorie" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Set up your filming corner", "pl": "Przygotuj miejsce do nagrań" },
+          "why": {
+            "en": "You don't need expensive gear. Good light and clear sound matter more than the camera.",
+            "pl": "Nie potrzebujesz drogiego sprzętu. Dobre światło i czysty dźwięk są ważniejsze niż kamera."
+          },
+          "instructions": {
+            "en": [
+              "Film near a window with soft daylight, or add an affordable ring or panel light.",
+              "Use a phone tripod and, if possible, a small clip-on microphone.",
+              "Test-record 30 seconds and check sound and light on another screen."
+            ],
+            "pl": [
+              "Nagrywaj przy oknie w miękkim świetle dziennym albo dodaj niedrogą lampę pierścieniową lub panel.",
+              "Użyj statywu do telefonu i, jeśli to możliwe, małego mikrofonu krawatowego.",
+              "Nagraj 30 sekund próbnie i sprawdź dźwięk oraz światło na innym ekranie."
+            ]
+          },
+          "metric_to_track": { "en": "Setup ready", "pl": "Gotowe stanowisko" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p1s3",
+          "xp": 50,
+          "est_minutes": 240,
+          "title": { "en": "Film 3 sample videos", "pl": "Nagraj 3 filmy próbne" },
+          "why": {
+            "en": "Brands judge you by your samples. Three polished videos with products you own are your entry ticket.",
+            "pl": "Marki oceniają Cię po próbkach. Trzy dopracowane filmy z produktami, które masz, to Twój bilet wstępu."
+          },
+          "instructions": {
+            "en": [
+              "Film 3 formats: a testimonial, an unboxing or first impression, and a problem → solution demo.",
+              "Start each with a strong hook in the first 2 seconds.",
+              "Keep them 15–45 seconds, vertical, with captions.",
+              "Make it clear these are samples, not paid ads."
+            ],
+            "pl": [
+              "Nagraj 3 formaty: rekomendacja, unboxing lub pierwsze wrażenie, demo problem → rozwiązanie.",
+              "Każdy zacznij mocnym haczykiem w pierwszych 2 sekundach.",
+              "Niech trwają 15–45 sekund, w pionie, z napisami.",
+              "Zaznacz jasno, że to próbki, a nie płatne reklamy."
+            ]
+          },
+          "metric_to_track": { "en": "Sample videos", "pl": "Filmy próbne" },
+          "resources": [],
+          "tools": [{ "name": "CapCut", "url": "https://www.capcut.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s4",
+          "xp": 40,
+          "est_minutes": 90,
+          "title": { "en": "Build a simple portfolio page", "pl": "Zbuduj prostą stronę portfolio" },
+          "why": {
+            "en": "One link with your videos, categories and contact makes every pitch easier to say yes to.",
+            "pl": "Jeden link z filmami, kategoriami i kontaktem sprawia, że łatwiej odpowiedzieć „tak” na każdą propozycję."
+          },
+          "instructions": {
+            "en": [
+              "Create a one-page portfolio in Canva or Notion.",
+              "Add your 3 videos, a short intro, your categories and your email.",
+              "Test the link on a phone."
+            ],
+            "pl": [
+              "Stwórz jednostronicowe portfolio w Canvie lub Notion.",
+              "Dodaj 3 filmy, krótkie przedstawienie, kategorie i e-mail.",
+              "Sprawdź link na telefonie."
+            ]
+          },
+          "metric_to_track": { "en": "Portfolio live", "pl": "Portfolio online" },
+          "resources": [],
+          "tools": [
+            { "name": "Canva", "url": "https://www.canva.com", "affiliate": false },
+            { "name": "Notion", "url": "https://www.notion.com", "affiliate": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "First paid videos", "pl": "Pierwsze płatne filmy" },
+      "goal": {
+        "en": "Set your rates, join UGC platforms and pitch brands directly.",
+        "pl": "Ustal stawki, dołącz do platform UGC i kontaktuj się bezpośrednio z markami."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Set your rates and usage terms", "pl": "Ustal stawki i warunki wykorzystania" },
+          "why": {
+            "en": "UGC is priced per video plus how long and where the brand can use it. Clear terms prevent awkward talks later.",
+            "pl": "UGC wycenia się za film oraz za to, jak długo i gdzie marka może go używać. Jasne warunki zapobiegają niezręcznym rozmowom."
+          },
+          "instructions": {
+            "en": [
+              "Set a starting price per video (beginners often charge $50–$150).",
+              "Decide what's included: number of hooks, revisions, raw footage.",
+              "Add a separate fee for paid-ads usage beyond organic posting."
+            ],
+            "pl": [
+              "Ustal cenę startową za film (początkujący często biorą 50–150 $).",
+              "Określ, co obejmuje: liczba haczyków, poprawki, surowy materiał.",
+              "Dodaj osobną opłatę za użycie w płatnych reklamach poza zwykłymi postami."
+            ]
+          },
+          "metric_to_track": { "en": "Rate card ready", "pl": "Gotowy cennik" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s2",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Join 2 UGC platforms", "pl": "Dołącz do 2 platform UGC" },
+          "why": {
+            "en": "UGC marketplaces connect you with brands already looking for creators, which is great for first jobs and reviews.",
+            "pl": "Marketplace'y UGC łączą Cię z markami, które już szukają twórców. To świetne na pierwsze zlecenia i opinie."
+          },
+          "instructions": {
+            "en": [
+              "Create profiles on 2 platforms such as Collabstr, Billo or JoinBrands.",
+              "Upload your 3 sample videos and fill in your categories.",
+              "Apply to 5 matching campaigns."
+            ],
+            "pl": [
+              "Załóż profile na 2 platformach, np. Collabstr, Billo lub JoinBrands.",
+              "Wgraj 3 filmy próbne i uzupełnij kategorie.",
+              "Zgłoś się do 5 pasujących kampanii."
+            ]
+          },
+          "metric_to_track": { "en": "Applications sent", "pl": "Wysłane zgłoszenia" },
+          "resources": [],
+          "tools": [
+            { "name": "Collabstr", "url": "https://collabstr.com", "affiliate": false },
+            { "name": "Billo", "url": "https://billo.app", "affiliate": false },
+            { "name": "JoinBrands", "url": "https://joinbrands.com", "affiliate": false }
+          ]
+        },
+        {
+          "id": "p2s3",
+          "xp": 50,
+          "est_minutes": 120,
+          "title": { "en": "Pitch 15 brands directly", "pl": "Napisz bezpośrednio do 15 marek" },
+          "why": {
+            "en": "Small and growing brands need content constantly and often pay better than marketplaces.",
+            "pl": "Małe i rosnące marki stale potrzebują treści i często płacą lepiej niż marketplace'y."
+          },
+          "instructions": {
+            "en": [
+              "Find 15 brands running ads in your categories (check Meta Ad Library or TikTok).",
+              "Find a marketing contact via their website or LinkedIn.",
+              "Send a short email with one idea for their product and your portfolio link.",
+              "Follow up once after 5 days."
+            ],
+            "pl": [
+              "Znajdź 15 marek, które reklamują się w Twoich kategoriach (sprawdź Bibliotekę reklam Meta lub TikToka).",
+              "Znajdź kontakt do marketingu na ich stronie lub LinkedIn.",
+              "Wyślij krótki e-mail z jednym pomysłem na ich produkt i linkiem do portfolio.",
+              "Przypomnij się raz po 5 dniach."
+            ]
+          },
+          "metric_to_track": { "en": "Pitches sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Track income and taxes", "pl": "Śledź dochody i podatki" },
+          "why": {
+            "en": "Payments come from many brands and platforms. A simple log keeps you organized and ready for taxes.",
+            "pl": "Płatności przychodzą od wielu marek i platform. Prosty zapis porządkuje finanse i przygotowuje do podatków."
+          },
+          "instructions": {
+            "en": [
+              "Log each job: brand, videos, price, paid or unpaid, date.",
+              "Update it before each weekly check-in.",
+              "Check how creator income is taxed where you live."
+            ],
+            "pl": [
+              "Zapisuj każde zlecenie: marka, filmy, cena, opłacone lub nie, data.",
+              "Aktualizuj zapis przed każdym cotygodniowym podsumowaniem.",
+              "Sprawdź, jak rozlicza się dochody twórców w Twoim kraju (w Polsce np. działalność nierejestrowana)."
+            ]
+          },
+          "metric_to_track": { "en": "Unpaid invoices", "pl": "Nieopłacone faktury" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Deliver & grow", "pl": "Realizacja i rozwój" },
+      "goal": {
+        "en": "Deliver paid work professionally and grow your portfolio with new formats.",
+        "pl": "Profesjonalnie realizuj płatne zlecenia i poszerzaj portfolio o nowe formaty."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 60,
+          "est_minutes": 180,
+          "title": { "en": "Deliver your first paid job like a pro", "pl": "Zrealizuj pierwsze płatne zlecenie profesjonalnie" },
+          "why": {
+            "en": "Brands that are happy come back and refer you. Professional delivery is how one client becomes five.",
+            "pl": "Zadowolone marki wracają i polecają Cię dalej. Profesjonalna realizacja zamienia jednego klienta w pięciu."
+          },
+          "instructions": {
+            "en": [
+              "Agree on brief, deadline, price and usage rights in writing before filming.",
+              "Deliver 2–3 hook variations so the brand can test them in ads.",
+              "Send files in an organized folder with clear names, on time."
+            ],
+            "pl": [
+              "Przed nagraniem ustal na piśmie brief, termin, cenę i prawa do wykorzystania.",
+              "Dostarcz 2–3 warianty haczyka, by marka mogła je testować w reklamach.",
+              "Przekaż pliki na czas, w uporządkowanym folderze z czytelnymi nazwami."
+            ]
+          },
+          "metric_to_track": { "en": "Videos delivered", "pl": "Dostarczone filmy" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 30,
+          "est_minutes": 30,
+          "title": { "en": "Ask for a testimonial and results", "pl": "Poproś o rekomendację i wyniki" },
+          "why": {
+            "en": "A quote or ad result from a real brand is the strongest proof in your next pitch.",
+            "pl": "Cytat lub wynik reklamy od prawdziwej marki to najmocniejszy dowód w kolejnej propozycji."
+          },
+          "instructions": {
+            "en": [
+              "Ask the brand for a one-sentence testimonial.",
+              "Ask if they can share how the video performed.",
+              "Add it to your portfolio (with permission)."
+            ],
+            "pl": [
+              "Poproś markę o jednozdaniową rekomendację.",
+              "Zapytaj, czy może podzielić się wynikami filmu.",
+              "Dodaj to do portfolio (za zgodą)."
+            ]
+          },
+          "metric_to_track": { "en": "Testimonials", "pl": "Rekomendacje" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 40,
+          "est_minutes": 180,
+          "title": { "en": "Add 3 new formats to your portfolio", "pl": "Dodaj 3 nowe formaty do portfolio" },
+          "why": {
+            "en": "Showing range (voice-over, tutorial, ‘3 reasons why’) helps you win more types of briefs.",
+            "pl": "Pokazanie różnorodności (lektor, tutorial, „3 powody”) pozwala wygrywać więcej rodzajów zleceń."
+          },
+          "instructions": {
+            "en": [
+              "Film one voice-over video, one tutorial and one ‘3 reasons’ video.",
+              "Use products from your chosen categories.",
+              "Update your portfolio and platform profiles."
+            ],
+            "pl": [
+              "Nagraj jeden film z lektorem, jeden tutorial i jeden „3 powody”.",
+              "Użyj produktów z wybranych kategorii.",
+              "Zaktualizuj portfolio i profile na platformach."
+            ]
+          },
+          "metric_to_track": { "en": "Portfolio videos", "pl": "Filmy w portfolio" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Steady clients", "pl": "Stali klienci" },
+      "goal": {
+        "en": "Turn one-off jobs into monthly packages and raise your rates.",
+        "pl": "Zamień jednorazowe zlecenia w miesięczne pakiety i podnieś stawki."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 50,
+          "est_minutes": 60,
+          "title": { "en": "Offer monthly packages", "pl": "Zaproponuj pakiety miesięczne" },
+          "why": {
+            "en": "Brands running ads need fresh videos every month. A package gives them a steady supply and you steady income.",
+            "pl": "Marki prowadzące reklamy potrzebują co miesiąc nowych filmów. Pakiet daje im stałe dostawy, a Tobie stały dochód."
+          },
+          "instructions": {
+            "en": [
+              "Create a package, e.g. 4 videos per month at a small discount.",
+              "Offer it to every brand you've worked with.",
+              "Put the terms in a simple written agreement."
+            ],
+            "pl": [
+              "Stwórz pakiet, np. 4 filmy miesięcznie z niewielką zniżką.",
+              "Zaproponuj go każdej marce, z którą już pracujesz.",
+              "Spisz warunki w prostej umowie."
+            ]
+          },
+          "metric_to_track": { "en": "Monthly clients", "pl": "Klienci miesięczni" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 40,
+          "est_minutes": 30,
+          "title": { "en": "Raise your rates", "pl": "Podnieś stawki" },
+          "why": {
+            "en": "With paid work and testimonials in your portfolio, you can charge more for the same video.",
+            "pl": "Z płatnymi realizacjami i rekomendacjami w portfolio możesz brać więcej za ten sam film."
+          },
+          "instructions": {
+            "en": [
+              "Raise your base rate by 25–50% for new clients.",
+              "Charge separately for ad usage, extra hooks and rush delivery.",
+              "Update your rate card."
+            ],
+            "pl": [
+              "Podnieś stawkę bazową dla nowych klientów o 25–50%.",
+              "Osobno wyceniaj użycie w reklamach, dodatkowe haczyki i ekspresowe terminy.",
+              "Zaktualizuj cennik."
+            ]
+          },
+          "metric_to_track": { "en": "Average price per video", "pl": "Średnia cena za film" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 50,
+          "est_minutes": 120,
+          "title": { "en": "Build a weekly pitching routine", "pl": "Ustal cotygodniowy rytm propozycji" },
+          "why": {
+            "en": "Clients come and go. Five pitches a week keeps your pipeline full even when you're busy.",
+            "pl": "Klienci przychodzą i odchodzą. Pięć propozycji tygodniowo utrzymuje stały dopływ zleceń nawet w zabieganym czasie."
+          },
+          "instructions": {
+            "en": [
+              "Block 30 minutes twice a week for pitching.",
+              "Keep a simple list of brands, dates contacted and replies.",
+              "Pitch new brands with your best result from a past client."
+            ],
+            "pl": [
+              "Zarezerwuj dwa razy w tygodniu po 30 minut na propozycje.",
+              "Prowadź prostą listę marek, dat kontaktu i odpowiedzi.",
+              "Pisz do nowych marek, pokazując najlepszy wynik z poprzedniego zlecenia."
+            ]
+          },
+          "metric_to_track": { "en": "Pitches sent", "pl": "Wysłane propozycje" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Weeks 3–8", "pl": "Tygodnie 3–8" },
+      "range": { "en": "$50–$300", "pl": "50–300 $" },
+      "note": { "en": "First paid videos usually bring $50–$150 each.", "pl": "Pierwsze płatne filmy to zwykle 50–150 $ za sztukę." }
+    },
+    {
+      "label": { "en": "Months 3–6", "pl": "Miesiące 3–6" },
+      "range": { "en": "$300–$1,500 / month", "pl": "300–1500 $ / mies." },
+      "note": { "en": "A few repeat brands plus platform jobs.", "pl": "Kilka powracających marek i zlecenia z platform." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$500–$3,000 / month", "pl": "500–3000 $ / mies." },
+      "note": { "en": "Typical for creators with monthly packages and higher rates.", "pl": "Typowe dla twórców z pakietami miesięcznymi i wyższymi stawkami." }
+    }
+  ]
+}

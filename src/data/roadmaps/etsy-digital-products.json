@@ -1,0 +1,436 @@
+{
+  "hustle_slug": "etsy-digital-products",
+  "total_weeks": 12,
+  "weekly_metrics": ["listings", "shop_visits", "sales"],
+  "phases": [
+    {
+      "id": "p1",
+      "weeks": "1-2",
+      "title": { "en": "Product idea & shop", "pl": "Pomysł na produkt i sklep" },
+      "goal": {
+        "en": "Find a digital product people already buy and open your Etsy shop.",
+        "pl": "Znajdź produkt cyfrowy, który ludzie już kupują, i otwórz sklep na Etsy."
+      },
+      "steps": [
+        {
+          "id": "p1s1",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Research what already sells", "pl": "Sprawdź, co już się sprzedaje" },
+          "why": {
+            "en": "Digital products win when they solve a clear, specific need. Copying the need (not the design) of proven bestsellers removes guesswork.",
+            "pl": "Produkty cyfrowe wygrywają, gdy rozwiązują jasną, konkretną potrzebę. Wzorowanie się na potrzebie (nie na projekcie) sprawdzonych bestsellerów eliminuje zgadywanie."
+          },
+          "instructions": {
+            "en": [
+              "Search Etsy for categories like ‘budget planner printable’, ‘wedding seating chart template’ or ‘nursery wall art’.",
+              "Open 10 bestsellers and note the price, number of reviews and what buyers praise or complain about.",
+              "Look for complaints you could fix (too generic, hard to edit, missing sizes).",
+              "Pick one product type and one audience, e.g. ‘ADHD-friendly weekly planner for students’."
+            ],
+            "pl": [
+              "Wyszukaj na Etsy kategorie typu „budget planner printable”, „wedding seating chart template” czy „nursery wall art”.",
+              "Otwórz 10 bestsellerów i zanotuj cenę, liczbę opinii oraz to, co kupujący chwalą i krytykują.",
+              "Szukaj zarzutów, które możesz naprawić (zbyt ogólne, trudne do edycji, brak rozmiarów).",
+              "Wybierz jeden typ produktu i jedną grupę odbiorców, np. „tygodniowy planer dla studentów z ADHD”."
+            ]
+          },
+          "metric_to_track": { "en": "1 product type and audience chosen", "pl": "Wybrany typ produktu i grupa odbiorców" },
+          "resources": [
+            { "title": { "en": "Etsy Seller Handbook", "pl": "Etsy Seller Handbook (ang.)" }, "url": "https://www.etsy.com/seller-handbook" }
+          ],
+          "tools": [{ "name": "eRank", "url": "https://erank.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s2",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Open your Etsy shop", "pl": "Otwórz sklep na Etsy" },
+          "why": {
+            "en": "Etsy already has millions of buyers searching for printables and templates. You borrow its traffic from day one.",
+            "pl": "Na Etsy miliony kupujących już szukają plików do druku i szablonów. Od pierwszego dnia korzystasz z tego ruchu."
+          },
+          "instructions": {
+            "en": [
+              "Create an Etsy seller account with your ID and bank details. Some countries pay a small one-time setup fee.",
+              "Choose a shop name that fits your audience, not just your first product.",
+              "Write a short shop ‘About’ and set a clear policy that digital files are non-refundable once downloaded."
+            ],
+            "pl": [
+              "Załóż konto sprzedawcy na Etsy z dokumentem tożsamości i danymi bankowymi. W niektórych krajach obowiązuje niewielka jednorazowa opłata.",
+              "Wybierz nazwę sklepu dopasowaną do odbiorców, a nie tylko do pierwszego produktu.",
+              "Napisz krótką sekcję „O nas” i jasno zaznacz, że pliki cyfrowe po pobraniu nie podlegają zwrotowi."
+            ]
+          },
+          "metric_to_track": { "en": "Shop open", "pl": "Sklep otwarty" },
+          "resources": [
+            { "title": { "en": "Etsy fees explained", "pl": "Opłaty na Etsy (ang.)" }, "url": "https://www.etsy.com/legal/fees/" }
+          ],
+          "tools": [{ "name": "Etsy", "url": "https://www.etsy.com/sell", "affiliate": false }]
+        },
+        {
+          "id": "p1s3",
+          "xp": 40,
+          "est_minutes": 180,
+          "title": { "en": "Create your first product", "pl": "Stwórz pierwszy produkt" },
+          "why": {
+            "en": "One polished product teaches you the whole process: design, export, listing. Every next product gets faster.",
+            "pl": "Jeden dopracowany produkt uczy całego procesu: projekt, eksport, oferta. Każdy kolejny powstaje szybciej."
+          },
+          "instructions": {
+            "en": [
+              "Design the product in Canva or a similar tool, fixing the complaints you found in your research.",
+              "Export print-ready PDFs in common sizes (US Letter and A4), or an editable template link if it's a template.",
+              "Print one page yourself to check margins and readability.",
+              "Use only fonts and graphics your license allows for commercial use."
+            ],
+            "pl": [
+              "Zaprojektuj produkt w Canvie lub podobnym narzędziu, poprawiając wady znalezione w badaniu.",
+              "Wyeksportuj pliki PDF gotowe do druku w popularnych formatach (US Letter i A4) albo link do edytowalnego szablonu.",
+              "Wydrukuj jedną stronę, by sprawdzić marginesy i czytelność.",
+              "Używaj tylko czcionek i grafik, na które licencja pozwala w celach komercyjnych."
+            ]
+          },
+          "metric_to_track": { "en": "Product files ready", "pl": "Gotowe pliki produktu" },
+          "resources": [
+            { "title": { "en": "Canva content license", "pl": "Licencja na treści Canva" }, "url": "https://www.canva.com/policies/content-license-agreement/" }
+          ],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p1s4",
+          "xp": 30,
+          "est_minutes": 60,
+          "title": { "en": "Make listing images that sell", "pl": "Przygotuj zdjęcia oferty, które sprzedają" },
+          "why": {
+            "en": "Buyers can't touch a digital file. Your images must show exactly what they get and how it looks in real life.",
+            "pl": "Kupujący nie dotkną pliku cyfrowego. Zdjęcia muszą dokładnie pokazać, co dostają i jak to wygląda w realnym życiu."
+          },
+          "instructions": {
+            "en": [
+              "Create a main image that shows the product clearly on a clean background, with 3–5 words of benefit text.",
+              "Add images showing inside pages, sizes included and a ‘what you get’ summary.",
+              "Add one mockup of the product in use (on a desk, a wall or a tablet)."
+            ],
+            "pl": [
+              "Przygotuj główne zdjęcie z produktem na czystym tle i 3–5 słowami o korzyści.",
+              "Dodaj zdjęcia wnętrza, dostępnych rozmiarów i podsumowanie „co dostajesz”.",
+              "Dodaj jeden mockup produktu w użyciu (na biurku, ścianie lub tablecie)."
+            ]
+          },
+          "metric_to_track": { "en": "Images per listing", "pl": "Zdjęcia na ofertę" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "weeks": "3-5",
+      "title": { "en": "Launch your catalog", "pl": "Start katalogu" },
+      "goal": {
+        "en": "Publish 15 listings with clear titles, tags and delivery files.",
+        "pl": "Opublikuj 15 ofert z jasnymi tytułami, tagami i plikami do pobrania."
+      },
+      "steps": [
+        {
+          "id": "p2s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Publish your first listing", "pl": "Opublikuj pierwszą ofertę" },
+          "why": {
+            "en": "A live listing starts collecting data about views and clicks. Nothing is learned while a product sits in a folder.",
+            "pl": "Aktywna oferta zaczyna zbierać dane o wyświetleniach i kliknięciach. Produkt w folderze niczego Cię nie nauczy."
+          },
+          "instructions": {
+            "en": [
+              "Create a listing as a digital item and upload your files (Etsy allows up to 5 files, 20 MB each).",
+              "Write a title that starts with the buyer's search phrase, and use all 13 tags.",
+              "Explain in the description what's included, which sizes, and that nothing physical is shipped.",
+              "Price it in line with similar bestsellers, then publish."
+            ],
+            "pl": [
+              "Utwórz ofertę jako produkt cyfrowy i wgraj pliki (Etsy pozwala na 5 plików po 20 MB).",
+              "Napisz tytuł zaczynający się od frazy, którą wpisuje kupujący, i wykorzystaj wszystkie 13 tagów.",
+              "W opisie wyjaśnij, co zawiera plik, jakie są rozmiary i że nic nie jest wysyłane fizycznie.",
+              "Ustal cenę podobną do bestsellerów i opublikuj."
+            ]
+          },
+          "metric_to_track": { "en": "Listings live", "pl": "Aktywne oferty" },
+          "resources": [],
+          "tools": [{ "name": "eRank", "url": "https://erank.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s2",
+          "xp": 60,
+          "est_minutes": 480,
+          "title": { "en": "Build 14 more products", "pl": "Stwórz 14 kolejnych produktów" },
+          "why": {
+            "en": "Digital shops grow with catalog size. 15 related products help buyers find you and buy more than one.",
+            "pl": "Sklepy cyfrowe rosną razem z katalogiem. 15 powiązanych produktów pomaga Cię znaleźć i kupić więcej niż jeden."
+          },
+          "instructions": {
+            "en": [
+              "Create variations of your first product: new colors, styles, audiences or sizes.",
+              "Add complementary products the same buyer needs (e.g. a meal planner next to a budget planner).",
+              "Reuse your templates so each new product takes under an hour.",
+              "Publish each one with its own search phrase in the title."
+            ],
+            "pl": [
+              "Twórz warianty pierwszego produktu: nowe kolory, style, grupy odbiorców lub rozmiary.",
+              "Dodaj produkty uzupełniające, których potrzebuje ten sam kupujący (np. planer posiłków obok planera budżetu).",
+              "Korzystaj z własnych szablonów, by każdy nowy produkt zajmował mniej niż godzinę.",
+              "Każdy publikuj z inną frazą w tytule."
+            ]
+          },
+          "metric_to_track": { "en": "Listings live", "pl": "Aktywne oferty" },
+          "resources": [],
+          "tools": [{ "name": "Canva", "url": "https://www.canva.com", "affiliate": false }]
+        },
+        {
+          "id": "p2s3",
+          "xp": 30,
+          "est_minutes": 45,
+          "title": { "en": "Create a bundle", "pl": "Stwórz pakiet" },
+          "why": {
+            "en": "Bundles raise your average order value without new design work. Many buyers pick the bigger package.",
+            "pl": "Pakiety podnoszą średnią wartość zamówienia bez nowej pracy projektowej. Wielu kupujących wybiera większy zestaw."
+          },
+          "instructions": {
+            "en": [
+              "Group 3–5 related products into one listing.",
+              "Price it lower than buying them separately and say so in the first image.",
+              "Link the bundle from each single product's description."
+            ],
+            "pl": [
+              "Połącz 3–5 powiązanych produktów w jedną ofertę.",
+              "Ustal cenę niższą niż suma pojedynczych produktów i napisz o tym na pierwszym zdjęciu.",
+              "Podlinkuj pakiet w opisie każdego pojedynczego produktu."
+            ]
+          },
+          "metric_to_track": { "en": "Bundle sales", "pl": "Sprzedaż pakietów" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p2s4",
+          "xp": 20,
+          "est_minutes": 30,
+          "title": { "en": "Set up simple money tracking", "pl": "Ustaw proste śledzenie pieniędzy" },
+          "why": {
+            "en": "Fees add up. Tracking real profit each week keeps your pricing honest.",
+            "pl": "Opłaty się sumują. Cotygodniowe śledzenie zysku pilnuje, by ceny miały sens."
+          },
+          "instructions": {
+            "en": [
+              "Create a sheet with: date, product, price, Etsy fees, profit.",
+              "Update it weekly before your check-in.",
+              "Check how side income is taxed where you live, and set aside part of your profit."
+            ],
+            "pl": [
+              "Utwórz arkusz: data, produkt, cena, opłaty Etsy, zysk.",
+              "Aktualizuj go co tydzień przed podsumowaniem.",
+              "Sprawdź, jak rozlicza się dodatkowe dochody w Twoim kraju (w Polsce np. działalność nierejestrowana), i odkładaj część zysku."
+            ]
+          },
+          "metric_to_track": { "en": "Weekly profit", "pl": "Zysk tygodniowy" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "weeks": "6-8",
+      "title": { "en": "Traction", "pl": "Pierwsze efekty" },
+      "goal": {
+        "en": "Improve what gets views and grow to 30 listings.",
+        "pl": "Popraw to, co zbiera wyświetlenia, i dojdź do 30 ofert."
+      },
+      "steps": [
+        {
+          "id": "p3s1",
+          "xp": 40,
+          "est_minutes": 60,
+          "title": { "en": "Improve your weakest listings", "pl": "Popraw najsłabsze oferty" },
+          "why": {
+            "en": "Your stats show which listings get seen but not bought. Better images and titles often fix that fast.",
+            "pl": "Statystyki pokazują, które oferty są oglądane, ale nie kupowane. Lepsze zdjęcia i tytuły często szybko to naprawiają."
+          },
+          "instructions": {
+            "en": [
+              "In Etsy Stats, sort listings by views and find ones with no favorites or sales.",
+              "Replace the main image with a clearer one showing the benefit.",
+              "Rewrite the title around a more specific search phrase.",
+              "Change one thing at a time and wait a week."
+            ],
+            "pl": [
+              "W statystykach Etsy posortuj oferty według wyświetleń i znajdź te bez polubień i sprzedaży.",
+              "Wymień główne zdjęcie na czytelniejsze, pokazujące korzyść.",
+              "Przepisz tytuł wokół bardziej konkretnej frazy.",
+              "Zmieniaj jedną rzecz naraz i odczekaj tydzień."
+            ]
+          },
+          "metric_to_track": { "en": "Listings improved", "pl": "Poprawione oferty" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s2",
+          "xp": 60,
+          "est_minutes": 480,
+          "title": { "en": "Grow to 30 listings", "pl": "Dojdź do 30 ofert" },
+          "why": {
+            "en": "Around 30 listings, most shops start seeing sales every week instead of once in a while.",
+            "pl": "Przy około 30 ofertach większość sklepów zaczyna sprzedawać co tydzień, a nie od czasu do czasu."
+          },
+          "instructions": {
+            "en": [
+              "Make more of whatever got the most favorites so far.",
+              "Target long, specific search phrases with less competition.",
+              "Keep a steady pace: 3–5 new listings per week."
+            ],
+            "pl": [
+              "Rób więcej tego, co zebrało dotąd najwięcej polubień.",
+              "Celuj w długie, konkretne frazy z mniejszą konkurencją.",
+              "Trzymaj stałe tempo: 3–5 nowych ofert tygodniowo."
+            ]
+          },
+          "metric_to_track": { "en": "Listings live", "pl": "Aktywne oferty" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p3s3",
+          "xp": 30,
+          "est_minutes": 30,
+          "title": { "en": "Ask buyers for reviews", "pl": "Poproś kupujących o opinie" },
+          "why": {
+            "en": "Reviews build trust and help your ranking. Many happy buyers simply forget to leave one.",
+            "pl": "Opinie budują zaufanie i pomagają w pozycjonowaniu. Wielu zadowolonych kupujących po prostu o nich zapomina."
+          },
+          "instructions": {
+            "en": [
+              "Add a friendly ‘thank you’ page inside your files with a short note asking for a review.",
+              "Reply to every message quickly and kindly.",
+              "Never offer discounts or freebies in exchange for reviews. Etsy doesn't allow it."
+            ],
+            "pl": [
+              "Dodaj w plikach stronę z podziękowaniem i krótką prośbą o opinię.",
+              "Odpowiadaj na każdą wiadomość szybko i uprzejmie.",
+              "Nigdy nie oferuj rabatów ani gratisów w zamian za opinie. Etsy na to nie pozwala."
+            ]
+          },
+          "metric_to_track": { "en": "Reviews", "pl": "Opinie" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "weeks": "9-12",
+      "title": { "en": "Scale", "pl": "Skalowanie" },
+      "goal": {
+        "en": "Double down on winners and bring in traffic from outside Etsy.",
+        "pl": "Postaw na bestsellery i sprowadź ruch spoza Etsy."
+      },
+      "steps": [
+        {
+          "id": "p4s1",
+          "xp": 50,
+          "est_minutes": 180,
+          "title": { "en": "Expand your best seller into a product line", "pl": "Rozbuduj bestseller w linię produktów" },
+          "why": {
+            "en": "When one product sells, the same buyers want related versions. It's the fastest way to grow revenue.",
+            "pl": "Gdy jeden produkt się sprzedaje, ci sami kupujący chcą podobnych wersji. To najszybszy sposób na wzrost przychodu."
+          },
+          "instructions": {
+            "en": [
+              "Find your top product by sales in the last 30 days.",
+              "Create 5 versions for new audiences, styles or occasions.",
+              "Bundle the whole line into one premium listing."
+            ],
+            "pl": [
+              "Znajdź produkt z największą sprzedażą w ostatnich 30 dniach.",
+              "Stwórz 5 wersji dla nowych grup, stylów lub okazji.",
+              "Połącz całą linię w jedną ofertę premium."
+            ]
+          },
+          "metric_to_track": { "en": "Sales from the product line", "pl": "Sprzedaż z linii produktów" },
+          "resources": [],
+          "tools": []
+        },
+        {
+          "id": "p4s2",
+          "xp": 50,
+          "est_minutes": 90,
+          "title": { "en": "Bring in Pinterest traffic", "pl": "Sprowadź ruch z Pinteresta" },
+          "why": {
+            "en": "Planners, printables and wall art are some of Pinterest's most searched ideas. One good pin can send visitors for months.",
+            "pl": "Planery, pliki do druku i grafiki na ścianę to jedne z najczęściej wyszukiwanych pomysłów na Pintereście. Jeden dobry pin może przyciągać ruch miesiącami."
+          },
+          "instructions": {
+            "en": [
+              "Create a free Pinterest business account and claim your Etsy shop.",
+              "Make 2–3 vertical pins per product with a benefit headline.",
+              "Pin 3–5 times a day, spread across your products."
+            ],
+            "pl": [
+              "Załóż darmowe konto firmowe na Pintereście i połącz je ze sklepem Etsy.",
+              "Przygotuj 2–3 pionowe piny na produkt z nagłówkiem o korzyści.",
+              "Przypinaj 3–5 razy dziennie, rozkładając piny na różne produkty."
+            ]
+          },
+          "metric_to_track": { "en": "Shop visits from Pinterest", "pl": "Odwiedziny sklepu z Pinteresta" },
+          "resources": [
+            { "title": { "en": "Pinterest Business", "pl": "Pinterest Business (ang.)" }, "url": "https://business.pinterest.com" }
+          ],
+          "tools": []
+        },
+        {
+          "id": "p4s3",
+          "xp": 40,
+          "est_minutes": 45,
+          "title": { "en": "Test Etsy Ads on proven products", "pl": "Przetestuj Etsy Ads na sprawdzonych produktach" },
+          "why": {
+            "en": "Digital products have no shipping costs, so ads can be profitable on listings that already convert.",
+            "pl": "Produkty cyfrowe nie mają kosztów wysyłki, więc reklamy mogą się opłacać przy ofertach, które już sprzedają."
+          },
+          "instructions": {
+            "en": [
+              "Advertise only listings that have sold at least twice.",
+              "Start with $1–3 per day.",
+              "After 2 weeks, keep ads only where ad cost per sale is below your price minus fees."
+            ],
+            "pl": [
+              "Reklamuj tylko oferty, które sprzedały się co najmniej dwa razy.",
+              "Zacznij od 1–3 $ dziennie.",
+              "Po 2 tygodniach zostaw reklamy tylko tam, gdzie koszt reklamy na sprzedaż jest niższy niż cena minus opłaty."
+            ]
+          },
+          "metric_to_track": { "en": "Ad cost per sale", "pl": "Koszt reklamy na sprzedaż" },
+          "resources": [],
+          "tools": []
+        }
+      ]
+    }
+  ],
+  "earning_milestones": [
+    {
+      "label": { "en": "Months 1–3", "pl": "Miesiące 1–3" },
+      "range": { "en": "$0–$150 / month", "pl": "0–150 $ / mies." },
+      "note": { "en": "First sales usually come after 10–20 listings.", "pl": "Pierwsze sprzedaże pojawiają się zwykle po 10–20 ofertach." }
+    },
+    {
+      "label": { "en": "Months 4–6", "pl": "Miesiące 4–6" },
+      "range": { "en": "$100–$400 / month", "pl": "100–400 $ / mies." },
+      "note": { "en": "Bundles and product lines lift your average order.", "pl": "Pakiety i linie produktów podnoszą średnią wartość zamówienia." }
+    },
+    {
+      "label": { "en": "Months 6–12", "pl": "Miesiące 6–12" },
+      "range": { "en": "$200–$1,000 / month", "pl": "200–1000 $ / mies." },
+      "note": { "en": "Typical for catalogs of 30+ products with Pinterest traffic.", "pl": "Typowe dla katalogów z 30+ produktami i ruchem z Pinteresta." }
+    }
+  ]
+}

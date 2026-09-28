@@ -1,0 +1,128 @@
+{
+  "version": "5",
+  "specifiers": {
+    "jsr:@std/encoding@1": "1.0.11",
+    "npm:@supabase/supabase-js@2": "2.117.2"
+  },
+  "jsr": {
+    "@std/encoding@1.0.11": {
+      "integrity": "e7cef2f0b3153bccc17431e7c864a1de03a4b6d9647389c43e08aaa775d37385"
+    }
+  },
+  "npm": {
+    "@supabase/auth-js@2.117.2": {
+      "integrity": "sha512-Z3WnGwrphYZubrLbxp5Iv0tLA9A5GhvKzJ/ZXglxqwd2QEH2R4dXRltjVJ8sIn4xEW2BSFIGT0yALVJIgZeDYw==",
+      "dependencies": [
+        "tslib"
+      ]
+    },
+    "@supabase/functions-js@2.117.2": {
+      "integrity": "sha512-6DT4ZIjmZxa9ANKaBIrjc86AyKrX8M376ynvNeOBBVad3eP7x3UHqWfDR2ynFkHGzCuOpr1A+kObmnahxuwuog==",
+      "dependencies": [
+        "tslib"
+      ]
+    },
+    "@supabase/phoenix@0.4.5": {
+      "integrity": "sha512-aAn9H9ovVyeApKy11OWOrrOGq8DV68yWeH4ud2lN9fzn4aO8Zb5GLL9m1pUg9nLqIcT+ZDfAcsZe0E/nqdv2lw=="
+    },
+    "@supabase/postgrest-js@2.117.2": {
+      "integrity": "sha512-V1Qhn+M8xzJqCasOxHZ2KG19Fj39PxU7weEAmOK65/KTsWCRXboB4hcQwFvxRvM7ZikeP9IZWNvQkfjvSxzYFw==",
+      "dependencies": [
+        "tslib"
+      ]
+    },
+    "@supabase/realtime-js@2.117.2": {
+      "integrity": "sha512-lYXSAIg3eAKA58riUED6Vb+TCzF8jtx18uOoiCaVJ7ZMre6FWBpwB1MPeW+B6vykJT/hPdiuqwcSB7ILMS21ew==",
+      "dependencies": [
+        "@supabase/phoenix",
+        "tslib"
+      ]
+    },
+    "@supabase/storage-js@2.117.2": {
+      "integrity": "sha512-8gAJoVaxZa/War2kFRfJMxGk4M190Q7lJ70BofwGlRxU/u9pIodd6XyTvmXkxOKXWuIYtkDaYPZrIAUt1T/7FQ==",
+      "dependencies": [
+        "iceberg-js",
+        "tslib"
+      ]
+    },
+    "@supabase/supabase-js@2.117.2": {
+      "integrity": "sha512-eSG2VKnHR+Clp1PmidZ1/weJ8PJwoybjva3L2GgKqFG4YDS1Iqmc61psKGZP5xw6OMT2O7ZorPR42PY6q1BOXg==",
+      "dependencies": [
+        "@supabase/auth-js",
+        "@supabase/functions-js",
+        "@supabase/postgrest-js",
+        "@supabase/realtime-js",
+        "@supabase/storage-js"
+      ]
+    },
+    "iceberg-js@0.8.1": {
+      "integrity": "sha512-1dhVQZXhcHje7798IVM+xoo/1ZdVfzOMIc8/rgVSijRK38EDqOJoGula9N/8ZI5RD8QTxNQtK/Gozpr+qUqRRA=="
+    },
+    "tslib@2.8.1": {
+      "integrity": "sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w=="
+    }
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@expo-google-fonts/geist-mono@~0.4.3",
+        "npm:@expo-google-fonts/inter@~0.4.2",
+        "npm:@expo/ui@~57.0.20",
+        "npm:@posthog/react-native-plugin@^2.12.0",
+        "npm:@react-native-async-storage/async-storage@2.2.0",
+        "npm:@react-native-community/netinfo@12.0.1",
+        "npm:@supabase/supabase-js@^2.117.2",
+        "npm:@types/react@~19.2.2",
+        "npm:eslint-config-expo@~57.0.2",
+        "npm:eslint@9",
+        "npm:expo-apple-authentication@~57.0.2",
+        "npm:expo-application@~57.0.3",
+        "npm:expo-asset@~57.0.18",
+        "npm:expo-audio@~57.0.5",
+        "npm:expo-blur@~57.0.3",
+        "npm:expo-clipboard@~57.0.2",
+        "npm:expo-constants@~57.0.19",
+        "npm:expo-crypto@~57.0.3",
+        "npm:expo-device@~57.0.2",
+        "npm:expo-file-system@~57.0.7",
+        "npm:expo-font@~57.0.4",
+        "npm:expo-glass-effect@~57.0.4",
+        "npm:expo-haptics@~57.0.3",
+        "npm:expo-image-manipulator@~57.0.20",
+        "npm:expo-image-picker@~57.0.20",
+        "npm:expo-image@~57.0.5",
+        "npm:expo-linking@~57.0.11",
+        "npm:expo-localization@~57.0.2",
+        "npm:expo-notifications@~57.0.21",
+        "npm:expo-router@~57.0.23",
+        "npm:expo-sharing@~57.0.22",
+        "npm:expo-splash-screen@~57.0.9",
+        "npm:expo-status-bar@~57.0.1",
+        "npm:expo-store-review@~57.0.3",
+        "npm:expo-symbols@~57.0.3",
+        "npm:expo-system-ui@~57.0.4",
+        "npm:expo-web-browser@~57.0.3",
+        "npm:expo@~57.0.25",
+        "npm:i18next@^26.4.2",
+        "npm:lucide-react-native@^1.48.0",
+        "npm:posthog-react-native@^4.78.0",
+        "npm:react-dom@19.2.3",
+        "npm:react-i18next@^17.0.15",
+        "npm:react-native-gesture-handler@2.32",
+        "npm:react-native-purchases@^10.10.2",
+        "npm:react-native-qrcode-svg@^6.3.26",
+        "npm:react-native-reanimated@4.5.1",
+        "npm:react-native-safe-area-context@5.7",
+        "npm:react-native-screens@4.26",
+        "npm:react-native-svg@15.15.4",
+        "npm:react-native-url-polyfill@4",
+        "npm:react-native-view-shot@5.1.0",
+        "npm:react-native-web@0.21",
+        "npm:react-native-worklets@0.10.1",
+        "npm:react-native@0.86.3",
+        "npm:react@19.2.3",
+        "npm:typescript@~6.0.3"
+      ]
+    }
+  }
+}
